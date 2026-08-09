@@ -2,31 +2,109 @@
 
 :root {
   color-scheme: dark;
+  /* 大海主题色板 */
+  --ocean-deep: #051f3d;      /* 深海 */
+  --ocean-mid: #0a3d62;       /* 中层 */
+  --ocean-teal: #0e6e9c;      /* 青蓝 */
+  --ocean-light: #22a7c4;     /* 浅海 */
+  --foam: #e8f7ff;            /* 泡沫白 */
+  --sand: #ffe4a8;            /* 沙滩金 */
 }
 
 html,
 body {
-  background: #0a0b0d;
-  color: #e8e8e8;
+  background: var(--ocean-deep);
+  color: var(--foam);
   -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
 }
 
+/* ───────── 海洋背景层 ───────── */
+.ocean-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -2;
+  background: linear-gradient(180deg, #041a33 0%, var(--ocean-deep) 25%, var(--ocean-mid) 60%, var(--ocean-teal) 100%);
+}
+
+/* 波光：顶部微微扫过的光斑 */
+.ocean-sheen {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background:
+    radial-gradient(600px 300px at 20% 0%, rgba(126, 217, 255, 0.14), transparent 70%),
+    radial-gradient(500px 260px at 80% 8%, rgba(255, 228, 168, 0.08), transparent 70%);
+}
+
+/* ───────── 波浪动画 ───────── */
+.wave {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 200%;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.55;
+  animation: wave-slide 18s linear infinite;
+}
+.wave-2 {
+  bottom: -14px;
+  opacity: 0.35;
+  animation-duration: 26s;
+  animation-direction: reverse;
+}
+.wave-3 {
+  bottom: -28px;
+  opacity: 0.2;
+  animation-duration: 34s;
+}
+@keyframes wave-slide {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* ───────── 气泡 ───────── */
+.bubble {
+  position: fixed;
+  bottom: -60px;
+  z-index: -1;
+  border-radius: 9999px;
+  background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.08) 60%, transparent 70%);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  pointer-events: none;
+  animation: bubble-rise linear infinite;
+}
+@keyframes bubble-rise {
+  0% { transform: translateY(0) translateX(0); opacity: 0; }
+  10% { opacity: 0.7; }
+  90% { opacity: 0.5; }
+  100% { transform: translateY(-110vh) translateX(30px); opacity: 0; }
+}
+
+/* ───────── 卡片 ───────── */
 .kimi-card {
-  @apply rounded-2xl border border-[#25282C] bg-[#111215] p-5 lg:p-6 transition-all duration-200;
+  @apply rounded-2xl border border-white/10 bg-[rgba(10,48,84,0.55)] p-5 lg:p-6 backdrop-blur-md transition-all duration-200 shadow-[0_8px_32px_rgba(2,20,40,0.45)];
 }
 
 .kimi-btn-primary {
-  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition-all duration-200 bg-[#D0FF00] font-semibold text-black hover:brightness-110 hover:scale-[1.02] active:scale-[0.98];
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition-all duration-200 text-[#041a33] bg-gradient-to-r from-[#4fd1e5] to-[#7dd3fc] hover:brightness-110 hover:scale-[1.02] active:scale-[0.98] shadow-[0_4px_20px_rgba(79,209,229,0.35)];
 }
 
 .kimi-btn-secondary {
-  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition-all duration-200 border border-[#25282C] bg-[#1A1D21] text-[#E8E8E8] hover:border-[#D0FF00]/30 hover:text-white;
+  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition-all duration-200 border border-white/15 bg-[rgba(255,255,255,0.06)] text-[#dff4ff] hover:border-[#4fd1e5]/50 hover:bg-[rgba(79,209,229,0.12)] hover:text-white;
 }
 
 .kimi-page-title {
-  @apply text-2xl font-bold text-white lg:text-3xl;
+  @apply text-2xl font-bold text-white lg:text-3xl drop-shadow-[0_2px_12px_rgba(79,209,229,0.25)];
 }
 
 .kimi-page-subtitle {
-  @apply mt-1 text-sm text-[#9CA3AF];
+  @apply mt-1 text-sm text-[#b8dcef];
+}
+
+/* 品牌徽章 */
+.kimi-badge {
+  @apply rounded-md bg-gradient-to-r from-[#4fd1e5] to-[#7dd3fc] px-2 py-0.5 text-[10px] font-bold text-[#041a33];
 }

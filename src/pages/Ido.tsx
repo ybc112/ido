@@ -2,13 +2,14 @@ import { useState } from "react";
 import {
   Check,
   CheckCircle2,
-  CircleDollarSign,
   Copy,
   ExternalLink,
   Loader2,
-  ShieldCheck,
+  Ship,
+  Anchor,
   Wallet,
   AlertTriangle,
+  Waves,
 } from "lucide-react";
 import { useWallet } from "@/hooks/useWallet";
 import { useAppStore } from "@/store";
@@ -81,26 +82,24 @@ export default function Ido() {
   };
 
   const caps = [
-    { label: "软顶", value: IDO_SOFT_CAP_BNB, desc: "达到后 IDO 成功", color: "#D0FF00" },
-    { label: "硬顶", value: IDO_HARD_CAP_BNB, desc: "达到后停止接收", color: "#2EDEDB" },
+    { label: "软顶", value: IDO_SOFT_CAP_BNB, desc: "达到后 IDO 成功", color: "#7dd3fc" },
+    { label: "硬顶", value: IDO_HARD_CAP_BNB, desc: "达到后停止接收", color: "#ffe4a8" },
   ];
 
   return (
     <div className="mx-auto max-w-3xl space-y-5">
       {/* Hero */}
-      <div className="relative overflow-hidden rounded-2xl border border-[#25282C] bg-[#111215] p-6 lg:p-8">
-        <div className="absolute -right-12 -top-12 h-48 w-48 rounded-full bg-[#D0FF00]/10 blur-3xl" />
-        <div className="absolute bottom-0 left-1/4 h-32 w-32 rounded-full bg-[#2EDEDB]/10 blur-3xl" />
+      <div className="relative overflow-hidden rounded-2xl border border-white/10 bg-[rgba(10,48,84,0.55)] p-6 backdrop-blur-md lg:p-8">
+        <div className="absolute -right-12 -top-12 h-48 w-48 rounded-full bg-[#4fd1e5]/15 blur-3xl" />
+        <div className="absolute bottom-0 left-1/4 h-32 w-32 rounded-full bg-[#ffe4a8]/10 blur-3xl" />
         <div className="relative">
           <div className="flex items-center gap-3">
-            <span className="rounded-md bg-[#D0FF00] px-2 py-0.5 text-[10px] font-bold text-black">
-              IDO
-            </span>
-            <span className="rounded-md border border-[#25282C] px-2 py-0.5 text-[10px] text-[#9CA3AF]">
+            <span className="kimi-badge">IDO · 大海预售</span>
+            <span className="rounded-md border border-white/10 px-2 py-0.5 text-[10px] text-[#b8dcef]">
               KIMI AI · KIMIAI
             </span>
           </div>
-          <h1 className="kimi-page-title mt-3">KIMIAI 预售 · 直接转账参与</h1>
+          <h1 className="kimi-page-title mt-3">🌊 KIMIAI 预售 · 直接转账参与</h1>
           <p className="kimi-page-subtitle">
             向指定收款地址转账 BNB 即完成认购，0.1 ~ 0.5 BNB / 份（0.1 步进），
             无智能合约、无中间环节，转多少记多少。
@@ -109,10 +108,10 @@ export default function Ido() {
           <div className="mt-6 grid grid-cols-2 gap-4">
             {caps.map((cap) => (
               <div key={cap.label} className="kimi-card">
-                <p className="text-xs text-[#6B7280]">{cap.label}</p>
+                <p className="text-xs text-[#8fb9d6]">{cap.label}</p>
                 <p className="mt-1 text-2xl font-bold text-white">
                   {cap.value}
-                  <span className="ml-1 text-sm font-medium text-[#9CA3AF]">BNB</span>
+                  <span className="ml-1 text-sm font-medium text-[#b8dcef]">BNB</span>
                 </p>
                 <p className="mt-1 text-xs" style={{ color: cap.color }}>
                   {cap.desc}
@@ -122,7 +121,7 @@ export default function Ido() {
           </div>
 
           {/* IDO 进度条：已募金额 = 收款地址链上 BNB 余额，15s 轮询 */}
-          <div className="mt-6 rounded-xl border border-[#25282C] bg-[#0A0B0D] p-4">
+          <div className="mt-6 rounded-xl border border-white/10 bg-[rgba(2,20,40,0.5)] p-4">
             <IdoProgress />
           </div>
         </div>
@@ -131,10 +130,10 @@ export default function Ido() {
       {/* Amount picker */}
       <div className="kimi-card">
         <h2 className="mb-1 flex items-center gap-2 text-base font-semibold text-white">
-          <CircleDollarSign className="h-4 w-4 text-[#D0FF00]" />
+          <Anchor className="h-4 w-4 text-[#4fd1e5]" />
           选择认购金额
         </h2>
-        <p className="mb-4 text-xs text-[#6B7280]">
+        <p className="mb-4 text-xs text-[#8fb9d6]">
           每份 0.1 ~ 0.5 BNB，按 0.1 的倍数选择
         </p>
         <div className="grid grid-cols-5 gap-2">
@@ -145,8 +144,8 @@ export default function Ido() {
               className={cn(
                 "rounded-xl border py-3 text-sm font-bold transition-all",
                 amount === option
-                  ? "border-[#D0FF00] bg-[#D0FF00]/10 text-[#D0FF00]"
-                  : "border-[#25282C] bg-[#0A0B0D] text-[#9CA3AF] hover:border-[#D0FF00]/30 hover:text-white",
+                  ? "border-[#4fd1e5] bg-[#4fd1e5]/15 text-[#7dd3fc] shadow-[0_0_16px_rgba(79,209,229,0.25)]"
+                  : "border-white/15 bg-[rgba(255,255,255,0.05)] text-[#b8dcef] hover:border-[#4fd1e5]/40 hover:text-white",
               )}
             >
               {option}
@@ -158,35 +157,35 @@ export default function Ido() {
       {/* Receiver address */}
       <div className="kimi-card">
         <h2 className="mb-1 flex items-center gap-2 text-base font-semibold text-white">
-          <ShieldCheck className="h-4 w-4 text-[#2EDEDB]" />
+          <Ship className="h-4 w-4 text-[#4fd1e5]" />
           收款地址（BSC / BNB）
         </h2>
-        <p className="mb-4 text-xs text-[#6B7280]">
+        <p className="mb-4 text-xs text-[#8fb9d6]">
           请务必核对地址后再转账，链上转账不可逆
         </p>
-        <div className="flex items-center gap-3 rounded-xl border border-[#25282C] bg-[#0A0B0D] p-4">
-          <code className="min-w-0 flex-1 break-all font-mono text-sm text-[#D0FF00]">
+        <div className="flex items-center gap-3 rounded-xl border border-white/10 bg-[rgba(2,20,40,0.5)] p-4">
+          <code className="min-w-0 flex-1 break-all font-mono text-sm text-[#7dd3fc]">
             {IDO_RECEIVER_ADDRESS}
           </code>
           <button
             onClick={copyAddress}
-            className="shrink-0 rounded-lg border border-[#25282C] bg-[#111215] p-2 text-[#9CA3AF] transition hover:border-[#D0FF00]/30 hover:text-white"
+            className="shrink-0 rounded-lg border border-white/15 bg-[rgba(255,255,255,0.06)] p-2 text-[#b8dcef] transition hover:border-[#4fd1e5]/50 hover:text-white"
             title="复制地址"
           >
-            {copied ? <Check className="h-4 w-4 text-[#D0FF00]" /> : <Copy className="h-4 w-4" />}
+            {copied ? <Check className="h-4 w-4 text-[#7dd3fc]" /> : <Copy className="h-4 w-4" />}
           </button>
           <a
             href={`https://bscscan.com/address/${IDO_RECEIVER_ADDRESS}`}
             target="_blank"
             rel="noreferrer"
-            className="shrink-0 rounded-lg border border-[#25282C] bg-[#111215] p-2 text-[#9CA3AF] transition hover:border-[#2EDEDB]/30 hover:text-white"
+            className="shrink-0 rounded-lg border border-white/15 bg-[rgba(255,255,255,0.06)] p-2 text-[#b8dcef] transition hover:border-[#4fd1e5]/50 hover:text-white"
             title="在 BscScan 查看"
           >
             <ExternalLink className="h-4 w-4" />
           </a>
         </div>
-        <div className="mt-3 flex items-center gap-2 text-xs text-[#6B7280]">
-          <span className="rounded bg-[#0A0B0D] px-2 py-1 font-mono">
+        <div className="mt-3 flex items-center gap-2 text-xs text-[#8fb9d6]">
+          <span className="rounded bg-[rgba(2,20,40,0.5)] px-2 py-1 font-mono">
             {shortIdoAddress(IDO_RECEIVER_ADDRESS)}
           </span>
           <span>链上地址，转账即参与，无需注册</span>
@@ -195,10 +194,10 @@ export default function Ido() {
 
       {/* Actions */}
       <div className="kimi-card">
-        <div className="mb-4 flex items-center justify-between rounded-xl border border-[#25282C] bg-[#0A0B0D] px-4 py-3">
-          <span className="text-sm text-[#9CA3AF]">本次转账</span>
+        <div className="mb-4 flex items-center justify-between rounded-xl border border-white/10 bg-[rgba(2,20,40,0.5)] px-4 py-3">
+          <span className="text-sm text-[#b8dcef]">本次转账</span>
           <span className="text-lg font-bold text-white">
-            {amount} <span className="text-sm font-medium text-[#D0FF00]">BNB</span>
+            {amount} <span className="text-sm font-medium text-[#7dd3fc]">BNB</span>
           </span>
         </div>
 
@@ -213,7 +212,7 @@ export default function Ido() {
             ) : !wallet.isConnected ? (
               <Wallet className="h-4 w-4" />
             ) : (
-              <CircleDollarSign className="h-4 w-4" />
+              <Waves className="h-4 w-4" />
             )}
             {sending
               ? "转账中…"
@@ -233,7 +232,7 @@ export default function Ido() {
         </div>
 
         {!wallet.isConnected && (
-          <p className="mt-3 text-center text-xs text-[#6B7280]">
+          <p className="mt-3 text-center text-xs text-[#8fb9d6]">
             也可以不连接钱包：复制收款地址，在任意钱包/交易所直接转账
           </p>
         )}
@@ -241,18 +240,18 @@ export default function Ido() {
 
       {/* 参与成功反馈 */}
       {result && (
-        <div className="rounded-2xl border border-[#D0FF00]/30 bg-[#D0FF00]/5 p-5">
-          <div className="flex items-center gap-2 text-[#D0FF00]">
+        <div className="rounded-2xl border border-[#4fd1e5]/35 bg-[rgba(34,167,196,0.12)] p-5 backdrop-blur-md">
+          <div className="flex items-center gap-2 text-[#7dd3fc]">
             <CheckCircle2 className="h-5 w-5" />
             <span className="font-bold">参与成功 🎉</span>
           </div>
-          <p className="mt-2 text-sm text-[#9CA3AF]">
+          <p className="mt-2 text-sm text-[#b8dcef]">
             已向收款地址转账{" "}
             <span className="font-bold text-white">{result.amount} BNB</span>
             ，交易已上链确认，认购记录已生成。
           </p>
-          <div className="mt-3 flex items-center gap-2 rounded-xl border border-[#25282C] bg-[#0A0B0D] px-3 py-2">
-            <code className="min-w-0 flex-1 break-all font-mono text-xs text-[#2EDEDB]">
+          <div className="mt-3 flex items-center gap-2 rounded-xl border border-white/10 bg-[rgba(2,20,40,0.5)] px-3 py-2">
+            <code className="min-w-0 flex-1 break-all font-mono text-xs text-[#7dd3fc]">
               {result.hash}
             </code>
             <button
@@ -264,7 +263,7 @@ export default function Ido() {
                   /* ignore */
                 }
               }}
-              className="shrink-0 rounded-lg p-1 text-[#9CA3AF] transition hover:text-white"
+              className="shrink-0 rounded-lg p-1 text-[#b8dcef] transition hover:text-white"
               title="复制交易哈希"
             >
               <Copy className="h-3.5 w-3.5" />
@@ -273,13 +272,13 @@ export default function Ido() {
               href={`https://bscscan.com/tx/${result.hash}`}
               target="_blank"
               rel="noreferrer"
-              className="shrink-0 rounded-lg p-1 text-[#9CA3AF] transition hover:text-white"
+              className="shrink-0 rounded-lg p-1 text-[#b8dcef] transition hover:text-white"
               title="在 BscScan 查看交易"
             >
               <ExternalLink className="h-3.5 w-3.5" />
             </a>
           </div>
-          <p className="mt-3 text-xs text-[#6B7280]">
+          <p className="mt-3 text-xs text-[#8fb9d6]">
             平台人工确认后将计入认购份额；上方进度条将在几秒内自动刷新。
           </p>
         </div>
@@ -288,7 +287,7 @@ export default function Ido() {
       {/* Steps & warning */}
       <div className="kimi-card">
         <h3 className="mb-3 text-sm font-semibold text-white">参与步骤</h3>
-        <ol className="space-y-2 text-sm text-[#9CA3AF]">
+        <ol className="space-y-2 text-sm text-[#b8dcef]">
           <li>1. 选择认购金额（0.1 ~ 0.5 BNB，0.1 步进）</li>
           <li>2. 复制上方收款地址，务必在 BNB Smart Chain 网络发起转账</li>
           <li>3. 转出后保留交易哈希，平台人工确认后计入认购份额</li>

@@ -53,18 +53,18 @@ export function IdoProgress({ compact = false }: { compact?: boolean }) {
             : "mb-2 flex items-center justify-between text-sm"
         }
       >
-        <span className="text-[#9CA3AF]">
+        <span className="text-[#b8dcef]">
           已募{" "}
           <span className="font-bold text-white">
             {raisedBNB === null ? "--" : raisedBNB.toFixed(2)}
           </span>{" "}
           / {IDO_HARD_CAP_BNB} BNB
         </span>
-        <span className="text-[#6B7280]">
+        <span className="text-[#8fb9d6]">
           {full ? (
-            <span className="font-bold text-[#2EDEDB]">已满额 🎉</span>
+            <span className="font-bold text-[#ffe4a8]">已满额 🎉</span>
           ) : softReached ? (
-            <span className="font-bold text-[#D0FF00]">软顶已达成</span>
+            <span className="font-bold text-[#7dd3fc]">软顶已达成</span>
           ) : (
             `软顶 ${IDO_SOFT_CAP_BNB} BNB`
           )}
@@ -73,17 +73,17 @@ export function IdoProgress({ compact = false }: { compact?: boolean }) {
       <div
         className={
           compact
-            ? "relative h-1.5 overflow-hidden rounded-full bg-[#25282C]"
-            : "relative h-2.5 overflow-hidden rounded-full bg-[#25282C]"
+            ? "relative h-1.5 overflow-hidden rounded-full bg-[rgba(255,255,255,0.1)]"
+            : "relative h-2.5 overflow-hidden rounded-full bg-[rgba(255,255,255,0.1)]"
         }
       >
         <div
-          className="h-full rounded-full bg-gradient-to-r from-[#D0FF00] to-[#2EDEDB] transition-all duration-700"
+          className="h-full rounded-full bg-gradient-to-r from-[#4fd1e5] to-[#7dd3fc] transition-all duration-700"
           style={{ width: `${percent}%` }}
         />
         {/* 软顶刻度线 */}
         <div
-          className="absolute top-0 h-full w-px bg-[#9CA3AF]/70"
+          className="absolute top-0 h-full w-px bg-[#ffe4a8]/80"
           style={{ left: `${softTick}%` }}
           title={`软顶 ${IDO_SOFT_CAP_BNB} BNB`}
         />
