@@ -1,0 +1,539 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "token_",
+          "type": "address"
+        },
+        {
+          "internalType": "address",
+          "name": "signer_",
+          "type": "address"
+        },
+        {
+          "internalType": "uint256",
+          "name": "maxClaimPerTx_",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "dailyClaimCap_",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "inputs": [],
+      "name": "ClaimCapExceeded",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "DailyCapExceeded",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "Expired",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "InvalidAmount",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "InvalidNonce",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "InvalidSignature",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "OnlyOwner",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "Paused",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "TransferFailed",
+      "type": "error"
+    },
+    {
+      "inputs": [],
+      "name": "ZeroAddress",
+      "type": "error"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "player",
+          "type": "address"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "nonce",
+          "type": "uint256"
+        }
+      ],
+      "name": "Claimed",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "value",
+          "type": "uint256"
+        }
+      ],
+      "name": "DailyClaimCapUpdated",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "player",
+          "type": "address"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "totalDeposited",
+          "type": "uint256"
+        }
+      ],
+      "name": "Deposited",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "from",
+          "type": "address"
+        },
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "Funded",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "uint256",
+          "name": "value",
+          "type": "uint256"
+        }
+      ],
+      "name": "MaxClaimPerTxUpdated",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "OwnerUpdated",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": false,
+          "internalType": "bool",
+          "name": "paused",
+          "type": "bool"
+        }
+      ],
+      "name": "PausedChanged",
+      "type": "event"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "newSigner",
+          "type": "address"
+        }
+      ],
+      "name": "SignerUpdated",
+      "type": "event"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "player",
+          "type": "address"
+        }
+      ],
+      "name": "availableBalance",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "nonce",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "deadline",
+          "type": "uint256"
+        },
+        {
+          "internalType": "bytes",
+          "name": "signature",
+          "type": "bytes"
+        }
+      ],
+      "name": "claimReward",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "claimed",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "dailyClaimCap",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "dailyClaimed",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "deposit",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "deposited",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "amount",
+          "type": "uint256"
+        }
+      ],
+      "name": "fundPool",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "gameToken",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "lastClaimDay",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "maxClaimPerTx",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "name": "nonces",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "owner",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "paused",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "",
+          "type": "bool"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "poolBalance",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "value",
+          "type": "uint256"
+        }
+      ],
+      "name": "setDailyClaimCap",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "uint256",
+          "name": "value",
+          "type": "uint256"
+        }
+      ],
+      "name": "setMaxClaimPerTx",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "bool",
+          "name": "value",
+          "type": "bool"
+        }
+      ],
+      "name": "setPaused",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "newSigner",
+          "type": "address"
+        }
+      ],
+      "name": "setSigner",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "signer",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "transferOwnership",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x60a060405234801561000f575f5ffd5b50604051610fce380380610fce83398101604081905261002e916100c0565b6001600160a01b038416158061004b57506001600160a01b038316155b156100695760405163d92e233d60e01b815260040160405180910390fd5b6001600160a01b039384166080525f8054939094166001600160a01b031993841617909355600180549092163317909155600555600655610100565b80516001600160a01b03811681146100bb575f5ffd5b919050565b5f5f5f5f608085870312156100d3575f5ffd5b6100dc856100a5565b93506100ea602086016100a5565b6040860151606090960151949790965092505050565b608051610e9a6101345f395f81816102580152818161061001528181610794015281816108c60152610a6d0152610e9a5ff3fe608060405234801561000f575f5ffd5b5060043610610132575f3560e01c8063a0821be3116100b4578063cb13cddb11610079578063cb13cddb146102b8578063d43cd80d146102d7578063d4a3a2ba146102e0578063da3a5f72146102f3578063f291ccc214610306578063f2fde38b14610319575f5ffd5b8063a0821be31461022d578063b6b55f2514610240578063c3dfdae614610253578063c673c4cb1461027a578063c884ef8314610299575f5ffd5b80636c19e783116100fa5780636c19e783146101c15780637ecebe00146101d45780638911f793146101f35780638da5cb5b1461021257806396365d4414610225575f5ffd5b806316c38b3c146101365780631ffe71021461014b578063238ac933146101675780635c975abb146101915780636209deb4146101ae575b5f5ffd5b610149610144366004610cf3565b61032c565b005b61015460065481565b6040519081526020015b60405180910390f35b5f54610179906001600160a01b031681565b6040516001600160a01b03909116815260200161015e565b60095461019e9060ff1681565b604051901515815260200161015e565b6101496101bc366004610d15565b61039f565b6101496101cf366004610d9c565b6106e4565b6101546101e2366004610d9c565b60046020525f908152604090205481565b610154610201366004610d9c565b60086020525f908152604090205481565b600154610179906001600160a01b031681565b61015461077d565b61015461023b366004610d9c565b61080a565b61014961024e366004610dc2565b61083d565b6101797f000000000000000000000000000000000000000000000000000000000000000081565b610154610288366004610d9c565b60076020525f908152604090205481565b6101546102a7366004610d9c565b60036020525f908152604090205481565b6101546102c6366004610d9c565b60026020525f908152604090205481565b61015460055481565b6101496102ee366004610dc2565b6109a0565b610149610301366004610dc2565b610a00565b610149610314366004610dc2565b610b2e565b610149610327366004610d9c565b610b8e565b6001546001600160a01b0316331461035757604051635fc483c560e01b815260040160405180910390fd5b6009805460ff19168215159081179091556040519081527fd83d5281277e107f080e362699d46082adb74e7dc6a9bccbc87d8ae9533add44906020015b60405180910390a150565b60095460ff16156103c3576040516313d0ff5960e31b815260040160405180910390fd5b845f036103e35760405163162908e360e11b815260040160405180910390fd5b8242111561040457604051630407b05b60e31b815260040160405180910390fd5b335f90815260046020526040902054841461043257604051633ab3447f60e11b815260040160405180910390fd5b5f600554118015610444575060055485115b1561046257604051630c3d1ed360e11b815260040160405180910390fd5b5f6104706201518042610ded565b600654909150156104fe57335f908152600860205260408120548214610496575f6104a6565b335f908152600760205260409020545b6006549091506104b68883610e0c565b11156104d55760405163cc70389d60e01b815260040160405180910390fd5b6104df8782610e0c565b335f908152600760209081526040808320939093556008905220829055505b6040805146602082015230918101919091523360608201526080810187905260a0810186905260c081018590525f9060e0016040516020818303038152906040528051906020012090505f6105888286868080601f0160208091040260200160405190810160405280939291908181526020018383808284375f92019190915250610c2992505050565b5f549091506001600160a01b038083169116146105b857604051638baa579f60e01b815260040160405180910390fd5b6105c3876001610e0c565b335f908152600460209081526040808320939093556003905290812080548a92906105ef908490610e0c565b909155505060405163a9059cbb60e01b8152336004820152602481018990527f00000000000000000000000000000000000000000000000000000000000000006001600160a01b03169063a9059cbb906044016020604051808303815f875af115801561065e573d5f5f3e3d5ffd5b505050506040513d601f19601f820116820180604052508101906106829190610e1f565b61069f576040516312171d8360e31b815260040160405180910390fd5b604080518981526020810189905233917f987d620f307ff6b94d58743cb7a7509f24071586a77759b77c2d4e29f75a2f9a910160405180910390a25050505050505050565b6001546001600160a01b0316331461070f57604051635fc483c560e01b815260040160405180910390fd5b6001600160a01b0381166107365760405163d92e233d60e01b815260040160405180910390fd5b5f80546001600160a01b0319166001600160a01b038316908117825560405190917f5553331329228fbd4123164423717a4a7539f6dfa1c3279a923b98fd681a6c7391a250565b6040516370a0823160e01b81523060048201525f907f00000000000000000000000000000000000000000000000000000000000000006001600160a01b0316906370a0823190602401602060405180830381865afa1580156107e1573d5f5f3e3d5ffd5b505050506040513d601f19601f820116820180604052508101906108059190610e3a565b905090565b6001600160a01b0381165f9081526003602090815260408083205460029092528220546108379190610e51565b92915050565b60095460ff1615610861576040516313d0ff5960e31b815260040160405180910390fd5b805f036108815760405163162908e360e11b815260040160405180910390fd5b335f908152600260205260408120805483929061089f908490610e0c565b90915550506040516323b872dd60e01b8152336004820152306024820152604481018290527f00000000000000000000000000000000000000000000000000000000000000006001600160a01b0316906323b872dd906064016020604051808303815f875af1158015610914573d5f5f3e3d5ffd5b505050506040513d601f19601f820116820180604052508101906109389190610e1f565b610955576040516312171d8360e31b815260040160405180910390fd5b335f81815260026020908152604091829020548251858152918201527f73a19dd210f1a7f902193214c0ee91dd35ee5b4d920cba8d519eca65a7b488ca91015b60405180910390a250565b6001546001600160a01b031633146109cb57604051635fc483c560e01b815260040160405180910390fd5b60058190556040518181527ff457596945dfcbc1c46c8c7d8beec7de1e2e735eef5bc822fddd54fe3818c95f90602001610394565b6001546001600160a01b03163314610a2b57604051635fc483c560e01b815260040160405180910390fd5b805f03610a4b5760405163162908e360e11b815260040160405180910390fd5b6040516323b872dd60e01b8152336004820152306024820152604481018290527f00000000000000000000000000000000000000000000000000000000000000006001600160a01b0316906323b872dd906064016020604051808303815f875af1158015610abb573d5f5f3e3d5ffd5b505050506040513d601f19601f82011682018060405250810190610adf9190610e1f565b610afc576040516312171d8360e31b815260040160405180910390fd5b60405181815233907f5af8184bef8e4b45eb9f6ed7734d04da38ced226495548f46e0c8ff8d7d9a52490602001610995565b6001546001600160a01b03163314610b5957604051635fc483c560e01b815260040160405180910390fd5b60068190556040518181527fd50837dc766aba9957200ac43b5ac0a84fe6364a8f02208fed06f6ab3917e3a790602001610394565b6001546001600160a01b03163314610bb957604051635fc483c560e01b815260040160405180910390fd5b6001600160a01b038116610be05760405163d92e233d60e01b815260040160405180910390fd5b600180546001600160a01b0319166001600160a01b0383169081179091556040517f4ffd725fc4a22075e9ec71c59edf9c38cdeb588a91b24fc5b61388c5be41282b905f90a250565b5f8151604114610c3a57505f610837565b6020820151604083015160608401515f1a7f7fffffffffffffffffffffffffffffff5d576e7357a4501ddfe92f46681b20a0821115610c7e575f9350505050610837565b604080515f81526020810180835288905260ff831691810191909152606081018490526080810183905260019060a0016020604051602081039080840390855afa158015610cce573d5f5f3e3d5ffd5b5050604051601f190151979650505050505050565b8015158114610cf0575f5ffd5b50565b5f60208284031215610d03575f5ffd5b8135610d0e81610ce3565b9392505050565b5f5f5f5f5f60808688031215610d29575f5ffd5b853594506020860135935060408601359250606086013567ffffffffffffffff811115610d54575f5ffd5b8601601f81018813610d64575f5ffd5b803567ffffffffffffffff811115610d7a575f5ffd5b886020828401011115610d8b575f5ffd5b959894975092955050506020019190565b5f60208284031215610dac575f5ffd5b81356001600160a01b0381168114610d0e575f5ffd5b5f60208284031215610dd2575f5ffd5b5035919050565b634e487b7160e01b5f52601160045260245ffd5b5f82610e0757634e487b7160e01b5f52601260045260245ffd5b500490565b8082018082111561083757610837610dd9565b5f60208284031215610e2f575f5ffd5b8151610d0e81610ce3565b5f60208284031215610e4a575f5ffd5b5051919050565b8181038181111561083757610837610dd956fea264697066735822122025849dbe7f33a566a78df4e16b7cecc140d3504112c4a45ec6b198a62bbe7b2164736f6c634300081c0033"
+}
