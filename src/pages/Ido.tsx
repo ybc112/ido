@@ -94,7 +94,7 @@ export default function Ido() {
         <div className="absolute bottom-0 left-1/4 h-32 w-32 rounded-full bg-[#ffe4a8]/10 blur-3xl" />
         <div className="relative">
           <div className="flex items-center gap-3">
-            <span className="kimi-badge">IDO · 大海预售</span>
+            <span className="kimi-badge">IDO · 出海预售</span>
             <span className="rounded-md border border-white/10 px-2 py-0.5 text-[10px] text-[#b8dcef]">
               KIMI AI · KIMIAI
             </span>
@@ -105,10 +105,10 @@ export default function Ido() {
             无智能合约、无中间环节，转多少记多少。
           </p>
 
-          {/* 大海风格海报 */}
+          {/* 出海风格海报 */}
           <img
             src="/ido-poster.jpg"
-            alt="KIMIAI IDO 大海预售海报"
+            alt="KIMIAI IDO 出海预售海报"
             className="mx-auto mt-6 w-full max-w-md rounded-2xl border border-white/15 shadow-[0_12px_40px_rgba(2,20,40,0.5)]"
           />
 

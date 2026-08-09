@@ -1,6 +1,6 @@
 import { useMemo } from "react";
 
-/** 大海风格背景：深海渐变 + 三层波浪动画 + 浮动气泡 */
+/** 出海风格背景：深海渐变 + 三层波浪动画 + 浮动气泡 */
 export function OceanBackground() {
   const bubbles = useMemo(
     () =>
