@@ -105,6 +105,13 @@ export default function Ido() {
             无智能合约、无中间环节，转多少记多少。
           </p>
 
+          {/* 大海风格海报 */}
+          <img
+            src="/ido-poster.jpg"
+            alt="KIMIAI IDO 大海预售海报"
+            className="mx-auto mt-6 w-full max-w-md rounded-2xl border border-white/15 shadow-[0_12px_40px_rgba(2,20,40,0.5)]"
+          />
+
           <div className="mt-6 grid grid-cols-2 gap-4">
             {caps.map((cap) => (
               <div key={cap.label} className="kimi-card">
