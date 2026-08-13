@@ -2,109 +2,260 @@
 
 :root {
   color-scheme: dark;
-  /* 出海主题色板 */
-  --ocean-deep: #051f3d;      /* 深海 */
-  --ocean-mid: #0a3d62;       /* 中层 */
-  --ocean-teal: #0e6e9c;      /* 青蓝 */
-  --ocean-light: #22a7c4;     /* 浅海 */
-  --foam: #e8f7ff;            /* 泡沫白 */
-  --sand: #ffe4a8;            /* 沙滩金 */
+  /* 黑金主题 */
+  --ink: #07070b; /* 主背景 */
+  --ink-soft: #0d0d14; /* 次级背景 */
+  --gold: #e8b95e; /* 主金 */
+  --gold-bright: #ffd98a; /* 亮金 */
+  --gold-deep: #a97f2f; /* 暗金 */
+  --cream: #f7f1e3; /* 暖白 */
+  --muted: #9a927e; /* 灰金 */
+  --line: rgba(232, 185, 94, 0.16); /* 金色细线 */
 }
 
 html,
 body {
-  background: var(--ocean-deep);
-  color: var(--foam);
+  background: var(--ink);
+  color: var(--cream);
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
 }
 
-/* ───────── 海洋背景层 ───────── */
-.ocean-bg {
+::selection {
+  background: rgba(232, 185, 94, 0.35);
+  color: #fff;
+}
+
+/* ───────── 背景层：黑曜石 + 金色光晕 ───────── */
+.site-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -3;
+  background:
+    radial-gradient(900px 500px at 15% -10%, rgba(232, 185, 94, 0.13), transparent 60%),
+    radial-gradient(800px 500px at 85% 10%, rgba(180, 120, 40, 0.1), transparent 55%),
+    radial-gradient(1000px 700px at 50% 120%, rgba(90, 60, 20, 0.16), transparent 60%),
+    linear-gradient(180deg, #050508 0%, var(--ink) 40%, #0a0910 100%);
+}
+
+/* 细网格 */
+.site-grid {
   position: fixed;
   inset: 0;
   z-index: -2;
-  background: linear-gradient(180deg, #041a33 0%, var(--ocean-deep) 25%, var(--ocean-mid) 60%, var(--ocean-teal) 100%);
-}
-
-/* 波光：顶部微微扫过的光斑 */
-.ocean-sheen {
-  position: fixed;
-  inset: 0;
-  z-index: -1;
   pointer-events: none;
-  background:
-    radial-gradient(600px 300px at 20% 0%, rgba(126, 217, 255, 0.14), transparent 70%),
-    radial-gradient(500px 260px at 80% 8%, rgba(255, 228, 168, 0.08), transparent 70%);
+  background-image:
+    linear-gradient(rgba(232, 185, 94, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(232, 185, 94, 0.045) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(ellipse 90% 70% at 50% 0%, black 20%, transparent 75%);
 }
 
-/* ───────── 波浪动画 ───────── */
-.wave {
-  position: fixed;
-  bottom: 0;
-  left: 0;
-  width: 200%;
-  z-index: -1;
-  pointer-events: none;
-  opacity: 0.55;
-  animation: wave-slide 18s linear infinite;
-}
-.wave-2 {
-  bottom: -14px;
-  opacity: 0.35;
-  animation-duration: 26s;
-  animation-direction: reverse;
-}
-.wave-3 {
-  bottom: -28px;
-  opacity: 0.2;
-  animation-duration: 34s;
-}
-@keyframes wave-slide {
-  from { transform: translateX(0); }
-  to { transform: translateX(-50%); }
-}
-
-/* ───────── 气泡 ───────── */
-.bubble {
-  position: fixed;
-  bottom: -60px;
-  z-index: -1;
+/* 浮动金色粒子 */
+.gold-particle {
+  position: absolute;
   border-radius: 9999px;
-  background: radial-gradient(circle at 30% 30%, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.08) 60%, transparent 70%);
-  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: radial-gradient(circle at 35% 35%, var(--gold-bright), var(--gold-deep));
+  opacity: 0.5;
+  filter: blur(0.5px);
+  animation: particle-float linear infinite;
   pointer-events: none;
-  animation: bubble-rise linear infinite;
 }
-@keyframes bubble-rise {
-  0% { transform: translateY(0) translateX(0); opacity: 0; }
-  10% { opacity: 0.7; }
-  90% { opacity: 0.5; }
-  100% { transform: translateY(-110vh) translateX(30px); opacity: 0; }
-}
-
-/* ───────── 卡片 ───────── */
-.kimi-card {
-  @apply rounded-2xl border border-white/10 bg-[rgba(10,48,84,0.55)] p-5 lg:p-6 backdrop-blur-md transition-all duration-200 shadow-[0_8px_32px_rgba(2,20,40,0.45)];
-}
-
-.kimi-btn-primary {
-  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-semibold transition-all duration-200 text-[#041a33] bg-gradient-to-r from-[#4fd1e5] to-[#7dd3fc] hover:brightness-110 hover:scale-[1.02] active:scale-[0.98] shadow-[0_4px_20px_rgba(79,209,229,0.35)];
-}
-
-.kimi-btn-secondary {
-  @apply inline-flex items-center justify-center gap-2 rounded-xl px-4 py-2.5 text-sm font-medium transition-all duration-200 border border-white/15 bg-[rgba(255,255,255,0.06)] text-[#dff4ff] hover:border-[#4fd1e5]/50 hover:bg-[rgba(79,209,229,0.12)] hover:text-white;
+@keyframes particle-float {
+  0% {
+    transform: translateY(0) translateX(0);
+    opacity: 0;
+  }
+  12% {
+    opacity: 0.6;
+  }
+  85% {
+    opacity: 0.25;
+  }
+  100% {
+    transform: translateY(-110vh) translateX(24px);
+    opacity: 0;
+  }
 }
 
-.kimi-page-title {
-  @apply text-2xl font-bold text-white lg:text-3xl drop-shadow-[0_2px_12px_rgba(79,209,229,0.25)];
+/* ───────── 玻璃拟态卡片 ───────── */
+.glass-card {
+  position: relative;
+  border: 1px solid rgba(232, 185, 94, 0.14);
+  background: linear-gradient(160deg, rgba(255, 255, 255, 0.055), rgba(255, 255, 255, 0.015));
+  backdrop-filter: blur(14px);
+  border-radius: 1.25rem;
+  transition:
+    border-color 0.35s ease,
+    transform 0.35s ease,
+    box-shadow 0.35s ease,
+    background 0.35s ease;
+}
+.glass-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 1px;
+  border-radius: 1.25rem 1.25rem 0 0;
+  background: linear-gradient(90deg, transparent, rgba(255, 217, 138, 0.55), transparent);
+  opacity: 0;
+  transition: opacity 0.35s ease;
+}
+.glass-card:hover {
+  transform: translateY(-3px);
+  border-color: rgba(232, 185, 94, 0.38);
+  box-shadow: 0 18px 50px -18px rgba(232, 185, 94, 0.25);
+}
+.glass-card:hover::before {
+  opacity: 1;
 }
 
-.kimi-page-subtitle {
-  @apply mt-1 text-sm text-[#b8dcef];
+/* ───────── 金色文字 ───────── */
+.gold-text {
+  background: linear-gradient(100deg, var(--gold-deep) 0%, var(--gold-bright) 38%, var(--gold) 55%, var(--gold-bright) 72%, var(--gold-deep) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
-/* 品牌徽章 */
-.kimi-badge {
-  @apply rounded-md bg-gradient-to-r from-[#4fd1e5] to-[#7dd3fc] px-2 py-0.5 text-[10px] font-bold text-[#041a33];
+/* ───────── 金色按钮 ───────── */
+.gold-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.9rem;
+  padding: 0.8rem 1.7rem;
+  font-weight: 700;
+  color: #1a1407;
+  background: linear-gradient(120deg, #f2cd7d, #e8b95e 45%, #c9963f);
+  box-shadow:
+    0 10px 30px -10px rgba(232, 185, 94, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.45);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, filter 0.25s ease;
+}
+.gold-btn:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.06);
+  box-shadow:
+    0 16px 42px -12px rgba(232, 185, 94, 0.7),
+    inset 0 1px 0 rgba(255, 255, 255, 0.45);
+}
+.gold-btn:active {
+  transform: translateY(0);
+}
+
+.ghost-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 0.9rem;
+  padding: 0.8rem 1.7rem;
+  font-weight: 600;
+  color: var(--gold);
+  border: 1px solid rgba(232, 185, 94, 0.4);
+  background: rgba(232, 185, 94, 0.06);
+  transition: all 0.25s ease;
+}
+.ghost-btn:hover {
+  background: rgba(232, 185, 94, 0.14);
+  border-color: rgba(232, 185, 94, 0.7);
+  transform: translateY(-2px);
+}
+
+/* ───────── 发光徽章 ───────── */
+.gold-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border-radius: 9999px;
+  padding: 0.3rem 0.85rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--gold-bright);
+  border: 1px solid rgba(232, 185, 94, 0.3);
+  background: rgba(232, 185, 94, 0.08);
+}
+
+/* ───────── 光晕脉冲 ───────── */
+@keyframes glow-pulse {
+  0%,
+  100% {
+    box-shadow: 0 0 24px -6px rgba(232, 185, 94, 0.35);
+  }
+  50% {
+    box-shadow: 0 0 44px -4px rgba(232, 185, 94, 0.6);
+  }
+}
+.glow-pulse {
+  animation: glow-pulse 3.2s ease-in-out infinite;
+}
+
+/* ───────── 曲线绘制动画（SVG） ───────── */
+@keyframes draw-line {
+  from {
+    stroke-dashoffset: 1200;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.draw-line {
+  stroke-dasharray: 1200;
+  animation: draw-line 2.6s ease-out forwards;
+}
+
+/* ───────── 数字闪动 ───────── */
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+.shimmer-text {
+  background: linear-gradient(
+    110deg,
+    var(--gold-deep) 20%,
+    var(--gold-bright) 40%,
+    #fff8e6 50%,
+    var(--gold-bright) 60%,
+    var(--gold-deep) 80%
+  );
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 4.5s linear infinite;
+}
+
+/* ───────── 页面入场 ───────── */
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(26px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.rise-in {
+  animation: rise-in 0.7s ease-out both;
+}
+.rise-in-1 {
+  animation-delay: 0.08s;
+}
+.rise-in-2 {
+  animation-delay: 0.18s;
+}
+.rise-in-3 {
+  animation-delay: 0.3s;
+}
+.rise-in-4 {
+  animation-delay: 0.42s;
 }
