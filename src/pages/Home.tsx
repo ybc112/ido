@@ -205,7 +205,12 @@ export default function Home() {
       <section className="relative mx-auto max-w-6xl px-4 pb-16 pt-14 md:pb-24 md:pt-20">
         <div className="grid items-center gap-10 lg:grid-cols-[1.05fr_0.95fr]">
           <div>
-            <div className="rise-in mb-5 flex flex-wrap items-center gap-2">
+            <img
+              src="/logo.jpg"
+              alt="logo"
+              className="rise-in mb-6 h-20 w-20 rounded-2xl border border-[rgba(232,185,94,0.3)] object-cover shadow-xl shadow-[rgba(232,185,94,0.3)]"
+            />
+            <div className="rise-in rise-in-1 mb-5 flex flex-wrap items-center gap-2">
               <span className="gold-pill">
                 <Gem className="h-3.5 w-3.5" /> 质押分红 · 托底价保障
               </span>

@@ -1,4 +1,4 @@
-import { Coins, Gem, ShieldCheck, Flame } from "lucide-react";
+import { Coins, ShieldCheck, Flame } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navItems = [
@@ -12,9 +12,11 @@ export function Header() {
     <header className="sticky top-0 z-50 border-b border-[rgba(232,185,94,0.12)] bg-[rgba(7,7,11,0.78)] backdrop-blur-xl">
       <nav className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4">
         <a href="#top" className="flex items-center gap-2.5">
-          <span className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-br from-[#f2cd7d] to-[#a97f2f] text-[#1a1407] shadow-lg shadow-[rgba(232,185,94,0.3)]">
-            <Gem className="h-5 w-5" />
-          </span>
+          <img
+            src="/logo.jpg"
+            alt="logo"
+            className="h-9 w-9 rounded-xl border border-[rgba(232,185,94,0.25)] object-cover shadow-lg shadow-[rgba(232,185,94,0.25)]"
+          />
           <span className="text-sm font-black tracking-wide">
             <span className="gold-text">质押分红</span>
             <span className="mx-1 text-[#9a927e]">·</span>
