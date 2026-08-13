@@ -87,7 +87,7 @@ function SectionHeader({ emoji, title, sub }: { emoji: string; title: string; su
     <div className="mb-10 text-center">
       <div className="mb-3 text-4xl">{emoji}</div>
       <h2 className="gold-text text-3xl font-black tracking-tight md:text-4xl">{title}</h2>
-      <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-[#9a927e] md:text-base">{sub}</p>
+      <p className="mx-auto mt-3 max-w-2xl text-sm leading-relaxed text-[#8aa7bd] md:text-base">{sub}</p>
     </div>
   );
 }
@@ -128,16 +128,16 @@ function FloorPriceChart() {
   return (
     <div className="glass-card p-5 md:p-6">
       <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
-        <div className="flex items-center gap-2 text-sm font-semibold text-[#f7f1e3]">
-          <TrendingUp className="h-4 w-4 text-[#e8b95e]" />
+        <div className="flex items-center gap-2 text-sm font-semibold text-[#e8f7ff]">
+          <TrendingUp className="h-4 w-4 text-[#4fd1e5]" />
           托底价走势（激活后 96 小时）
         </div>
         <div className="flex items-center gap-4 text-xs">
-          <span className="flex items-center gap-1.5 text-[#9a927e]">
-            <span className="h-0.5 w-5 rounded bg-[#d98f4a]" /> 市场价
+          <span className="flex items-center gap-1.5 text-[#8aa7bd]">
+            <span className="h-0.5 w-5 rounded bg-[#8ec9e8]" /> 市场价
           </span>
-          <span className="flex items-center gap-1.5 text-[#9a927e]">
-            <span className="h-0.5 w-5 rounded bg-[#e8b95e]" /> 托底价
+          <span className="flex items-center gap-1.5 text-[#8aa7bd]">
+            <span className="h-0.5 w-5 rounded bg-[#4fd1e5]" /> 托底价
           </span>
         </div>
       </div>
@@ -145,45 +145,45 @@ function FloorPriceChart() {
         {/* 网格线 */}
         {[80, 100, 120, 140].map((v) => (
           <g key={v}>
-            <line x1={pad.l} x2={width - pad.r} y1={y(v)} y2={y(v)} stroke="rgba(232,185,94,0.08)" strokeDasharray="3 5" />
-            <text x={pad.l - 8} y={y(v) + 4} textAnchor="end" fontSize="10" fill="#9a927e">
+            <line x1={pad.l} x2={width - pad.r} y1={y(v)} y2={y(v)} stroke="rgba(79,209,229,0.08)" strokeDasharray="3 5" />
+            <text x={pad.l - 8} y={y(v) + 4} textAnchor="end" fontSize="10" fill="#8aa7bd">
               {v}%
             </text>
           </g>
         ))}
         {[0, 24, 48, 72, 96].map((h) => (
-          <text key={h} x={x(h)} y={height - 12} textAnchor="middle" fontSize="10" fill="#9a927e">
+          <text key={h} x={x(h)} y={height - 12} textAnchor="middle" fontSize="10" fill="#8aa7bd">
             {h === 0 ? "开启" : h === 96 ? "4 天封顶" : `${h}h`}
           </text>
         ))}
         {/* 80% 起点标注 */}
-        <line x1={pad.l} x2={x(96)} y1={y(85 * 0.8)} y2={y(85 * 0.8)} stroke="rgba(232,185,94,0.2)" strokeDasharray="2 6" />
+        <line x1={pad.l} x2={x(96)} y1={y(85 * 0.8)} y2={y(85 * 0.8)} stroke="rgba(79,209,229,0.2)" strokeDasharray="2 6" />
         {/* 市场价 */}
-        <path d={marketPath} fill="none" stroke="#d98f4a" strokeWidth="2.5" strokeLinecap="round" className="draw-line" opacity="0.9" />
+        <path d={marketPath} fill="none" stroke="#8ec9e8" strokeWidth="2.5" strokeLinecap="round" className="draw-line" opacity="0.9" />
         {/* 托底价（阶梯） */}
-        <path d={floorPath} fill="none" stroke="#e8b95e" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" className="draw-line" style={{ animationDelay: "0.5s" }} />
+        <path d={floorPath} fill="none" stroke="#4fd1e5" strokeWidth="3.5" strokeLinecap="round" strokeLinejoin="round" className="draw-line" style={{ animationDelay: "0.5s" }} />
         {/* 端点 */}
-        <circle cx={x(0)} cy={y(floor[0][1])} r="5" fill="#e8b95e" />
-        <circle cx={x(96)} cy={y(floor[floor.length - 1][1])} r="6" fill="#ffd98a" className="glow-pulse" />
-        <text x={x(96) - 10} y={y(floor[floor.length - 1][1]) - 12} textAnchor="end" fontSize="11" fontWeight="700" fill="#ffd98a">
+        <circle cx={x(0)} cy={y(floor[0][1])} r="5" fill="#4fd1e5" />
+        <circle cx={x(96)} cy={y(floor[floor.length - 1][1])} r="6" fill="#a5f3fc" className="glow-pulse" />
+        <text x={x(96) - 10} y={y(floor[floor.length - 1][1]) - 12} textAnchor="end" fontSize="11" fontWeight="700" fill="#a5f3fc">
           1.3 倍封顶
         </text>
-        <text x={x(6)} y={y(85 * 0.8) + 16} fontSize="11" fill="#e8b95e" opacity="0.9">
+        <text x={x(6)} y={y(85 * 0.8) + 16} fontSize="11" fill="#4fd1e5" opacity="0.9">
           起步 ≈ 市场价 8 折
         </text>
       </svg>
       <div className="mt-3 grid grid-cols-3 gap-3 text-center text-xs">
-        <div className="rounded-xl bg-black/20 px-2 py-2.5">
-          <div className="text-[#9a927e]">起步</div>
-          <div className="mt-0.5 font-bold text-[#e8b95e]">≈ 8 折</div>
+        <div className="rounded-xl bg-[#06233f]/40 px-2 py-2.5">
+          <div className="text-[#8aa7bd]">起步</div>
+          <div className="mt-0.5 font-bold text-[#4fd1e5]">≈ 8 折</div>
         </div>
-        <div className="rounded-xl bg-black/20 px-2 py-2.5">
-          <div className="text-[#9a927e]">节奏</div>
-          <div className="mt-0.5 font-bold text-[#e8b95e]">每 3h 上涨</div>
+        <div className="rounded-xl bg-[#06233f]/40 px-2 py-2.5">
+          <div className="text-[#8aa7bd]">节奏</div>
+          <div className="mt-0.5 font-bold text-[#4fd1e5]">每 3h 上涨</div>
         </div>
-        <div className="rounded-xl bg-black/20 px-2 py-2.5">
-          <div className="text-[#9a927e]">封顶</div>
-          <div className="mt-0.5 font-bold text-[#e8b95e]">1.3 倍 · 4 天</div>
+        <div className="rounded-xl bg-[#06233f]/40 px-2 py-2.5">
+          <div className="text-[#8aa7bd]">封顶</div>
+          <div className="mt-0.5 font-bold text-[#4fd1e5]">1.3 倍 · 4 天</div>
         </div>
       </div>
     </div>
@@ -208,7 +208,7 @@ export default function Home() {
             <img
               src="/logo.jpg"
               alt="logo"
-              className="rise-in mb-6 h-20 w-20 rounded-2xl border border-[rgba(232,185,94,0.3)] object-cover shadow-xl shadow-[rgba(232,185,94,0.3)]"
+              className="rise-in mb-6 h-20 w-20 rounded-2xl border border-[rgba(79,209,229,0.3)] object-cover shadow-xl shadow-[rgba(79,209,229,0.3)]"
             />
             <div className="rise-in rise-in-1 mb-5 flex flex-wrap items-center gap-2">
               <span className="gold-pill">
@@ -221,10 +221,10 @@ export default function Home() {
             <h1 className="rise-in rise-in-1 text-4xl font-black leading-[1.12] tracking-tight md:text-6xl">
               <span className="shimmer-text">质押赚分红</span>
               <br />
-              <span className="text-[#f7f1e3]">托底价</span>{" "}
+              <span className="text-[#e8f7ff]">托底价</span>{" "}
               <span className="gold-text">安全退出</span>
             </h1>
-            <p className="rise-in rise-in-2 mt-5 max-w-xl text-base leading-relaxed text-[#9a927e] md:text-lg">
+            <p className="rise-in rise-in-2 mt-5 max-w-xl text-base leading-relaxed text-[#8aa7bd] md:text-lg">
               质押 50 万代币起自动参与分红，项目交易税持续注入、按质押量与时间分配 BNB，随时可领；
               金库托底回购价从 8 折起步一路爬升，满 4 天封顶 1.3 倍——涨跌都跟市场挂钩。
             </p>
@@ -238,22 +238,22 @@ export default function Home() {
             </div>
             <div className="rise-in rise-in-4 mt-10 grid max-w-md grid-cols-3 gap-3">
               <div className="glass-card p-3 text-center">
-                <div className="text-[#9a927e]">起投门槛</div>
-                <div className="mt-1 text-sm font-bold text-[#f7f1e3]">
+                <div className="text-[#8aa7bd]">起投门槛</div>
+                <div className="mt-1 text-sm font-bold text-[#e8f7ff]">
                   <span ref={staked.ref}>{staked.display}</span>
-                  <span className="text-[#e8b95e]"> 起</span>
+                  <span className="text-[#4fd1e5]"> 起</span>
                 </div>
               </div>
               <div className="glass-card p-3 text-center">
-                <div className="text-[#9a927e]">分红形式</div>
-                <div className="mt-1 text-sm font-bold text-[#f7f1e3]">
-                  BNB <span className="text-[#e8b95e]">随时领</span>
+                <div className="text-[#8aa7bd]">分红形式</div>
+                <div className="mt-1 text-sm font-bold text-[#e8f7ff]">
+                  BNB <span className="text-[#4fd1e5]">随时领</span>
                 </div>
               </div>
               <div className="glass-card p-3 text-center">
-                <div className="text-[#9a927e]">退出机制</div>
-                <div className="mt-1 text-sm font-bold text-[#f7f1e3]">
-                  销毁 <span className="text-[#e8b95e]">换 BNB</span>
+                <div className="text-[#8aa7bd]">退出机制</div>
+                <div className="mt-1 text-sm font-bold text-[#e8f7ff]">
+                  销毁 <span className="text-[#4fd1e5]">换 BNB</span>
                 </div>
               </div>
             </div>
@@ -261,12 +261,12 @@ export default function Home() {
 
           {/* Hero 右侧：模拟质押面板 */}
           <div className="rise-in rise-in-2 relative">
-            <div className="absolute -inset-6 rounded-[2rem] bg-[radial-gradient(400px_300px_at_50%_30%,rgba(232,185,94,0.18),transparent_70%)]" />
+            <div className="absolute -inset-6 rounded-[2rem] bg-[radial-gradient(400px_300px_at_50%_30%,rgba(79,209,229,0.18),transparent_70%)]" />
             <div className="glass-card relative p-6 md:p-7">
               <div className="mb-5 flex items-center justify-between">
                 <div className="flex items-center gap-2">
-                  <Landmark className="h-5 w-5 text-[#e8b95e]" />
-                  <span className="font-bold text-[#f7f1e3]">质押金库面板</span>
+                  <Landmark className="h-5 w-5 text-[#4fd1e5]" />
+                  <span className="font-bold text-[#e8f7ff]">质押金库面板</span>
                 </div>
                 <span className="gold-pill">
                   <Zap className="h-3 w-3" /> 运行中
@@ -274,53 +274,53 @@ export default function Home() {
               </div>
 
               <div className="space-y-4">
-                <div className="rounded-2xl border border-[rgba(232,185,94,0.14)] bg-black/25 p-4">
-                  <div className="flex items-center justify-between text-xs text-[#9a927e]">
+                <div className="rounded-2xl border border-[rgba(79,209,229,0.14)] bg-[#06233f]/45 p-4">
+                  <div className="flex items-center justify-between text-xs text-[#8aa7bd]">
                     <span>我的质押量</span>
-                    <span className="text-[#e8b95e]">随质押增长</span>
+                    <span className="text-[#4fd1e5]">随质押增长</span>
                   </div>
-                  <div className="mt-1.5 text-2xl font-black text-[#f7f1e3]">
-                    {staked.display} <span className="text-sm font-semibold text-[#9a927e]">枚</span>
+                  <div className="mt-1.5 text-2xl font-black text-[#e8f7ff]">
+                    {staked.display} <span className="text-sm font-semibold text-[#8aa7bd]">枚</span>
                   </div>
                   <div className="mt-3 h-2 overflow-hidden rounded-full bg-white/5">
-                    <div className="h-full w-[68%] rounded-full bg-gradient-to-r from-[#a97f2f] via-[#e8b95e] to-[#ffd98a]" />
+                    <div className="h-full w-[68%] rounded-full bg-gradient-to-r from-[#0e7490] via-[#4fd1e5] to-[#a5f3fc]" />
                   </div>
-                  <div className="mt-1.5 flex justify-between text-[10px] text-[#9a927e]">
+                  <div className="mt-1.5 flex justify-between text-[10px] text-[#8aa7bd]">
                     <span>50 万起投</span>
                     <span>上不封顶</span>
                   </div>
                 </div>
 
                 <div className="grid grid-cols-2 gap-3">
-                  <div className="rounded-2xl border border-[rgba(232,185,94,0.14)] bg-black/25 p-4">
-                    <div className="flex items-center gap-1.5 text-xs text-[#9a927e]">
-                      <Coins className="h-3.5 w-3.5 text-[#e8b95e]" /> 累计分红
+                  <div className="rounded-2xl border border-[rgba(79,209,229,0.14)] bg-[#06233f]/45 p-4">
+                    <div className="flex items-center gap-1.5 text-xs text-[#8aa7bd]">
+                      <Coins className="h-3.5 w-3.5 text-[#4fd1e5]" /> 累计分红
                     </div>
-                    <div className="mt-1.5 text-xl font-black text-[#f7f1e3]">
-                      {pool.display} <span className="text-xs font-semibold text-[#e8b95e]">BNB</span>
+                    <div className="mt-1.5 text-xl font-black text-[#e8f7ff]">
+                      {pool.display} <span className="text-xs font-semibold text-[#4fd1e5]">BNB</span>
                     </div>
                     <div className="mt-1 flex items-center gap-1 text-[10px] text-emerald-400">
                       <TrendingUp className="h-3 w-3" /> 交易税持续注入
                     </div>
                   </div>
-                  <div className="rounded-2xl border border-[rgba(232,185,94,0.14)] bg-black/25 p-4">
-                    <div className="flex items-center gap-1.5 text-xs text-[#9a927e]">
-                      <ShieldCheck className="h-3.5 w-3.5 text-[#e8b95e]" /> 当前托底价
+                  <div className="rounded-2xl border border-[rgba(79,209,229,0.14)] bg-[#06233f]/45 p-4">
+                    <div className="flex items-center gap-1.5 text-xs text-[#8aa7bd]">
+                      <ShieldCheck className="h-3.5 w-3.5 text-[#4fd1e5]" /> 当前托底价
                     </div>
-                    <div className="mt-1.5 text-xl font-black text-[#e8b95e]">
+                    <div className="mt-1.5 text-xl font-black text-[#4fd1e5]">
                       {floorRatio.display}%
                     </div>
-                    <div className="mt-1 flex items-center gap-1 text-[10px] text-[#9a927e]">
+                    <div className="mt-1 flex items-center gap-1 text-[10px] text-[#8aa7bd]">
                       <Timer className="h-3 w-3" /> 每 3h 上涨 · 4 天封顶 {capRatio.display}%
                     </div>
                   </div>
                 </div>
 
-                <div className="rounded-2xl border border-[rgba(232,185,94,0.2)] bg-[rgba(232,185,94,0.07)] p-4">
-                  <div className="flex items-center gap-2 text-sm font-semibold text-[#ffd98a]">
+                <div className="rounded-2xl border border-[rgba(79,209,229,0.2)] bg-[rgba(79,209,229,0.07)] p-4">
+                  <div className="flex items-center gap-2 text-sm font-semibold text-[#a5f3fc]">
                     <Flame className="h-4 w-4" /> 退出 = 销毁
                   </div>
-                  <p className="mt-1.5 text-xs leading-relaxed text-[#9a927e]">
+                  <p className="mt-1.5 text-xs leading-relaxed text-[#8aa7bd]">
                     按当前托底价把多余质押销毁换 BNB，代币打入黑洞——每一次退出都在为币价做通缩。
                   </p>
                 </div>
@@ -360,13 +360,13 @@ export default function Home() {
           ].map((item) => (
             <div key={item.title} className="glass-card p-6 md:p-7">
               <div className="mb-4 flex items-center justify-between">
-                <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-gradient-to-br from-[#f2cd7d] to-[#a97f2f] text-[#1a1407] shadow-lg shadow-[rgba(232,185,94,0.25)]">
+                <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-gradient-to-br from-[#67e8f9] to-[#0e7490] text-[#062230] shadow-lg shadow-[rgba(79,209,229,0.25)]">
                   <item.icon className="h-6 w-6" />
                 </div>
                 <span className="gold-pill">{item.tag}</span>
               </div>
-              <h3 className="mb-2 text-lg font-bold text-[#f7f1e3]">{item.title}</h3>
-              <p className="text-sm leading-relaxed text-[#9a927e]">{item.desc}</p>
+              <h3 className="mb-2 text-lg font-bold text-[#e8f7ff]">{item.title}</h3>
+              <p className="text-sm leading-relaxed text-[#8aa7bd]">{item.desc}</p>
             </div>
           ))}
         </div>
@@ -382,13 +382,13 @@ export default function Home() {
             ].map((step, i, arr) => (
               <div key={step.label} className="flex w-full items-center gap-4 md:w-auto">
                 <div className="flex items-center gap-3">
-                  <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-[rgba(232,185,94,0.35)] bg-[rgba(232,185,94,0.08)] text-[#e8b95e]">
+                  <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-[rgba(79,209,229,0.35)] bg-[rgba(79,209,229,0.08)] text-[#4fd1e5]">
                     <step.icon className="h-5 w-5" />
                   </div>
-                  <span className="text-sm font-medium text-[#f7f1e3]">{step.label}</span>
+                  <span className="text-sm font-medium text-[#e8f7ff]">{step.label}</span>
                 </div>
                 {i < arr.length - 1 && (
-                  <ArrowRight className="hidden h-5 w-5 shrink-0 text-[#a97f2f] md:block" />
+                  <ArrowRight className="hidden h-5 w-5 shrink-0 text-[#0e7490] md:block" />
                 )}
               </div>
             ))}
@@ -425,12 +425,12 @@ export default function Home() {
             ].map((item) => (
               <div key={item.title} className="glass-card p-5">
                 <div className="flex items-start gap-3.5">
-                  <div className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-xl border border-[rgba(232,185,94,0.3)] bg-[rgba(232,185,94,0.08)] text-[#e8b95e]">
+                  <div className="mt-0.5 flex h-9 w-9 shrink-0 items-center justify-center rounded-xl border border-[rgba(79,209,229,0.3)] bg-[rgba(79,209,229,0.08)] text-[#4fd1e5]">
                     <item.icon className="h-4.5 w-4.5" />
                   </div>
                   <div>
-                    <h3 className="font-bold text-[#f7f1e3]">{item.title}</h3>
-                    <p className="mt-1 text-sm leading-relaxed text-[#9a927e]">{item.desc}</p>
+                    <h3 className="font-bold text-[#e8f7ff]">{item.title}</h3>
+                    <p className="mt-1 text-sm leading-relaxed text-[#8aa7bd]">{item.desc}</p>
                   </div>
                 </div>
               </div>
@@ -475,24 +475,24 @@ export default function Home() {
           ].map((item) => (
             <div key={item.step} className="glass-card group p-6">
               <div className="mb-4 flex items-center justify-between">
-                <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-gradient-to-br from-[#f2cd7d] to-[#a97f2f] font-black text-[#1a1407]">
+                <div className="flex h-11 w-11 items-center justify-center rounded-2xl bg-gradient-to-br from-[#67e8f9] to-[#0e7490] font-black text-[#062230]">
                   {item.step}
                 </div>
-                <item.icon className="h-5 w-5 text-[#a97f2f] transition-colors group-hover:text-[#e8b95e]" />
+                <item.icon className="h-5 w-5 text-[#0e7490] transition-colors group-hover:text-[#4fd1e5]" />
               </div>
-              <h3 className="mb-2 font-bold text-[#f7f1e3]">{item.title}</h3>
-              <p className="text-sm leading-relaxed text-[#9a927e]">{item.desc}</p>
+              <h3 className="mb-2 font-bold text-[#e8f7ff]">{item.title}</h3>
+              <p className="text-sm leading-relaxed text-[#8aa7bd]">{item.desc}</p>
             </div>
           ))}
         </div>
 
-        <div className="glass-card mt-6 flex flex-col items-center gap-4 border-[rgba(232,185,94,0.3)] p-6 text-center md:flex-row md:text-left">
-          <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-[rgba(232,185,94,0.12)] text-[#e8b95e]">
+        <div className="glass-card mt-6 flex flex-col items-center gap-4 border-[rgba(79,209,229,0.3)] p-6 text-center md:flex-row md:text-left">
+          <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-2xl bg-[rgba(79,209,229,0.12)] text-[#4fd1e5]">
             <InfinityIcon className="h-6 w-6" />
           </div>
           <div className="flex-1">
-            <h3 className="font-bold text-[#f7f1e3]">退出即销毁 = 通缩利好</h3>
-            <p className="mt-1 text-sm leading-relaxed text-[#9a927e]">
+            <h3 className="font-bold text-[#e8f7ff]">退出即销毁 = 通缩利好</h3>
+            <p className="mt-1 text-sm leading-relaxed text-[#8aa7bd]">
               每一枚通过托底价退出的代币都会被打入黑洞地址（0x…dEaD），永久退出流通。持续退出会不断缩小供应量，
               对持币者与币价都是长期利好。
             </p>
@@ -506,12 +506,12 @@ export default function Home() {
       {/* ════════ 底部 CTA ════════ */}
       <section className="mx-auto max-w-6xl px-4 pb-16">
         <div className="glass-card glow-pulse relative overflow-hidden p-8 text-center md:p-12">
-          <div className="absolute -right-10 -top-10 h-48 w-48 rounded-full bg-[radial-gradient(circle,rgba(232,185,94,0.22),transparent_70%)]" />
-          <div className="absolute -bottom-14 -left-10 h-56 w-56 rounded-full bg-[radial-gradient(circle,rgba(232,185,94,0.15),transparent_70%)]" />
+          <div className="absolute -right-10 -top-10 h-48 w-48 rounded-full bg-[radial-gradient(circle,rgba(79,209,229,0.22),transparent_70%)]" />
+          <div className="absolute -bottom-14 -left-10 h-56 w-56 rounded-full bg-[radial-gradient(circle,rgba(79,209,229,0.15),transparent_70%)]" />
           <h2 className="relative text-2xl font-black tracking-tight md:text-4xl">
             <span className="gold-text">质押分红 + 托底价保障</span>
           </h2>
-          <p className="relative mx-auto mt-3 max-w-xl text-sm leading-relaxed text-[#9a927e]">
+          <p className="relative mx-auto mt-3 max-w-xl text-sm leading-relaxed text-[#8aa7bd]">
             质押即参与，退出有托底，销毁做通缩。三重机制守护你的每一次决策。
           </p>
           <div className="relative mt-7 flex flex-wrap justify-center gap-3">
