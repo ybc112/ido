@@ -1,0 +1,20 @@
+
+huodongzhongxin_deng.png
+size: 714,797
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huodongzhongxin_deng/deng1
+  rotate: false
+  xy: 1, 1
+  size: 712, 397
+  orig: 712, 397
+  offset: 0, 0
+  index: -1
+huodongzhongxin_deng/deng2
+  rotate: false
+  xy: 1, 399
+  size: 712, 397
+  orig: 712, 397
+  offset: 0, 0
+  index: -1

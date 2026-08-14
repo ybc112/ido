@@ -1,0 +1,90 @@
+
+gongxihuode.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_siwang/glow
+  rotate: false
+  xy: 0, 44
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+gongxihuode/0000
+  rotate: false
+  xy: 207, 46
+  size: 10, 10
+  orig: 352, 332
+  offset: 176, 169
+  index: -1
+gongxihuode/0003
+  rotate: false
+  xy: 0, 0
+  size: 37, 37
+  orig: 352, 332
+  offset: 163, 150
+  index: -1
+gongxihuode/0006
+  rotate: false
+  xy: 899, 188
+  size: 65, 56
+  orig: 352, 332
+  offset: 148, 135
+  index: -1
+gongxihuode/0009
+  rotate: false
+  xy: 649, 173
+  size: 84, 71
+  orig: 352, 332
+  offset: 139, 124
+  index: -1
+gongxihuode/0012
+  rotate: false
+  xy: 546, 164
+  size: 96, 80
+  orig: 352, 332
+  offset: 132, 118
+  index: -1
+gongxihuode/0015
+  rotate: false
+  xy: 436, 160
+  size: 103, 84
+  orig: 352, 332
+  offset: 128, 114
+  index: -1
+gongxihuode/0018
+  rotate: false
+  xy: 323, 158
+  size: 106, 86
+  orig: 352, 332
+  offset: 126, 112
+  index: -1
+gongxihuode/0021
+  rotate: false
+  xy: 207, 63
+  size: 108, 87
+  orig: 352, 332
+  offset: 125, 111
+  index: -1
+gongxihuode/0024
+  rotate: false
+  xy: 207, 157
+  size: 109, 87
+  orig: 352, 332
+  offset: 125, 111
+  index: -1
+gongxihuode/0027
+  rotate: true
+  xy: 740, 179
+  size: 65, 72
+  orig: 352, 332
+  offset: 148, 113
+  index: -1
+gongxihuode/0029
+  rotate: true
+  xy: 819, 184
+  size: 60, 73
+  orig: 352, 332
+  offset: 148, 110
+  index: -1

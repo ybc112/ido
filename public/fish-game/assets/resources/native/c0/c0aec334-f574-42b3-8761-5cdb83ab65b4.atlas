@@ -1,0 +1,13 @@
+
+zidan1.png
+size: 17,34
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+渔网修改/子弹/zidan1
+  rotate: false
+  xy: 1, 1
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

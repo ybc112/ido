@@ -1,0 +1,76 @@
+
+nhxb_saoguang.png
+size: 215,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nanhaixunbao
+  rotate: false
+  xy: 1, 109
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+nanhaixunbao_00
+  rotate: false
+  xy: 97, 16
+  size: 52, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+nanhaixunbao_01
+  rotate: false
+  xy: 105, 47
+  size: 78, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+nanhaixunbao_02
+  rotate: false
+  xy: 1, 47
+  size: 103, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+nanhaixunbao_03
+  rotate: false
+  xy: 108, 109
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+nanhaixunbao_04
+  rotate: false
+  xy: 1, 78
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+nanhaixunbao_05
+  rotate: false
+  xy: 108, 78
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+nanhaixunbao_06
+  rotate: false
+  xy: 1, 16
+  size: 95, 30
+  orig: 106, 30
+  offset: 11, 0
+  index: -1
+nanhaixunbao_07
+  rotate: true
+  xy: 184, 7
+  size: 70, 30
+  orig: 106, 30
+  offset: 36, 0
+  index: -1
+nanhaixunbao_08
+  rotate: true
+  xy: 150, 1
+  size: 45, 30
+  orig: 106, 30
+  offset: 61, 0
+  index: -1

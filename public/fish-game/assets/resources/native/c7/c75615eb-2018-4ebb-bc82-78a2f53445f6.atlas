@@ -1,0 +1,20 @@
+
+jukun_dan1.png
+size: 404,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jukun/dan/ct_1dan
+  rotate: false
+  xy: 275, 60
+  size: 128, 161
+  orig: 128, 161
+  offset: 0, 0
+  index: -1
+jukun/light
+  rotate: false
+  xy: 1, 1
+  size: 273, 220
+  orig: 273, 220
+  offset: 0, 0
+  index: -1

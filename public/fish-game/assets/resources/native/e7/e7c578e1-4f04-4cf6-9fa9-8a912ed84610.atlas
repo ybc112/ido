@@ -1,0 +1,20 @@
+
+fish16.png
+size: 210,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/蓝鲸/1
+  rotate: true
+  xy: 0, 0
+  size: 104, 193
+  orig: 104, 193
+  offset: 0, 0
+  index: -1
+H5Newfishes/蓝鲸/2
+  rotate: false
+  xy: 193, 74
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

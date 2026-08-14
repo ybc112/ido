@@ -1,0 +1,69 @@
+
+sclb_glow.png
+size: 336,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouchonglibao_glow/shouchonglibao_00
+  rotate: true
+  xy: 277, 88
+  size: 39, 58
+  orig: 308, 94
+  offset: 8, 28
+  index: -1
+shouchonglibao_glow/shouchonglibao_01
+  rotate: true
+  xy: 257, 203
+  size: 97, 74
+  orig: 308, 94
+  offset: 8, 12
+  index: -1
+shouchonglibao_glow/shouchonglibao_02
+  rotate: false
+  xy: 165, 1
+  size: 155, 74
+  orig: 308, 94
+  offset: 5, 12
+  index: -1
+shouchonglibao_glow/shouchonglibao_03
+  rotate: false
+  xy: 1, 76
+  size: 203, 74
+  orig: 308, 94
+  offset: 9, 12
+  index: -1
+shouchonglibao_glow/shouchonglibao_04
+  rotate: false
+  xy: 1, 226
+  size: 255, 74
+  orig: 308, 94
+  offset: 22, 12
+  index: -1
+shouchonglibao_glow/shouchonglibao_05
+  rotate: false
+  xy: 1, 151
+  size: 222, 74
+  orig: 308, 94
+  offset: 77, 12
+  index: -1
+shouchonglibao_glow/shouchonglibao_06
+  rotate: false
+  xy: 1, 1
+  size: 163, 74
+  orig: 308, 94
+  offset: 137, 12
+  index: -1
+shouchonglibao_glow/shouchonglibao_07
+  rotate: false
+  xy: 224, 128
+  size: 110, 74
+  orig: 308, 94
+  offset: 195, 12
+  index: -1
+shouchonglibao_glow/shouchonglibao_08
+  rotate: true
+  xy: 205, 79
+  size: 48, 71
+  orig: 308, 94
+  offset: 252, 12
+  index: -1

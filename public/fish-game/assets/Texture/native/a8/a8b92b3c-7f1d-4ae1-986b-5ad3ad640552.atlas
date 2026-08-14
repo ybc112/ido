@@ -1,0 +1,97 @@
+
+wfy_UI.png
+size: 1373,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao/2020.6.24-zhangyukuangbao/dafuweng
+  rotate: false
+  xy: 1124, 1
+  size: 81, 29
+  orig: 81, 29
+  offset: 0, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu
+  rotate: false
+  xy: 1, 8
+  size: 256, 113
+  orig: 256, 113
+  offset: 0, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_000
+  rotate: false
+  xy: 540, 8
+  size: 132, 113
+  orig: 256, 113
+  offset: 62, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_001
+  rotate: false
+  xy: 673, 8
+  size: 131, 113
+  orig: 256, 113
+  offset: 84, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_002
+  rotate: false
+  xy: 258, 8
+  size: 138, 113
+  orig: 256, 113
+  offset: 101, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_003
+  rotate: false
+  xy: 397, 13
+  size: 142, 108
+  orig: 256, 113
+  offset: 114, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_004
+  rotate: false
+  xy: 805, 16
+  size: 126, 105
+  orig: 256, 113
+  offset: 130, 3
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_005
+  rotate: true
+  xy: 932, 11
+  size: 110, 100
+  orig: 256, 113
+  offset: 146, 8
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_006
+  rotate: true
+  xy: 1033, 28
+  size: 93, 90
+  orig: 256, 113
+  offset: 163, 18
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_007
+  rotate: false
+  xy: 1209, 32
+  size: 73, 89
+  orig: 256, 113
+  offset: 183, 19
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_008
+  rotate: true
+  xy: 1283, 58
+  size: 63, 89
+  orig: 256, 113
+  offset: 193, 19
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/dk_zhangyu_009
+  rotate: true
+  xy: 1283, 3
+  size: 54, 89
+  orig: 256, 113
+  offset: 202, 19
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/xiaozhangyu
+  rotate: false
+  xy: 1124, 31
+  size: 84, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1

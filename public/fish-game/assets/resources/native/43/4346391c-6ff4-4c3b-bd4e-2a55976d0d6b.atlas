@@ -1,0 +1,251 @@
+
+fish_baihu.png
+size: 859,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1datui
+  rotate: true
+  xy: 70, 6
+  size: 61, 83
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+1faguangmao
+  rotate: true
+  xy: 669, 75
+  size: 180, 110
+  orig: 182, 111
+  offset: 1, 0
+  index: -1
+1jiao
+  rotate: true
+  xy: 812, 401
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+1piaomao
+  rotate: true
+  xy: 307, 115
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+1xiaotui
+  rotate: true
+  xy: 307, 157
+  size: 54, 63
+  orig: 54, 64
+  offset: 0, 1
+  index: -1
+2datui
+  rotate: true
+  xy: 780, 148
+  size: 107, 78
+  orig: 108, 79
+  offset: 0, 0
+  index: -1
+2faguangmao
+  rotate: false
+  xy: 434, 138
+  size: 50, 73
+  orig: 54, 74
+  offset: 2, 0
+  index: -1
+2jiao
+  rotate: true
+  xy: 812, 465
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+2piaomao
+  rotate: true
+  xy: 367, 115
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+2xiaotui
+  rotate: true
+  xy: 371, 157
+  size: 54, 62
+  orig: 54, 63
+  offset: 0, 1
+  index: -1
+3datui
+  rotate: true
+  xy: 613, 10
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+3jiao
+  rotate: false
+  xy: 239, 117
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+3xiaotui
+  rotate: true
+  xy: 292, 16
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+4datui
+  rotate: false
+  xy: 239, 152
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+4jiao
+  rotate: false
+  xy: 420, 3
+  size: 56, 34
+  orig: 56, 34
+  offset: 0, 0
+  index: -1
+4piaoyun
+  rotate: false
+  xy: 812, 348
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+4xiaotui
+  rotate: true
+  xy: 234, 15
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+GGteshu
+  rotate: true
+  xy: 498, 115
+  size: 412, 170
+  orig: 418, 177
+  offset: 1, 1
+  index: -1
+chibang
+  rotate: true
+  xy: 669, 256
+  size: 271, 142
+  orig: 271, 142
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: true
+  xy: 778, 2
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+erduo1
+  rotate: true
+  xy: 427, 116
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+etou
+  rotate: false
+  xy: 502, 8
+  size: 110, 106
+  orig: 110, 106
+  offset: 0, 0
+  index: -1
+huzi
+  rotate: true
+  xy: 812, 294
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+huzi1
+  rotate: true
+  xy: 746, 1
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+huzi2
+  rotate: false
+  xy: 420, 38
+  size: 73, 25
+  orig: 73, 26
+  offset: 0, 0
+  index: -1
+huzi3
+  rotate: false
+  xy: 778, 32
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 68
+  size: 237, 143
+  orig: 241, 146
+  offset: 4, 0
+  index: -1
+toumaih
+  rotate: true
+  xy: 154, 7
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 239, 64
+  size: 262, 50
+  orig: 262, 50
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 349, 17
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+zhaungb3
+  rotate: false
+  xy: 780, 68
+  size: 76, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+zhen
+  rotate: false
+  xy: 1, 212
+  size: 496, 315
+  orig: 496, 315
+  offset: 0, 0
+  index: -1
+zhuangb1
+  rotate: false
+  xy: 1, 2
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+zhuangb2
+  rotate: true
+  xy: 669, 5
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+zhuangb4
+  rotate: false
+  xy: 613, 55
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1

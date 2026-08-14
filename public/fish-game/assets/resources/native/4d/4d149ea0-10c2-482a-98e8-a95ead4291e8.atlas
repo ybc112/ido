@@ -1,0 +1,20 @@
+
+bingdong.png
+size: 1765,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingdong/bingdong_cemian
+  rotate: true
+  xy: 1046, 0
+  size: 237, 719
+  orig: 237, 719
+  offset: 0, 0
+  index: -1
+bingdong/bingdong_di
+  rotate: false
+  xy: 0, 77
+  size: 1046, 160
+  orig: 1046, 168
+  offset: 0, 0
+  index: -1

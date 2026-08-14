@@ -1,0 +1,153 @@
+
+fx_jian.png
+size: 1987,1865
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fxjian_00
+  rotate: false
+  xy: 1523, 1382
+  size: 463, 482
+  orig: 550, 550
+  offset: 36, 42
+  index: -1
+fxjian_01
+  rotate: true
+  xy: 1036, 1387
+  size: 477, 481
+  orig: 550, 550
+  offset: 36, 43
+  index: -1
+fxjian_02
+  rotate: false
+  xy: 1031, 840
+  size: 496, 502
+  orig: 550, 550
+  offset: 20, 26
+  index: -1
+fxjian_03
+  rotate: false
+  xy: 516, 295
+  size: 502, 515
+  orig: 550, 550
+  offset: 18, 24
+  index: -1
+fxjian_04
+  rotate: false
+  xy: 1019, 302
+  size: 503, 508
+  orig: 550, 550
+  offset: 18, 25
+  index: -1
+fxjian_05
+  rotate: false
+  xy: 1, 1334
+  size: 519, 530
+  orig: 550, 550
+  offset: 16, 16
+  index: -1
+fxjian_06
+  rotate: false
+  xy: 1, 804
+  size: 514, 529
+  orig: 550, 550
+  offset: 16, 17
+  index: -1
+fxjian_07
+  rotate: false
+  xy: 1, 275
+  size: 514, 528
+  orig: 550, 550
+  offset: 16, 18
+  index: -1
+fxjian_08
+  rotate: false
+  xy: 521, 1343
+  size: 514, 521
+  orig: 550, 550
+  offset: 16, 20
+  index: -1
+fxjian_09
+  rotate: false
+  xy: 516, 811
+  size: 514, 522
+  orig: 550, 550
+  offset: 16, 20
+  index: -1
+jian
+  rotate: true
+  xy: 1, 2
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_00
+  rotate: true
+  xy: 291, 2
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_01
+  rotate: false
+  xy: 581, 5
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_02
+  rotate: false
+  xy: 854, 5
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_03
+  rotate: false
+  xy: 1127, 12
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_04
+  rotate: false
+  xy: 1400, 12
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_05
+  rotate: true
+  xy: 1673, 1109
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_06
+  rotate: true
+  xy: 1673, 836
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_07
+  rotate: true
+  xy: 1673, 563
+  size: 272, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_08
+  rotate: true
+  xy: 1673, 291
+  size: 271, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1
+jian_09
+  rotate: false
+  xy: 1673, 1
+  size: 271, 289
+  orig: 450, 450
+  offset: 89, 81
+  index: -1

@@ -1,0 +1,34 @@
+
+dsc_biaotilan.png
+size: 703,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dasheng_biaotilan/diban
+  rotate: false
+  xy: 374, 120
+  size: 322, 118
+  orig: 322, 118
+  offset: 0, 0
+  index: -1
+dasheng_biaotilan/faguang
+  rotate: false
+  xy: 1, 91
+  size: 372, 147
+  orig: 372, 147
+  offset: 0, 0
+  index: -1
+dasheng_biaotilan/light1
+  rotate: false
+  xy: 374, 9
+  size: 328, 110
+  orig: 328, 110
+  offset: 0, 0
+  index: -1
+dasheng_biaotilan/light2
+  rotate: false
+  xy: 1, 1
+  size: 328, 89
+  orig: 328, 110
+  offset: 0, 0
+  index: -1

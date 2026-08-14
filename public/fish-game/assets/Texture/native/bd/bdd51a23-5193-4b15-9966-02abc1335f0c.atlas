@@ -1,0 +1,62 @@
+
+nanhaixunbao.png
+size: 499,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating_jiemian/南海寻宝/chuan
+  rotate: true
+  xy: 310, 151
+  size: 149, 167
+  orig: 149, 167
+  offset: 0, 0
+  index: -1
+dating_jiemian/南海寻宝/nanhaidao
+  rotate: true
+  xy: 0, 1
+  size: 299, 310
+  orig: 299, 310
+  offset: 0, 0
+  index: -1
+dating_jiemian/南海寻宝/nanhaidao_jiao
+  rotate: false
+  xy: 310, 37
+  size: 96, 114
+  orig: 96, 114
+  offset: 0, 0
+  index: -1
+dating_jiemian/南海寻宝/niao
+  rotate: false
+  xy: 406, 16
+  size: 41, 57
+  orig: 41, 57
+  offset: 0, 0
+  index: -1
+dating_jiemian/南海寻宝/shugan1
+  rotate: true
+  xy: 310, 5
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+dating_jiemian/南海寻宝/shugan2
+  rotate: false
+  xy: 361, 0
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+dating_jiemian/南海寻宝/shuye1
+  rotate: false
+  xy: 406, 73
+  size: 93, 78
+  orig: 93, 78
+  offset: 0, 0
+  index: -1
+dating_jiemian/南海寻宝/shuye2
+  rotate: false
+  xy: 447, 29
+  size: 51, 44
+  orig: 51, 44
+  offset: 0, 0
+  index: -1

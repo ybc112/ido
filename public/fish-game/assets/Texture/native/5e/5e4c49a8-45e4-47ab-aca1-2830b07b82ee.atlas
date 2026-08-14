@@ -1,0 +1,118 @@
+
+dt_juedouchang.png
+size: 427,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinpai
+  rotate: true
+  xy: 292, 10
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+jinpai_1
+  rotate: false
+  xy: 371, 64
+  size: 13, 7
+  orig: 21, 21
+  offset: 0, 13
+  index: -1
+jinpai_2
+  rotate: true
+  xy: 371, 72
+  size: 17, 13
+  orig: 21, 21
+  offset: 0, 8
+  index: -1
+jinpai_3
+  rotate: true
+  xy: 371, 110
+  size: 20, 16
+  orig: 21, 21
+  offset: 0, 4
+  index: -1
+jinpai_4
+  rotate: false
+  xy: 350, 10
+  size: 21, 18
+  orig: 21, 21
+  offset: 0, 1
+  index: -1
+jinpai_5
+  rotate: true
+  xy: 371, 90
+  size: 19, 15
+  orig: 21, 21
+  offset: 2, 0
+  index: -1
+jinpai_6
+  rotate: true
+  xy: 372, 49
+  size: 14, 11
+  orig: 21, 21
+  offset: 6, 0
+  index: -1
+jinpai_7
+  rotate: false
+  xy: 292, 107
+  size: 2, 2
+  orig: 21, 21
+  offset: 14, 1
+  index: -1
+lizi_c_1
+  rotate: false
+  xy: 218, 1
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+shayu
+  rotate: true
+  xy: 1, 2
+  size: 202, 216
+  orig: 202, 216
+  offset: 0, 0
+  index: -1
+shayu_1
+  rotate: true
+  xy: 385, 137
+  size: 67, 41
+  orig: 102, 129
+  offset: 2, 86
+  index: -1
+shayu_2
+  rotate: false
+  xy: 299, 131
+  size: 85, 73
+  orig: 102, 129
+  offset: 2, 55
+  index: -1
+shayu_3
+  rotate: false
+  xy: 218, 110
+  size: 80, 94
+  orig: 102, 129
+  offset: 18, 29
+  index: -1
+shayu_4
+  rotate: false
+  xy: 218, 10
+  size: 73, 99
+  orig: 102, 129
+  offset: 27, 1
+  index: -1
+shayu_5
+  rotate: true
+  xy: 299, 63
+  size: 67, 71
+  orig: 102, 129
+  offset: 33, 0
+  index: -1
+shayu_6
+  rotate: true
+  xy: 350, 29
+  size: 33, 21
+  orig: 102, 129
+  offset: 56, 0
+  index: -1

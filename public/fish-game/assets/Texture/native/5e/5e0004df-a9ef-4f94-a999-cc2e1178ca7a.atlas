@@ -1,0 +1,83 @@
+
+jingjichang.png
+size: 659,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingjichangrukou/lizi_c_1
+  rotate: false
+  xy: 613, 25
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_baoxiang
+  rotate: false
+  xy: 270, 99
+  size: 205, 167
+  orig: 205, 167
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_jinbidui
+  rotate: false
+  xy: 270, 3
+  size: 271, 95
+  orig: 271, 95
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_qiantui
+  rotate: false
+  xy: 476, 106
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_youpi1
+  rotate: true
+  xy: 601, 71
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_youpi2
+  rotate: true
+  xy: 542, 59
+  size: 119, 58
+  orig: 119, 58
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_youyan
+  rotate: true
+  xy: 637, 5
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_zhangyu
+  rotate: false
+  xy: 1, 11
+  size: 268, 255
+  orig: 268, 255
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_zuan
+  rotate: true
+  xy: 542, 3
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_zuotui
+  rotate: true
+  xy: 476, 179
+  size: 87, 134
+  orig: 87, 134
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou2_zuoyan
+  rotate: false
+  xy: 613, 1
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1

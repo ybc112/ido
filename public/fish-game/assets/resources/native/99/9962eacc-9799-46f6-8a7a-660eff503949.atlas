@@ -1,0 +1,13 @@
+
+kuangbao.png
+size: 279,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuangbao/kb
+  rotate: false
+  xy: 0, 0
+  size: 279, 278
+  orig: 279, 278
+  offset: 0, 0
+  index: -1

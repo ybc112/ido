@@ -1,0 +1,167 @@
+
+paotai_haidao.png
+size: 316,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai/PirateCannon/576-1
+  rotate: true
+  xy: 261, 31
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopao1
+  rotate: false
+  xy: 1, 39
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopao2
+  rotate: false
+  xy: 247, 83
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopao3
+  rotate: true
+  xy: 268, 4
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopao4
+  rotate: false
+  xy: 239, 40
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopao5
+  rotate: true
+  xy: 180, 4
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopao6
+  rotate: true
+  xy: 89, 4
+  size: 34, 90
+  orig: 34, 90
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0001
+  rotate: true
+  xy: 229, 77
+  size: 10, 16
+  orig: 23, 38
+  offset: 0, 22
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0002
+  rotate: true
+  xy: 227, 63
+  size: 13, 20
+  orig: 23, 38
+  offset: 0, 18
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0003
+  rotate: true
+  xy: 188, 125
+  size: 16, 23
+  orig: 23, 38
+  offset: 0, 15
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0004
+  rotate: true
+  xy: 212, 40
+  size: 18, 26
+  orig: 23, 38
+  offset: 0, 12
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0005
+  rotate: false
+  xy: 247, 2
+  size: 20, 28
+  orig: 23, 38
+  offset: 0, 10
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0006
+  rotate: false
+  xy: 188, 93
+  size: 22, 31
+  orig: 23, 38
+  offset: 0, 7
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0007
+  rotate: true
+  xy: 212, 118
+  size: 23, 34
+  orig: 23, 38
+  offset: 0, 4
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0008
+  rotate: false
+  xy: 24, 2
+  size: 23, 36
+  orig: 23, 38
+  offset: 0, 2
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0009
+  rotate: false
+  xy: 188, 44
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0010
+  rotate: false
+  xy: 1, 1
+  size: 22, 37
+  orig: 23, 38
+  offset: 1, 0
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0011
+  rotate: false
+  xy: 48, 2
+  size: 20, 36
+  orig: 23, 38
+  offset: 3, 0
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0012
+  rotate: false
+  xy: 69, 3
+  size: 19, 35
+  orig: 23, 38
+  offset: 4, 0
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0013
+  rotate: false
+  xy: 211, 85
+  size: 17, 32
+  orig: 23, 38
+  offset: 6, 0
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0014
+  rotate: false
+  xy: 229, 88
+  size: 16, 29
+  orig: 23, 38
+  offset: 7, 0
+  index: -1
+paotai/PirateCannon/haidaopaotaishuaxiao/haidaopaotaishuaxiao0015
+  rotate: false
+  xy: 212, 59
+  size: 14, 25
+  orig: 23, 38
+  offset: 9, 0
+  index: -1
+paotai/PirateCannon/paokoutexiao
+  rotate: false
+  xy: 99, 39
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1

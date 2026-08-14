@@ -1,0 +1,41 @@
+
+yuwang_FrosFighter.png
+size: 840,231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 429, 50
+  size: 169, 180
+  orig: 228, 229
+  offset: 30, 21
+  index: -1
+12
+  rotate: false
+  xy: 230, 20
+  size: 198, 210
+  orig: 228, 229
+  offset: 16, 4
+  index: -1
+13
+  rotate: false
+  xy: 1, 1
+  size: 228, 229
+  orig: 228, 229
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 718, 86
+  size: 144, 121
+  orig: 228, 229
+  offset: 50, 55
+  index: -1
+15
+  rotate: true
+  xy: 599, 81
+  size: 149, 118
+  orig: 228, 229
+  offset: 47, 48
+  index: -1

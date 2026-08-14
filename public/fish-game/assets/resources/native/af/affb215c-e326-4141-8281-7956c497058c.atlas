@@ -1,0 +1,62 @@
+
+fish_jubaopen.png
+size: 615,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianzi
+  rotate: false
+  xy: 1, 92
+  size: 385, 181
+  orig: 387, 183
+  offset: 1, 1
+  index: -1
+feicui
+  rotate: false
+  xy: 85, 1
+  size: 91, 23
+  orig: 93, 25
+  offset: 1, 1
+  index: -1
+jinbi_zuo
+  rotate: false
+  xy: 186, 37
+  size: 93, 54
+  orig: 95, 56
+  offset: 1, 1
+  index: -1
+pen
+  rotate: false
+  xy: 387, 22
+  size: 227, 251
+  orig: 229, 253
+  offset: 1, 1
+  index: -1
+ruyi
+  rotate: false
+  xy: 1, 4
+  size: 83, 87
+  orig: 85, 89
+  offset: 1, 1
+  index: -1
+yuanbao_hou
+  rotate: false
+  xy: 85, 25
+  size: 100, 66
+  orig: 102, 68
+  offset: 1, 1
+  index: -1
+yuanbao_qian
+  rotate: true
+  xy: 280, 20
+  size: 71, 51
+  orig: 73, 53
+  offset: 1, 1
+  index: -1
+zuan
+  rotate: false
+  xy: 332, 45
+  size: 52, 46
+  orig: 54, 48
+  offset: 1, 1
+  index: -1

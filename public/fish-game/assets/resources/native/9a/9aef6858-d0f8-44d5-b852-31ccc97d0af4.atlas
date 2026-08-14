@@ -1,0 +1,83 @@
+
+fish201.png
+size: 868,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang
+  rotate: true
+  xy: 814, 19
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+jin
+  rotate: false
+  xy: 1, 39
+  size: 241, 108
+  orig: 241, 108
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 1, 2
+  size: 167, 36
+  orig: 167, 36
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 243, 2
+  size: 122, 145
+  orig: 122, 145
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 480, 19
+  size: 97, 128
+  orig: 97, 128
+  offset: 0, 0
+  index: -1
+tuoshou
+  rotate: false
+  xy: 578, 44
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+tuoshoubao
+  rotate: true
+  xy: 669, 51
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+wuguan
+  rotate: false
+  xy: 169, 15
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: false
+  xy: 578, 1
+  size: 119, 42
+  orig: 119, 42
+  offset: 0, 0
+  index: -1
+yaodai1
+  rotate: true
+  xy: 756, 21
+  size: 126, 57
+  orig: 126, 57
+  offset: 0, 0
+  index: -1
+zhaoshu
+  rotate: false
+  xy: 366, 14
+  size: 113, 133
+  orig: 113, 133
+  offset: 0, 0
+  index: -1

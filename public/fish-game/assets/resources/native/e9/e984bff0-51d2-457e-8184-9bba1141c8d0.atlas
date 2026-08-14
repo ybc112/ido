@@ -1,0 +1,20 @@
+
+paotai_anim3.png
+size: 207,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai/dan3
+  rotate: false
+  xy: 145, 53
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+paotai/p3
+  rotate: true
+  xy: 1, 1
+  size: 114, 143
+  orig: 114, 143
+  offset: 0, 0
+  index: -1

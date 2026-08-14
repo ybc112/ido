@@ -1,0 +1,34 @@
+
+ruweijiangli.png
+size: 518,339
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ruweijiangli/leaf_big1
+  rotate: false
+  xy: 382, 214
+  size: 136, 125
+  orig: 136, 125
+  offset: 0, 0
+  index: -1
+ruweijiangli/leaf_big2
+  rotate: false
+  xy: 382, 33
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+ruweijiangli/pangxie
+  rotate: false
+  xy: 382, 88
+  size: 118, 126
+  orig: 118, 126
+  offset: 0, 0
+  index: -1
+ruweijiangli/ruweidao
+  rotate: false
+  xy: 0, 0
+  size: 382, 339
+  orig: 382, 339
+  offset: 0, 0
+  index: -1

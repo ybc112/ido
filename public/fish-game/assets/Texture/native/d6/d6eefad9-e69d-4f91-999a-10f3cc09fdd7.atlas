@@ -1,0 +1,34 @@
+
+zhadanleyuan.png
+size: 253,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating/zhangy (1)
+  rotate: true
+  xy: 1, 1
+  size: 152, 166
+  orig: 152, 166
+  offset: 0, 0
+  index: -1
+dating/zhangy (2)
+  rotate: false
+  xy: 203, 38
+  size: 49, 40
+  orig: 49, 40
+  offset: 0, 0
+  index: -1
+dating/zhangy (3)
+  rotate: false
+  xy: 168, 79
+  size: 76, 74
+  orig: 76, 74
+  offset: 0, 0
+  index: -1
+dating/zhangy (4)
+  rotate: false
+  xy: 168, 4
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1

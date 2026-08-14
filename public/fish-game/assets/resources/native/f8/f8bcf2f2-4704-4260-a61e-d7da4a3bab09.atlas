@@ -1,0 +1,195 @@
+
+GXHD.png
+size: 508,1048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/恭喜获得/caidai
+  rotate: true
+  xy: 1, 447
+  size: 600, 129
+  orig: 600, 129
+  offset: 0, 0
+  index: -1
+4/恭喜获得/faguang
+  rotate: true
+  xy: 365, 766
+  size: 281, 85
+  orig: 281, 85
+  offset: 0, 0
+  index: -1
+4/恭喜获得/gongxihuode
+  rotate: true
+  xy: 1, 164
+  size: 282, 81
+  orig: 282, 81
+  offset: 0, 0
+  index: -1
+4/恭喜获得/gongxihuode_00000
+  rotate: false
+  xy: 365, 471
+  size: 59, 69
+  orig: 282, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/gongxihuode_00001
+  rotate: false
+  xy: 355, 6
+  size: 99, 73
+  orig: 282, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/gongxihuode_00002
+  rotate: false
+  xy: 280, 364
+  size: 138, 74
+  orig: 282, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/gongxihuode_00003
+  rotate: true
+  xy: 280, 1
+  size: 177, 74
+  orig: 282, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/gongxihuode_00004
+  rotate: true
+  xy: 83, 166
+  size: 197, 72
+  orig: 282, 81
+  offset: 19, 4
+  index: -1
+4/恭喜获得/gongxihuode_00005
+  rotate: false
+  xy: 83, 364
+  size: 196, 74
+  orig: 282, 81
+  offset: 59, 4
+  index: -1
+4/恭喜获得/gongxihuode_00006
+  rotate: true
+  xy: 201, 4
+  size: 173, 78
+  orig: 282, 81
+  offset: 99, 2
+  index: -1
+4/恭喜获得/gongxihuode_00007
+  rotate: true
+  xy: 376, 224
+  size: 139, 78
+  orig: 282, 81
+  offset: 138, 2
+  index: -1
+4/恭喜获得/gongxihuode_00008
+  rotate: true
+  xy: 431, 532
+  size: 100, 76
+  orig: 282, 81
+  offset: 179, 2
+  index: -1
+4/恭喜获得/suixie (1)
+  rotate: false
+  xy: 131, 439
+  size: 233, 287
+  orig: 233, 287
+  offset: 0, 0
+  index: -1
+4/恭喜获得/suixie (2)
+  rotate: false
+  xy: 131, 727
+  size: 233, 320
+  orig: 233, 320
+  offset: 0, 0
+  index: -1
+4/恭喜获得/text_laoyubeilv
+  rotate: true
+  xy: 365, 541
+  size: 224, 65
+  orig: 224, 65
+  offset: 0, 0
+  index: -1
+4/恭喜获得/text_laoyubeilv_0
+  rotate: false
+  xy: 451, 910
+  size: 38, 69
+  orig: 281, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/text_laoyubeilv_1
+  rotate: false
+  xy: 425, 458
+  size: 77, 73
+  orig: 281, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/text_laoyubeilv_2
+  rotate: true
+  xy: 355, 80
+  size: 117, 74
+  orig: 281, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/text_laoyubeilv_3
+  rotate: true
+  xy: 126, 7
+  size: 158, 74
+  orig: 281, 81
+  offset: 0, 2
+  index: -1
+4/恭喜获得/text_laoyubeilv_4
+  rotate: true
+  xy: 156, 178
+  size: 185, 71
+  orig: 281, 81
+  offset: 17, 5
+  index: -1
+4/恭喜获得/text_laoyubeilv_5
+  rotate: true
+  xy: 228, 179
+  size: 184, 71
+  orig: 281, 81
+  offset: 62, 5
+  index: -1
+4/恭喜获得/text_laoyubeilv_6
+  rotate: true
+  xy: 300, 198
+  size: 165, 75
+  orig: 281, 81
+  offset: 106, 4
+  index: -1
+4/恭喜获得/text_laoyubeilv_7
+  rotate: true
+  xy: 431, 633
+  size: 132, 76
+  orig: 281, 81
+  offset: 146, 3
+  index: -1
+4/恭喜获得/text_laoyubeilv_8
+  rotate: true
+  xy: 419, 364
+  size: 93, 73
+  orig: 281, 81
+  offset: 186, 3
+  index: -1
+4/恭喜获得/text_laoyubeilv_9
+  rotate: false
+  xy: 451, 980
+  size: 53, 67
+  orig: 281, 81
+  offset: 223, 4
+  index: -1
+4/恭喜获得/xingxing
+  rotate: true
+  xy: 451, 858
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+4/恭喜获得/yu
+  rotate: true
+  xy: 1, 7
+  size: 156, 124
+  orig: 156, 124
+  offset: 0, 0
+  index: -1

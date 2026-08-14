@@ -1,0 +1,76 @@
+
+jiaobiao_zhekou.png
+size: 351,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/icon_xianshizhekou/jiaobiao_zhekou
+  rotate: false
+  xy: 1, 46
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+4/icon_xianshizhekou/zhekou_001
+  rotate: true
+  xy: 227, 5
+  size: 40, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+4/icon_xianshizhekou/zhekou_002
+  rotate: false
+  xy: 282, 46
+  size: 57, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+4/icon_xianshizhekou/zhekou_003
+  rotate: false
+  xy: 207, 46
+  size: 74, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+4/icon_xianshizhekou/zhekou_004
+  rotate: false
+  xy: 120, 46
+  size: 86, 53
+  orig: 118, 53
+  offset: 6, 0
+  index: -1
+4/icon_xianshizhekou/zhekou_005
+  rotate: false
+  xy: 1, 1
+  size: 86, 44
+  orig: 118, 53
+  offset: 23, 9
+  index: -1
+4/icon_xianshizhekou/zhekou_006
+  rotate: false
+  xy: 88, 2
+  size: 77, 43
+  orig: 118, 53
+  offset: 41, 10
+  index: -1
+4/icon_xianshizhekou/zhekou_007
+  rotate: false
+  xy: 166, 2
+  size: 60, 43
+  orig: 118, 53
+  offset: 58, 10
+  index: -1
+4/icon_xianshizhekou/zhekou_008
+  rotate: true
+  xy: 281, 3
+  size: 42, 43
+  orig: 118, 53
+  offset: 76, 10
+  index: -1
+4/icon_xianshizhekou/zhekou_009
+  rotate: false
+  xy: 325, 2
+  size: 25, 43
+  orig: 118, 53
+  offset: 93, 10
+  index: -1

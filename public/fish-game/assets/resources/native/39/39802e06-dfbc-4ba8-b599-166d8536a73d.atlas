@@ -1,0 +1,20 @@
+
+ZJCjiesuan_deng.png
+size: 697,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/中级场结算/lamp_bai
+  rotate: false
+  xy: 362, 41
+  size: 335, 85
+  orig: 362, 126
+  offset: 14, 41
+  index: -1
+4/中级场结算/lamp_huang
+  rotate: false
+  xy: 0, 0
+  size: 362, 126
+  orig: 362, 126
+  offset: 0, 0
+  index: -1

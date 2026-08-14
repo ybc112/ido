@@ -1,0 +1,195 @@
+
+vippao5.png
+size: 361,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paokoutexiao
+  rotate: false
+  xy: 121, 2
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+vippaotai5/vippaotai5
+  rotate: false
+  xy: 1, 2
+  size: 119, 122
+  orig: 119, 122
+  offset: 0, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0001
+  rotate: false
+  xy: 315, 7
+  size: 7, 18
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0002
+  rotate: true
+  xy: 308, 26
+  size: 13, 19
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0003
+  rotate: true
+  xy: 341, 56
+  size: 18, 19
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0004
+  rotate: false
+  xy: 283, 4
+  size: 22, 21
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0005
+  rotate: false
+  xy: 312, 73
+  size: 28, 25
+  orig: 103, 36
+  offset: 0, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0006
+  rotate: false
+  xy: 255, 5
+  size: 27, 27
+  orig: 103, 36
+  offset: 5, 3
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0007
+  rotate: false
+  xy: 256, 94
+  size: 27, 30
+  orig: 103, 36
+  offset: 10, 5
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0008
+  rotate: false
+  xy: 227, 1
+  size: 27, 29
+  orig: 103, 36
+  offset: 15, 6
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0009
+  rotate: false
+  xy: 227, 31
+  size: 27, 30
+  orig: 103, 36
+  offset: 20, 6
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0010
+  rotate: false
+  xy: 227, 94
+  size: 28, 30
+  orig: 103, 36
+  offset: 25, 6
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0011
+  rotate: false
+  xy: 283, 48
+  size: 27, 18
+  orig: 103, 36
+  offset: 30, 18
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0012
+  rotate: true
+  xy: 343, 97
+  size: 27, 16
+  orig: 103, 36
+  offset: 35, 20
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0013
+  rotate: false
+  xy: 312, 57
+  size: 27, 15
+  orig: 103, 36
+  offset: 40, 21
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0014
+  rotate: false
+  xy: 311, 40
+  size: 27, 16
+  orig: 103, 36
+  offset: 45, 20
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0015
+  rotate: false
+  xy: 255, 63
+  size: 27, 30
+  orig: 103, 36
+  offset: 50, 6
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0016
+  rotate: true
+  xy: 312, 99
+  size: 25, 30
+  orig: 103, 36
+  offset: 56, 6
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0017
+  rotate: false
+  xy: 284, 95
+  size: 27, 29
+  orig: 103, 36
+  offset: 60, 6
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0018
+  rotate: false
+  xy: 227, 62
+  size: 27, 31
+  orig: 103, 36
+  offset: 65, 5
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0019
+  rotate: false
+  xy: 255, 33
+  size: 27, 29
+  orig: 103, 36
+  offset: 70, 4
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0020
+  rotate: false
+  xy: 284, 67
+  size: 27, 27
+  orig: 103, 36
+  offset: 74, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0021
+  rotate: false
+  xy: 283, 26
+  size: 24, 21
+  orig: 103, 36
+  offset: 79, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0022
+  rotate: false
+  xy: 341, 75
+  size: 19, 21
+  orig: 103, 36
+  offset: 84, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0023
+  rotate: true
+  xy: 339, 41
+  size: 14, 19
+  orig: 103, 36
+  offset: 89, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0024
+  rotate: false
+  xy: 306, 7
+  size: 8, 18
+  orig: 103, 36
+  offset: 95, 0
+  index: -1
+vippaotai5/vippaotai5shuaxiao/vippaotai5shuaxiao0025
+  rotate: false
+  xy: 323, 11
+  size: 4, 14
+  orig: 103, 36
+  offset: 99, 0
+  index: -1

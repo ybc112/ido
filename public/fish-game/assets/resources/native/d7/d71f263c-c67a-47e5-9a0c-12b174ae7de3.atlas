@@ -1,0 +1,62 @@
+
+feichuan_gaoji.png
+size: 547,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buyu_inside/luoxuanjiang/2
+  rotate: true
+  xy: 2, 2
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+Buyu_inside/luoxuanjiang/gaoji1
+  rotate: false
+  xy: 2, 184
+  size: 531, 361
+  orig: 531, 361
+  offset: 0, 0
+  index: -1
+Buyu_inside/luoxuanjiang/gaoji2
+  rotate: false
+  xy: 2, 69
+  size: 288, 113
+  orig: 288, 113
+  offset: 0, 0
+  index: -1
+Buyu_inside/luoxuanjiang/paodan1
+  rotate: false
+  xy: 350, 99
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+Buyu_inside/luoxuanjiang/paodan2
+  rotate: true
+  xy: 71, 12
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+Buyu_inside/luoxuanjiang/paodan3
+  rotate: false
+  xy: 292, 92
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+Buyu_inside/luoxuanjiang/paodan4
+  rotate: true
+  xy: 409, 129
+  size: 53, 84
+  orig: 53, 84
+  offset: 0, 0
+  index: -1
+Buyu_inside/luoxuanjiang/paodan5
+  rotate: true
+  xy: 161, 16
+  size: 51, 89
+  orig: 51, 89
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+chaijie_glow.png
+size: 1369,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buyu_inside/2/0
+  rotate: true
+  xy: 329, 25
+  size: 229, 280
+  orig: 280, 280
+  offset: 51, 0
+  index: -1
+Buyu_inside/2/1
+  rotate: true
+  xy: 609, 0
+  size: 254, 280
+  orig: 280, 280
+  offset: 26, 0
+  index: -1
+Buyu_inside/2/2
+  rotate: true
+  xy: 889, 17
+  size: 237, 272
+  orig: 280, 280
+  offset: 43, 8
+  index: -1
+Buyu_inside/2/3
+  rotate: true
+  xy: 1161, 25
+  size: 229, 208
+  orig: 280, 280
+  offset: 51, 36
+  index: -1
+Buyu_inside/2/chaijie
+  rotate: true
+  xy: 0, 36
+  size: 218, 329
+  orig: 218, 329
+  offset: 0, 0
+  index: -1

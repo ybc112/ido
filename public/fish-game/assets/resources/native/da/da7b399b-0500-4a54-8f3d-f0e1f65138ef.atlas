@@ -1,0 +1,27 @@
+
+yuwang_anim5.png
+size: 268,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao5/1
+  rotate: true
+  xy: 165, 1
+  size: 105, 102
+  orig: 105, 102
+  offset: 0, 0
+  index: -1
+pao5/2
+  rotate: false
+  xy: 1, 35
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+pao5/3
+  rotate: false
+  xy: 73, 15
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,272 @@
+
+dt_beijing_shu.png
+size: 664,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pangxie
+  rotate: true
+  xy: 630, 870
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+shuzhuang
+  rotate: false
+  xy: 562, 198
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+shuzhuang_shengzi
+  rotate: false
+  xy: 568, 45
+  size: 90, 127
+  orig: 90, 127
+  offset: 0, 0
+  index: -1
+you_bolang
+  rotate: true
+  xy: 248, 536
+  size: 495, 294
+  orig: 506, 306
+  offset: 11, 0
+  index: -1
+you_yun
+  rotate: true
+  xy: 274, 75
+  size: 460, 79
+  orig: 460, 79
+  offset: 0, 0
+  index: -1
+youshang_shitou2
+  rotate: true
+  xy: 543, 704
+  size: 98, 82
+  orig: 98, 82
+  offset: 0, 0
+  index: -1
+youshang_shu5
+  rotate: true
+  xy: 354, 70
+  size: 100, 186
+  orig: 100, 186
+  offset: 0, 0
+  index: -1
+youshang_shu6
+  rotate: true
+  xy: 120, 10
+  size: 59, 124
+  orig: 59, 124
+  offset: 0, 0
+  index: -1
+youxia_shu7
+  rotate: false
+  xy: 477, 196
+  size: 84, 193
+  orig: 86, 193
+  offset: 2, 0
+  index: -1
+youxia_shu8
+  rotate: true
+  xy: 543, 538
+  size: 38, 110
+  orig: 38, 119
+  offset: 0, 8
+  index: -1
+zhongyou_shan
+  rotate: false
+  xy: 481, 433
+  size: 182, 102
+  orig: 182, 102
+  offset: 0, 0
+  index: -1
+zhongyou_shu3
+  rotate: false
+  xy: 543, 913
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+zhongyou_shu4
+  rotate: true
+  xy: 1, 3
+  size: 66, 118
+  orig: 66, 118
+  offset: 0, 0
+  index: -1
+zhongzuo_shu10
+  rotate: false
+  xy: 562, 301
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+zhongzuo_shu9
+  rotate: false
+  xy: 543, 803
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+zuo_bolang
+  rotate: true
+  xy: 1, 257
+  size: 774, 246
+  orig: 844, 285
+  offset: 17, 12
+  index: -1
+zuo_shui1
+  rotate: false
+  xy: 248, 370
+  size: 22, 165
+  orig: 22, 165
+  offset: 0, 0
+  index: -1
+zuo_shui1_01
+  rotate: true
+  xy: 568, 9
+  size: 18, 33
+  orig: 24, 166
+  offset: 3, 133
+  index: -1
+zuo_shui1_02
+  rotate: true
+  xy: 481, 397
+  size: 20, 63
+  orig: 24, 166
+  offset: 3, 103
+  index: -1
+zuo_shui1_03
+  rotate: true
+  xy: 477, 173
+  size: 22, 91
+  orig: 24, 166
+  offset: 1, 73
+  index: -1
+zuo_shui1_04
+  rotate: false
+  xy: 541, 76
+  size: 20, 96
+  orig: 24, 166
+  offset: 1, 45
+  index: -1
+zuo_shui1_05
+  rotate: true
+  xy: 569, 181
+  size: 16, 91
+  orig: 24, 166
+  offset: 5, 19
+  index: -1
+zuo_shui1_06
+  rotate: true
+  xy: 481, 418
+  size: 14, 74
+  orig: 24, 166
+  offset: 6, 4
+  index: -1
+zuo_shui1_07
+  rotate: true
+  xy: 457, 5
+  size: 9, 43
+  orig: 24, 166
+  offset: 9, 1
+  index: -1
+zuo_shui2
+  rotate: false
+  xy: 626, 594
+  size: 16, 208
+  orig: 16, 208
+  offset: 0, 0
+  index: -1
+zuo_shui2_00
+  rotate: true
+  xy: 442, 3
+  size: 11, 14
+  orig: 16, 208
+  offset: 0, 193
+  index: -1
+zuo_shui2_01
+  rotate: true
+  xy: 602, 11
+  size: 16, 49
+  orig: 16, 208
+  offset: 0, 159
+  index: -1
+zuo_shui2_02
+  rotate: true
+  xy: 568, 28
+  size: 16, 84
+  orig: 16, 208
+  offset: 0, 124
+  index: -1
+zuo_shui2_03
+  rotate: true
+  xy: 543, 577
+  size: 16, 115
+  orig: 16, 208
+  offset: 0, 92
+  index: -1
+zuo_shui2_04
+  rotate: false
+  xy: 248, 260
+  size: 15, 109
+  orig: 16, 208
+  offset: 1, 67
+  index: -1
+zuo_shui2_05
+  rotate: true
+  xy: 245, 1
+  size: 13, 107
+  orig: 16, 208
+  offset: 2, 34
+  index: -1
+zuo_shui2_06
+  rotate: true
+  xy: 353, 3
+  size: 11, 88
+  orig: 16, 208
+  offset: 4, 18
+  index: -1
+zuo_shui2_07
+  rotate: true
+  xy: 120, 3
+  size: 6, 70
+  orig: 16, 208
+  offset: 8, 1
+  index: -1
+zuo_shui2_08
+  rotate: true
+  xy: 191, 7
+  size: 2, 33
+  orig: 16, 208
+  offset: 10, 1
+  index: -1
+zuo_yun
+  rotate: false
+  xy: 245, 15
+  size: 322, 54
+  orig: 322, 54
+  offset: 0, 0
+  index: -1
+zuoxia_caocong
+  rotate: true
+  xy: 1, 70
+  size: 186, 272
+  orig: 186, 273
+  offset: 0, 1
+  index: -1
+zuoxia_shu1
+  rotate: false
+  xy: 354, 171
+  size: 122, 218
+  orig: 122, 218
+  offset: 0, 0
+  index: -1
+zuoxia_shu2
+  rotate: false
+  xy: 354, 390
+  size: 126, 145
+  orig: 126, 206
+  offset: 0, 61
+  index: -1

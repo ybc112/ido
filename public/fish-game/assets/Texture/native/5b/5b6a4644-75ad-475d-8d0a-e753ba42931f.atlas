@@ -1,0 +1,48 @@
+
+wfy_jinbi.png
+size: 217,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+texiao/2020.6.24-zhangyukuangbao/金币序列帧/images/1
+  rotate: true
+  xy: 110, 120
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/金币序列帧/images/2
+  rotate: true
+  xy: 1, 56
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/金币序列帧/images/3
+  rotate: true
+  xy: 108, 3
+  size: 18, 106
+  orig: 18, 106
+  offset: 0, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/金币序列帧/images/4
+  rotate: true
+  xy: 1, 1
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/金币序列帧/images/5
+  rotate: true
+  xy: 110, 22
+  size: 97, 106
+  orig: 97, 106
+  offset: 0, 0
+  index: -1
+texiao/2020.6.24-zhangyukuangbao/金币序列帧/images/6
+  rotate: true
+  xy: 1, 111
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1

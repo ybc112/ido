@@ -1,0 +1,125 @@
+
+vip_shengji.png
+size: 1553,619
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/vip_shengji/beike
+  rotate: false
+  xy: 617, 209
+  size: 415, 410
+  orig: 415, 410
+  offset: 0, 0
+  index: -1
+3/vip_shengji/bolang
+  rotate: false
+  xy: 1032, 398
+  size: 485, 122
+  orig: 485, 122
+  offset: 0, 0
+  index: -1
+3/vip_shengji/caidai
+  rotate: false
+  xy: 1032, 520
+  size: 514, 99
+  orig: 514, 99
+  offset: 0, 0
+  index: -1
+3/vip_shengji/g
+  rotate: false
+  xy: 0, 2
+  size: 617, 617
+  orig: 617, 617
+  offset: 0, 0
+  index: -1
+3/vip_shengji/guanbi_qipao
+  rotate: true
+  xy: 1375, 51
+  size: 133, 89
+  orig: 133, 89
+  offset: 0, 0
+  index: -1
+3/vip_shengji/gxsj
+  rotate: false
+  xy: 1032, 206
+  size: 248, 86
+  orig: 248, 86
+  offset: 0, 0
+  index: -1
+3/vip_shengji/gxsj_00000
+  rotate: false
+  xy: 1456, 193
+  size: 97, 97
+  orig: 312, 109
+  offset: 0, 3
+  index: -1
+3/vip_shengji/gxsj_00001
+  rotate: false
+  xy: 825, 1
+  size: 131, 100
+  orig: 312, 109
+  offset: 0, 3
+  index: -1
+3/vip_shengji/gxsj_00002
+  rotate: false
+  xy: 1280, 184
+  size: 176, 106
+  orig: 312, 109
+  offset: 0, 3
+  index: -1
+3/vip_shengji/gxsj_00003
+  rotate: false
+  xy: 1012, 100
+  size: 220, 106
+  orig: 312, 109
+  offset: 0, 3
+  index: -1
+3/vip_shengji/gxsj_00004
+  rotate: false
+  xy: 1032, 292
+  size: 258, 106
+  orig: 312, 109
+  offset: 22, 3
+  index: -1
+3/vip_shengji/gxsj_00005
+  rotate: false
+  xy: 1290, 290
+  size: 236, 108
+  orig: 312, 109
+  offset: 76, 1
+  index: -1
+3/vip_shengji/gxsj_00006
+  rotate: false
+  xy: 825, 101
+  size: 187, 108
+  orig: 312, 109
+  offset: 125, 1
+  index: -1
+3/vip_shengji/gxsj_00007
+  rotate: false
+  xy: 1232, 78
+  size: 143, 106
+  orig: 312, 109
+  offset: 169, 1
+  index: -1
+3/vip_shengji/gxsj_00008
+  rotate: false
+  xy: 956, 0
+  size: 107, 100
+  orig: 312, 109
+  offset: 205, 1
+  index: -1
+3/vip_shengji/qipao
+  rotate: false
+  xy: 617, 1
+  size: 208, 208
+  orig: 208, 208
+  offset: 0, 0
+  index: -1
+3/vip_shengji/shuicao
+  rotate: false
+  xy: 1464, 62
+  size: 83, 131
+  orig: 83, 131
+  offset: 0, 0
+  index: -1

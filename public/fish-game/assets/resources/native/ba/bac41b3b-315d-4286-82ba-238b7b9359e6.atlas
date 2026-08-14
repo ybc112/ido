@@ -1,0 +1,13 @@
+
+zidan_anim3.png
+size: 55,127
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai/d3
+  rotate: false
+  xy: 1, 1
+  size: 53, 125
+  orig: 53, 125
+  offset: 0, 0
+  index: -1

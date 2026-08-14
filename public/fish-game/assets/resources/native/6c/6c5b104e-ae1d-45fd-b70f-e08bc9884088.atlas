@@ -1,0 +1,13 @@
+
+xinshou.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou
+  rotate: false
+  xy: 0, 0
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1

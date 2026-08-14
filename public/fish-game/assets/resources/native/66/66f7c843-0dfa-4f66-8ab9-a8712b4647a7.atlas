@@ -1,0 +1,27 @@
+
+zaicichu.png
+size: 275,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+您在此处/circle
+  rotate: false
+  xy: 0, 0
+  size: 221, 221
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+您在此处/nzcc
+  rotate: true
+  xy: 221, 83
+  size: 138, 54
+  orig: 138, 54
+  offset: 0, 0
+  index: -1
+您在此处/sj
+  rotate: true
+  xy: 221, 23
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1

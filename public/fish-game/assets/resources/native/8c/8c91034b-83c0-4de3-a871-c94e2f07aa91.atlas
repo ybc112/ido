@@ -1,0 +1,20 @@
+
+fish04.png
+size: 22,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/阿扁鱼拆分/abianchib
+  rotate: true
+  xy: 0, 0
+  size: 16, 22
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+H5Newfishes/阿扁鱼拆分/abianshenti
+  rotate: true
+  xy: 0, 16
+  size: 58, 17
+  orig: 58, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+kuangbao_zidan.png
+size: 55,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuangbao_zidan
+  rotate: false
+  xy: 1, 1
+  size: 53, 118
+  orig: 53, 118
+  offset: 0, 0
+  index: -1

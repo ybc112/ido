@@ -1,0 +1,41 @@
+
+paopao_heitao.png
+size: 333,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/黑红梅方彩券/气泡
+  rotate: false
+  xy: 2, 120
+  size: 208, 211
+  orig: 208, 211
+  offset: 0, 0
+  index: -1
+3/黑红梅方彩券/黑桃1
+  rotate: false
+  xy: 2, 2
+  size: 121, 116
+  orig: 128, 128
+  offset: 4, 6
+  index: -1
+3/黑红梅方彩券/黑桃2
+  rotate: false
+  xy: 212, 215
+  size: 100, 116
+  orig: 128, 128
+  offset: 14, 6
+  index: -1
+3/黑红梅方彩券/黑桃3
+  rotate: false
+  xy: 125, 2
+  size: 81, 116
+  orig: 128, 128
+  offset: 24, 6
+  index: -1
+3/黑红梅方彩券/黑桃4
+  rotate: true
+  xy: 212, 184
+  size: 29, 117
+  orig: 128, 128
+  offset: 50, 5
+  index: -1

@@ -1,0 +1,20 @@
+
+paotai_anim4.png
+size: 207,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai4/huo4
+  rotate: true
+  xy: 160, 80
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+paotai4/pao4
+  rotate: false
+  xy: 1, 1
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1

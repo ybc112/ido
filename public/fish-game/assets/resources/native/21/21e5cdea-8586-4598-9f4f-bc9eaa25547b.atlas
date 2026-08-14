@@ -1,0 +1,76 @@
+
+fish20.png
+size: 769,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui
+  rotate: true
+  xy: 623, 0
+  size: 58, 70
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+houtui1
+  rotate: false
+  xy: 699, 200
+  size: 53, 66
+  orig: 53, 66
+  offset: 0, 0
+  index: -1
+huxu
+  rotate: false
+  xy: 478, 195
+  size: 221, 71
+  orig: 221, 71
+  offset: 0, 0
+  index: -1
+huxu1
+  rotate: false
+  xy: 478, 97
+  size: 148, 98
+  orig: 148, 98
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 626, 58
+  size: 143, 137
+  orig: 143, 137
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: false
+  xy: 438, 1
+  size: 103, 94
+  orig: 103, 95
+  offset: 0, 0
+  index: -1
+qiantui1
+  rotate: false
+  xy: 541, 22
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+shenzi
+  rotate: false
+  xy: 0, 1
+  size: 317, 265
+  orig: 317, 265
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 317, 95
+  size: 161, 171
+  orig: 161, 171
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 317, 5
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+fishes_shangxia.png
+size: 609,156
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoyuhuodong/fishes/icon_ankangyu
+  rotate: false
+  xy: 460, 77
+  size: 74, 78
+  orig: 93, 86
+  offset: 9, 4
+  index: -1
+laoyuhuodong/fishes/icon_chuitousha
+  rotate: false
+  xy: 479, 1
+  size: 75, 75
+  orig: 93, 86
+  offset: 11, 6
+  index: -1
+laoyuhuodong/fishes/icon_daoyu
+  rotate: false
+  xy: 535, 77
+  size: 60, 78
+  orig: 93, 86
+  offset: 13, 4
+  index: -1
+laoyuhuodong/fishes/icon_haima
+  rotate: true
+  xy: 1, 2
+  size: 50, 80
+  orig: 93, 86
+  offset: 24, 4
+  index: -1
+laoyuhuodong/fishes/icon_hongcitun
+  rotate: true
+  xy: 311, 73
+  size: 82, 74
+  orig: 93, 86
+  offset: 5, 6
+  index: -1
+laoyuhuodong/fishes/icon_jijuxie
+  rotate: true
+  xy: 254, 1
+  size: 65, 75
+  orig: 93, 86
+  offset: 15, 5
+  index: -1
+laoyuhuodong/fishes/icon_lancitun
+  rotate: false
+  xy: 330, 1
+  size: 74, 71
+  orig: 93, 86
+  offset: 9, 8
+  index: -1
+laoyuhuodong/fishes/icon_shenxianyu
+  rotate: true
+  xy: 386, 73
+  size: 82, 73
+  orig: 93, 86
+  offset: 6, 6
+  index: -1
+laoyuhuodong/fishes/icon_shiziyu
+  rotate: true
+  xy: 83, 62
+  size: 93, 82
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+laoyuhuodong/fishes/icon_xiaochouyu
+  rotate: true
+  xy: 245, 67
+  size: 88, 65
+  orig: 93, 86
+  offset: 2, 12
+  index: -1
+laoyuhuodong/fishes/icon_xiaohaigui
+  rotate: true
+  xy: 173, 1
+  size: 63, 80
+  orig: 93, 86
+  offset: 18, 4
+  index: -1
+laoyuhuodong/fishes/icon_yingwuyu
+  rotate: false
+  xy: 405, 4
+  size: 73, 68
+  orig: 93, 86
+  offset: 13, 9
+  index: -1
+laoyuhuodong/yuwang/yongquan
+  rotate: true
+  xy: 166, 65
+  size: 90, 78
+  orig: 90, 78
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/yongquan_bowen
+  rotate: true
+  xy: 1, 53
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/yongquan_bowen_li
+  rotate: false
+  xy: 555, 45
+  size: 53, 31
+  orig: 53, 31
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/yongquan_shang
+  rotate: false
+  xy: 82, 13
+  size: 90, 39
+  orig: 90, 39
+  offset: 0, 0
+  index: -1

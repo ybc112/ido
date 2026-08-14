@@ -1,0 +1,76 @@
+
+zi_jingjichang.png
+size: 78,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating/zi/jingjichang/jingjichang_00000
+  rotate: true
+  xy: 39, 82
+  size: 13, 37
+  orig: 120, 48
+  offset: 7, 5
+  index: -1
+dating/zi/jingjichang/jingjichang_00001
+  rotate: true
+  xy: 0, 0
+  size: 31, 40
+  orig: 120, 48
+  offset: 7, 4
+  index: -1
+dating/zi/jingjichang/jingjichang_00002
+  rotate: true
+  xy: 0, 31
+  size: 47, 40
+  orig: 120, 48
+  offset: 7, 4
+  index: -1
+dating/zi/jingjichang/jingjichang_00003
+  rotate: true
+  xy: 0, 130
+  size: 67, 39
+  orig: 120, 48
+  offset: 7, 5
+  index: -1
+dating/zi/jingjichang/jingjichang_00004
+  rotate: true
+  xy: 39, 199
+  size: 83, 39
+  orig: 120, 48
+  offset: 8, 5
+  index: -1
+dating/zi/jingjichang/jingjichang_00005
+  rotate: true
+  xy: 0, 197
+  size: 85, 39
+  orig: 120, 48
+  offset: 24, 5
+  index: -1
+dating/zi/jingjichang/jingjichang_00006
+  rotate: true
+  xy: 39, 129
+  size: 70, 39
+  orig: 120, 48
+  offset: 43, 5
+  index: -1
+dating/zi/jingjichang/jingjichang_00007
+  rotate: true
+  xy: 0, 78
+  size: 52, 39
+  orig: 120, 48
+  offset: 61, 5
+  index: -1
+dating/zi/jingjichang/jingjichang_00008
+  rotate: true
+  xy: 39, 95
+  size: 34, 39
+  orig: 120, 48
+  offset: 79, 5
+  index: -1
+dating/zi/jingjichang/jingjichang_00009
+  rotate: false
+  xy: 40, 45
+  size: 18, 37
+  orig: 120, 48
+  offset: 95, 6
+  index: -1

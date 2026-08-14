@@ -1,0 +1,48 @@
+
+fish707.png
+size: 1133,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chib
+  rotate: true
+  xy: 1008, 2
+  size: 105, 124
+  orig: 105, 124
+  offset: 0, 0
+  index: -1
+chibangda
+  rotate: false
+  xy: 840, 108
+  size: 214, 168
+  orig: 214, 168
+  offset: 0, 0
+  index: -1
+chibangxiao
+  rotate: true
+  xy: 1055, 141
+  size: 135, 62
+  orig: 135, 62
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 840, 1
+  size: 167, 106
+  orig: 174, 106
+  offset: 7, 0
+  index: -1
+guang
+  rotate: false
+  xy: 636, 74
+  size: 203, 202
+  orig: 208, 208
+  offset: 2, 2
+  index: -1
+shenti
+  rotate: false
+  xy: 1, 15
+  size: 634, 261
+  orig: 634, 262
+  offset: 0, 0
+  index: -1

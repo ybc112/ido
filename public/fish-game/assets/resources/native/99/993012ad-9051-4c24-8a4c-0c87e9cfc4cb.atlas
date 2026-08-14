@@ -1,0 +1,41 @@
+
+fish15.png
+size: 101,49
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/shuimu_new/shuimu1
+  rotate: false
+  xy: 0, 4
+  size: 57, 45
+  orig: 57, 45
+  offset: 0, 0
+  index: -1
+H5Newfishes/shuimu_new/shuimu2
+  rotate: false
+  xy: 57, 11
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+H5Newfishes/shuimu_new/shuimu3
+  rotate: true
+  xy: 57, 5
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+H5Newfishes/shuimu_new/shuimu4
+  rotate: false
+  xy: 93, 5
+  size: 8, 44
+  orig: 8, 44
+  offset: 0, 0
+  index: -1
+H5Newfishes/shuimu_new/shuimu5
+  rotate: true
+  xy: 0, 0
+  size: 4, 40
+  orig: 4, 40
+  offset: 0, 0
+  index: -1

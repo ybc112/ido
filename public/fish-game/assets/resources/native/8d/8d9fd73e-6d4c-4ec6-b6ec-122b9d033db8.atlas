@@ -1,0 +1,48 @@
+
+bianbeiyu_jiangli.png
+size: 1693,575
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/bianbeiyu_jiangli/guang
+  rotate: false
+  xy: 849, 141
+  size: 434, 434
+  orig: 434, 434
+  offset: 0, 0
+  index: -1
+3/bianbeiyu_jiangli/huangguan
+  rotate: true
+  xy: 1347, 0
+  size: 122, 111
+  orig: 122, 111
+  offset: 0, 0
+  index: -1
+3/bianbeiyu_jiangli/light2
+  rotate: true
+  xy: 1347, 122
+  size: 453, 346
+  orig: 569, 435
+  offset: 57, 51
+  index: -1
+3/bianbeiyu_jiangli/light_1
+  rotate: true
+  xy: 0, 6
+  size: 569, 424
+  orig: 569, 435
+  offset: 0, 11
+  index: -1
+3/bianbeiyu_jiangli/shuzidi
+  rotate: false
+  xy: 849, 11
+  size: 498, 130
+  orig: 498, 130
+  offset: 0, 0
+  index: -1
+3/bianbeiyu_jiangli/spk
+  rotate: true
+  xy: 424, 8
+  size: 567, 425
+  orig: 567, 425
+  offset: 0, 0
+  index: -1

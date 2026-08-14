@@ -1,0 +1,48 @@
+
+jiesuan_tongyong.png
+size: 1424,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/恭喜获得/caidai
+  rotate: false
+  xy: 1, 148
+  size: 706, 152
+  orig: 706, 152
+  offset: 0, 0
+  index: -1
+4/恭喜获得/faguang
+  rotate: false
+  xy: 1, 47
+  size: 330, 100
+  orig: 330, 100
+  offset: 0, 0
+  index: -1
+4/恭喜获得/suixie (1)
+  rotate: true
+  xy: 1085, 26
+  size: 274, 338
+  orig: 274, 338
+  offset: 0, 0
+  index: -1
+4/恭喜获得/suixie (2)
+  rotate: true
+  xy: 708, 26
+  size: 274, 376
+  orig: 274, 376
+  offset: 0, 0
+  index: -1
+4/恭喜获得/xingxing
+  rotate: false
+  xy: 517, 89
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+4/恭喜获得/yu
+  rotate: false
+  xy: 332, 1
+  size: 184, 146
+  orig: 184, 146
+  offset: 0, 0
+  index: -1

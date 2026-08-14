@@ -1,0 +1,62 @@
+
+mokunshangdian_uik.png
+size: 1778,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mokunshangdian/dk_chuanshuo_01
+  rotate: false
+  xy: 1, 2
+  size: 218, 282
+  orig: 250, 300
+  offset: 8, 6
+  index: -1
+mokunshangdian/dk_chuanshuo_02
+  rotate: false
+  xy: 1546, 54
+  size: 231, 230
+  orig: 250, 300
+  offset: 10, 4
+  index: -1
+mokunshangdian/dk_chuanshuo_03
+  rotate: false
+  xy: 672, 28
+  size: 231, 256
+  orig: 250, 300
+  offset: 13, 4
+  index: -1
+mokunshangdian/dk_chuanshuo_04
+  rotate: false
+  xy: 1110, 2
+  size: 204, 282
+  orig: 250, 300
+  offset: 41, 6
+  index: -1
+mokunshangdian/dk_chuanshuo_05
+  rotate: false
+  xy: 220, 2
+  size: 218, 282
+  orig: 250, 300
+  offset: 27, 9
+  index: -1
+mokunshangdian/dk_chuanshuo_06
+  rotate: true
+  xy: 1315, 52
+  size: 232, 230
+  orig: 250, 300
+  offset: 12, 63
+  index: -1
+mokunshangdian/dk_chuanshuo_07
+  rotate: false
+  xy: 439, 27
+  size: 232, 257
+  orig: 250, 300
+  offset: 9, 36
+  index: -1
+mokunshangdian/dk_chuanshuo_08
+  rotate: false
+  xy: 904, 1
+  size: 205, 283
+  orig: 250, 300
+  offset: 8, 8
+  index: -1

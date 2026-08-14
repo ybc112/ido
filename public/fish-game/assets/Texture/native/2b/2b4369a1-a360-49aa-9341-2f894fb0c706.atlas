@@ -1,0 +1,139 @@
+
+laoyu.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoyuhuodong/fishes/icon_ankangyu
+  rotate: true
+  xy: 1152, 14
+  size: 104, 110
+  orig: 133, 123
+  offset: 14, 7
+  index: -1
+laoyuhuodong/fishes/icon_chuitousha
+  rotate: false
+  xy: 1263, 12
+  size: 106, 106
+  orig: 133, 123
+  offset: 16, 9
+  index: -1
+laoyuhuodong/fishes/icon_daoyu
+  rotate: true
+  xy: 1686, 33
+  size: 85, 110
+  orig: 133, 123
+  offset: 19, 7
+  index: -1
+laoyuhuodong/fishes/icon_haima
+  rotate: true
+  xy: 923, 48
+  size: 70, 114
+  orig: 133, 123
+  offset: 35, 6
+  index: -1
+laoyuhuodong/fishes/icon_hongcitun
+  rotate: false
+  xy: 135, 13
+  size: 115, 105
+  orig: 133, 123
+  offset: 8, 8
+  index: -1
+laoyuhuodong/fishes/icon_jijuxie
+  rotate: true
+  xy: 1580, 26
+  size: 92, 105
+  orig: 133, 123
+  offset: 22, 8
+  index: -1
+laoyuhuodong/fishes/icon_lancitun
+  rotate: false
+  xy: 1370, 18
+  size: 105, 100
+  orig: 133, 123
+  offset: 13, 12
+  index: -1
+laoyuhuodong/fishes/icon_shenxianyu
+  rotate: false
+  xy: 251, 15
+  size: 116, 103
+  orig: 133, 123
+  offset: 9, 10
+  index: -1
+laoyuhuodong/fishes/icon_shiziyu
+  rotate: false
+  xy: 1, 1
+  size: 133, 117
+  orig: 133, 123
+  offset: 0, 0
+  index: -1
+laoyuhuodong/fishes/icon_xiaochouyu
+  rotate: false
+  xy: 368, 26
+  size: 125, 92
+  orig: 133, 123
+  offset: 3, 18
+  index: -1
+laoyuhuodong/fishes/icon_xiaohaigui
+  rotate: true
+  xy: 1038, 30
+  size: 88, 113
+  orig: 133, 123
+  offset: 27, 6
+  index: -1
+laoyuhuodong/fishes/icon_yingwuyu
+  rotate: false
+  xy: 1476, 22
+  size: 103, 96
+  orig: 133, 123
+  offset: 20, 13
+  index: -1
+laoyuhuodong/yuwang/donghua_jin1
+  rotate: false
+  xy: 494, 50
+  size: 142, 68
+  orig: 142, 68
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/donghua_jin2
+  rotate: false
+  xy: 1797, 39
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/donghua_mu1
+  rotate: false
+  xy: 637, 50
+  size: 142, 68
+  orig: 142, 68
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/donghua_mu2
+  rotate: false
+  xy: 1878, 79
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/donghua_yin1
+  rotate: false
+  xy: 780, 50
+  size: 142, 68
+  orig: 142, 68
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/donghua_yin2
+  rotate: false
+  xy: 1797, 79
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/shuidi
+  rotate: true
+  xy: 494, 31
+  size: 18, 26
+  orig: 32, 32
+  offset: 7, 3
+  index: -1

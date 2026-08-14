@@ -1,0 +1,13 @@
+
+zhuanpan_gggg.png
+size: 176,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuanpan_glow_2_0
+  rotate: false
+  xy: 1, 1
+  size: 174, 188
+  orig: 200, 200
+  offset: 13, 6
+  index: -1

@@ -1,0 +1,20 @@
+
+fish08.png
+size: 109,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/鮟鱇鱼序列帧/ankangyu_new/ankangyubeibu
+  rotate: false
+  xy: 0, 0
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+H5Newfishes/鮟鱇鱼序列帧/ankangyu_new/ankangyudeng
+  rotate: false
+  xy: 56, 8
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1

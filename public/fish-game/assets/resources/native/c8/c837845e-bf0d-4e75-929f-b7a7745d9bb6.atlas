@@ -1,0 +1,13 @@
+
+zidan_anim5.png
+size: 45,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paodan5
+  rotate: false
+  xy: 1, 1
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1

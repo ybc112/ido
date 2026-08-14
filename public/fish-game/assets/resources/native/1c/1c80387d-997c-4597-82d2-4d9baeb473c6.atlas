@@ -1,0 +1,27 @@
+
+fish19.png
+size: 397,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi
+  rotate: false
+  xy: 339, 38
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+chi 1
+  rotate: true
+  xy: 339, 66
+  size: 89, 58
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 0, 0
+  size: 339, 155
+  orig: 339, 155
+  offset: 0, 0
+  index: -1

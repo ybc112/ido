@@ -1,0 +1,69 @@
+
+fish_haibao.png
+size: 551,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newfishes/fish_haibao/1
+  rotate: false
+  xy: 2, 291
+  size: 277, 87
+  orig: 279, 90
+  offset: 1, 0
+  index: -1
+newfishes/fish_haibao/2
+  rotate: false
+  xy: 278, 191
+  size: 271, 86
+  orig: 279, 90
+  offset: 8, 2
+  index: -1
+newfishes/fish_haibao/3
+  rotate: false
+  xy: 2, 23
+  size: 271, 87
+  orig: 279, 90
+  offset: 1, 0
+  index: -1
+newfishes/fish_haibao/4
+  rotate: true
+  xy: 308, 281
+  size: 268, 88
+  orig: 279, 90
+  offset: 7, 0
+  index: -1
+newfishes/fish_haibao/5
+  rotate: false
+  xy: 2, 112
+  size: 273, 87
+  orig: 279, 90
+  offset: 5, 1
+  index: -1
+newfishes/fish_haibao/6
+  rotate: true
+  xy: 398, 279
+  size: 270, 88
+  orig: 279, 90
+  offset: 9, 2
+  index: -1
+newfishes/fish_haibao/7
+  rotate: false
+  xy: 2, 201
+  size: 274, 88
+  orig: 279, 90
+  offset: 0, 1
+  index: -1
+newfishes/fish_haibao/haibao
+  rotate: false
+  xy: 2, 380
+  size: 304, 169
+  orig: 304, 169
+  offset: 0, 0
+  index: -1
+newfishes/fish_haibao/haibao_daodan
+  rotate: false
+  xy: 277, 96
+  size: 153, 93
+  orig: 153, 93
+  offset: 0, 0
+  index: -1

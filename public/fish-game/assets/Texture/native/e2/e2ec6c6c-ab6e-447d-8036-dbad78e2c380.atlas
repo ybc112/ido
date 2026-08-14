@@ -1,0 +1,62 @@
+
+icon_jiesuolonggong.png
+size: 139,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/icon_new/jiaobiao_jiesuolg
+  rotate: false
+  xy: 0, 102
+  size: 118, 53
+  orig: 118, 53
+  offset: 0, 0
+  index: -1
+UI/icon_new/jiesuolg_001
+  rotate: false
+  xy: 118, 117
+  size: 13, 38
+  orig: 125, 60
+  offset: 3, 19
+  index: -1
+UI/icon_new/jiesuolg_002
+  rotate: false
+  xy: 104, 7
+  size: 35, 44
+  orig: 125, 60
+  offset: 3, 13
+  index: -1
+UI/icon_new/jiesuolg_003
+  rotate: false
+  xy: 0, 0
+  size: 53, 48
+  orig: 125, 60
+  offset: 7, 9
+  index: -1
+UI/icon_new/jiesuolg_004
+  rotate: false
+  xy: 0, 48
+  size: 54, 54
+  orig: 125, 60
+  offset: 28, 3
+  index: -1
+UI/icon_new/jiesuolg_005
+  rotate: false
+  xy: 54, 51
+  size: 56, 51
+  orig: 125, 60
+  offset: 48, 6
+  index: -1
+UI/icon_new/jiesuolg_006
+  rotate: false
+  xy: 54, 7
+  size: 50, 44
+  orig: 125, 60
+  offset: 72, 13
+  index: -1
+UI/icon_new/jiesuolg_007
+  rotate: false
+  xy: 110, 58
+  size: 28, 44
+  orig: 125, 60
+  offset: 94, 13
+  index: -1

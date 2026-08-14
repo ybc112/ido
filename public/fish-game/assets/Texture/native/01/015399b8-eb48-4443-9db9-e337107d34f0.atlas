@@ -1,0 +1,62 @@
+
+longwangchuanshuo.png
+size: 773,773
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xuanchang_UITX/longwang/baoxiang
+  rotate: false
+  xy: 199, 165
+  size: 261, 253
+  orig: 261, 253
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/haidao
+  rotate: false
+  xy: 2, 420
+  size: 470, 351
+  orig: 470, 351
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/langhua
+  rotate: false
+  xy: 199, 36
+  size: 500, 127
+  orig: 500, 127
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/longwang (1)
+  rotate: true
+  xy: 622, 174
+  size: 98, 137
+  orig: 98, 137
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/longwang (2)
+  rotate: false
+  xy: 474, 346
+  size: 283, 425
+  orig: 283, 425
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/longwang (3)
+  rotate: false
+  xy: 701, 274
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/longwang (4)
+  rotate: true
+  xy: 462, 166
+  size: 178, 158
+  orig: 178, 158
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/shuicao
+  rotate: false
+  xy: 2, 2
+  size: 195, 416
+  orig: 195, 416
+  offset: 0, 0
+  index: -1

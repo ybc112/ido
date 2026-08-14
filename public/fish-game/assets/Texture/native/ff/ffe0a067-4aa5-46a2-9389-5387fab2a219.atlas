@@ -1,0 +1,20 @@
+
+xcsunwukong2.png
+size: 720,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+langhua
+  rotate: false
+  xy: 320, 157
+  size: 400, 102
+  orig: 400, 102
+  offset: 0, 0
+  index: -1
+xuanchangd
+  rotate: false
+  xy: 0, 0
+  size: 320, 259
+  orig: 320, 259
+  offset: 0, 0
+  index: -1

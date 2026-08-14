@@ -1,0 +1,41 @@
+
+dazhangyu_laixi.png
+size: 937,543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/boss
+  rotate: false
+  xy: 505, 1
+  size: 359, 215
+  orig: 359, 215
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/faguang
+  rotate: false
+  xy: 865, 160
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/guangzy
+  rotate: false
+  xy: 1, 8
+  size: 503, 534
+  orig: 503, 534
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text
+  rotate: true
+  xy: 872, 312
+  size: 230, 64
+  orig: 230, 64
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/zhangyu
+  rotate: true
+  xy: 505, 217
+  size: 325, 366
+  orig: 325, 366
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+WanjiaShengji.png
+size: 1079,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/Wanjiashengji/cao
+  rotate: false
+  xy: 546, 262
+  size: 322, 283
+  orig: 322, 283
+  offset: 0, 0
+  index: -1
+UI/Wanjiashengji/g
+  rotate: false
+  xy: 2, 2
+  size: 542, 543
+  orig: 542, 543
+  offset: 0, 0
+  index: -1
+UI/Wanjiashengji/pp_sj
+  rotate: false
+  xy: 870, 338
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+UI/Wanjiashengji/title_sj
+  rotate: true
+  xy: 839, 14
+  size: 246, 93
+  orig: 246, 93
+  offset: 0, 0
+  index: -1
+UI/Wanjiashengji/yu1
+  rotate: false
+  xy: 934, 195
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+UI/Wanjiashengji/yu2
+  rotate: true
+  xy: 546, 15
+  size: 245, 291
+  orig: 245, 291
+  offset: 0, 0
+  index: -1

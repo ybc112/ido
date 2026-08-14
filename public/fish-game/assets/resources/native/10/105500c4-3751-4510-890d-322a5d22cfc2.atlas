@@ -1,0 +1,83 @@
+
+zhaohuan_fazhen.png
+size: 785,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhaohuan/fz_00000
+  rotate: false
+  xy: 207, 150
+  size: 169, 180
+  orig: 240, 240
+  offset: 38, 38
+  index: -1
+zhaohuan/glow_00000
+  rotate: false
+  xy: 0, 102
+  size: 207, 228
+  orig: 240, 240
+  offset: 22, 6
+  index: -1
+zhaohuan/sanjiao_00001
+  rotate: false
+  xy: 0, 11
+  size: 86, 91
+  orig: 240, 240
+  offset: 48, 111
+  index: -1
+zhaohuan/sanjiao_00002
+  rotate: false
+  xy: 693, 39
+  size: 86, 127
+  orig: 240, 240
+  offset: 48, 75
+  index: -1
+zhaohuan/sanjiao_00003
+  rotate: true
+  xy: 86, 15
+  size: 87, 163
+  orig: 240, 240
+  offset: 48, 39
+  index: -1
+zhaohuan/sanjiao_00004
+  rotate: false
+  xy: 676, 166
+  size: 109, 164
+  orig: 240, 240
+  offset: 48, 38
+  index: -1
+zhaohuan/sanjiao_00005
+  rotate: false
+  xy: 563, 2
+  size: 130, 164
+  orig: 240, 240
+  offset: 48, 38
+  index: -1
+zhaohuan/sanjiao_00006
+  rotate: true
+  xy: 249, 0
+  size: 150, 164
+  orig: 240, 240
+  offset: 48, 38
+  index: -1
+zhaohuan/sanjiao_00007
+  rotate: false
+  xy: 376, 166
+  size: 150, 164
+  orig: 240, 240
+  offset: 48, 38
+  index: -1
+zhaohuan/sanjiao_00008
+  rotate: false
+  xy: 413, 2
+  size: 150, 164
+  orig: 240, 240
+  offset: 48, 38
+  index: -1
+zhaohuan/sanjiao_00009
+  rotate: false
+  xy: 526, 166
+  size: 150, 164
+  orig: 240, 240
+  offset: 48, 38
+  index: -1

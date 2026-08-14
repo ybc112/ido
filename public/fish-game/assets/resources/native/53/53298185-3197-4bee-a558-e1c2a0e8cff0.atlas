@@ -1,0 +1,13 @@
+
+zidan_cat.png
+size: 33,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao/CatCannon/Bullet
+  rotate: false
+  xy: 1, 1
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1

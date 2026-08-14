@@ -1,0 +1,27 @@
+
+baoxiang1.png
+size: 175,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+renwu/baoxiang_guan
+  rotate: true
+  xy: 69, 1
+  size: 65, 69
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+renwu/baoxiang_kai
+  rotate: true
+  xy: 0, 0
+  size: 66, 69
+  orig: 69, 73
+  offset: 3, 0
+  index: -1
+renwu/star
+  rotate: false
+  xy: 138, 30
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+title_lieyaota.png
+size: 449,159
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lieyaota_01
+  rotate: false
+  xy: 49, 106
+  size: 70, 52
+  orig: 304, 80
+  offset: 1, 23
+  index: -1
+lieyaota_02
+  rotate: false
+  xy: 215, 81
+  size: 103, 77
+  orig: 304, 80
+  offset: 10, 1
+  index: -1
+lieyaota_03
+  rotate: false
+  xy: 142, 2
+  size: 147, 78
+  orig: 304, 80
+  offset: 22, 0
+  index: -1
+lieyaota_04
+  rotate: false
+  xy: 290, 1
+  size: 158, 79
+  orig: 304, 80
+  offset: 59, 0
+  index: -1
+lieyaota_05
+  rotate: false
+  xy: 1, 8
+  size: 140, 77
+  orig: 304, 80
+  offset: 117, 3
+  index: -1
+lieyaota_06
+  rotate: false
+  xy: 319, 81
+  size: 122, 77
+  orig: 304, 80
+  offset: 165, 3
+  index: -1
+lieyaota_07
+  rotate: false
+  xy: 120, 86
+  size: 94, 72
+  orig: 304, 80
+  offset: 210, 4
+  index: -1
+lieyaota_08
+  rotate: false
+  xy: 1, 116
+  size: 47, 42
+  orig: 304, 80
+  offset: 257, 7
+  index: -1

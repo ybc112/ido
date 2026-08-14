@@ -1,0 +1,69 @@
+
+glow_zhouka.png
+size: 236,580
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhouka yueka/title_zhouka_00
+  rotate: false
+  xy: 185, 358
+  size: 45, 96
+  orig: 273, 129
+  offset: 1, 0
+  index: -1
+zhouka yueka/title_zhouka_01
+  rotate: true
+  xy: 112, 6
+  size: 95, 101
+  orig: 273, 129
+  offset: 1, 0
+  index: -1
+zhouka yueka/title_zhouka_02
+  rotate: true
+  xy: 1, 1
+  size: 145, 110
+  orig: 273, 129
+  offset: 1, 0
+  index: -1
+zhouka yueka/title_zhouka_03
+  rotate: false
+  xy: 1, 332
+  size: 183, 122
+  orig: 273, 129
+  offset: 3, 0
+  index: -1
+zhouka yueka/title_zhouka_04
+  rotate: false
+  xy: 1, 455
+  size: 192, 124
+  orig: 273, 129
+  offset: 40, 3
+  index: -1
+zhouka yueka/title_zhouka_05
+  rotate: true
+  xy: 1, 147
+  size: 184, 121
+  orig: 273, 129
+  offset: 89, 8
+  index: -1
+zhouka yueka/title_zhouka_06
+  rotate: true
+  xy: 123, 193
+  size: 138, 109
+  orig: 273, 129
+  offset: 135, 20
+  index: -1
+zhouka yueka/title_zhouka_07
+  rotate: true
+  xy: 123, 102
+  size: 90, 109
+  orig: 273, 129
+  offset: 183, 20
+  index: -1
+zhouka yueka/title_zhouka_08
+  rotate: false
+  xy: 194, 473
+  size: 41, 106
+  orig: 273, 129
+  offset: 232, 22
+  index: -1

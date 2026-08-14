@@ -1,0 +1,199 @@
+﻿html {
+  -ms-touch-action: none;
+}
+
+*{
+    padding:0;
+    margin:0
+}
+
+body, canvas, div {
+  display: block;
+  outline: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -khtml-user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* Remove spin of input type number */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  /* display: none; <- Crashes Chrome on hover */
+  -webkit-appearance: none;
+  margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+  cursor: default;
+  color: #888;
+  background-color: #333;
+
+  text-align: center;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+
+  display: flex;
+  flex-direction: column;
+  
+  /* fix bug: https://github.com/cocos-creator/2d-tasks/issues/791 */
+  /* overflow cannot be applied in Cocos2dGameContainer, 
+  otherwise child elements will be hidden when Cocos2dGameContainer rotated 90 deg */
+  overflow: hidden;
+}
+
+#Cocos2dGameContainer {
+  position: absolute;
+  margin: 0;
+  left: 0px;
+  top: 0px;
+
+  display: -webkit-box;
+  -webkit-box-orient: horizontal;
+  -webkit-box-align: center;
+  -webkit-box-pack: center;
+}
+
+canvas {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+a:link, a:visited {
+  color: #666;
+}
+
+a:active, a:hover {
+  color: #666;
+}
+
+p.header {
+  font-size: small;
+}
+
+p.footer {
+  font-size: x-small;
+}
+
+#splash {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff url(./splash.jpg) no-repeat center;
+  background-size: 100%;
+}
+
+.progress-bar {
+    position: absolute;
+    left: 27.5%;
+    top: 80%;
+    height: 3px;
+    padding: 2px;
+    width: 45%;
+    border-radius: 7px;
+    box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;           
+}
+
+.progress-bar span {
+    display: block;
+    height: 100%;
+    border-radius: 3px;
+    transition: width .4s ease-in-out;
+    background-color: #3dc5de;
+}
+
+.stripes span {
+    background-size: 30px 30px;
+    background-image: linear-gradient(135deg, rgba(255, 255, 255, .15) 25%, transparent 25%,
+                        transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%,
+                        transparent 75%, transparent);            
+    
+    animation: animate-stripes 1s linear infinite;             
+}
+
+@keyframes animate-stripes {
+    0% {background-position: 0 0;} 100% {background-position: 60px 0;}
+}
+
+.xui-wrapper {
+	margin:0 auto;
+	width:100%;
+	max-width:90%;
+	/*height:100vh;*/
+	/*background-color:#efeff4;*/
+}
+.xui-myPromption-wrapper .xui-returnCommission .xui-process {
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	padding: 28px 0 12px;
+	width: 76%;
+}
+.xui-myPromption-wrapper .xui-process .xui-icon-flag {
+	position: absolute;
+	top: 0px;
+	left: 0;
+	width: 12px;
+	height: 18px;
+	background-size: 11px;
+}
+.xui-myPromption-wrapper .xui-process .xui-process-static {
+	position: absolute;
+	top: 640px;
+	width: 100%;
+	height: 15px;
+	border-radius: 10px;
+	-webkit-box-shadow: 0 0 5px rgba(0, 198, 255,.6);
+	box-shadow: 0 0 5px rgba(0, 198, 255,.6);
+	background-color: rgba(0, 198, 255,.6);
+}
+.xui-myPromption-wrapper .xui-process .xui-process-active {
+	position: absolute;
+	top: 640px;
+	left: 0;
+	width: 0;
+	height: 14px;
+	border: 1px solid #4dafe2;
+	border-radius: 10px;
+	background-image: linear-gradient(60deg, transparent 0rem, transparent 0.8rem, #4dafe2 0.8rem, #4dafe2 1.6rem, transparent 1.6rem, transparent 2.4rem, #4dafe2 2.4rem);
+	background-color: #008cd5;
+	background-size: 20px 38px;
+	-box-shadow: box-shadow: 1px 1px 5px rgba(0, 140, 213, .8);
+	box-shadow: 1px 1px 5px rgba(0, 140, 213, .8);
+	-webkit-animation: process 800ms infinite linear;
+	animation: process 800ms infinite linear;
+}
+.xui-myPromption-wrapper .xui-process .xui-process-active:after {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 100%;
+	border-radius: 10px;
+	background-image: linear-gradient(to bottom,rgba(0, 140, 213, .6), rgba(0, 140, 213, .6) 15%, transparent 60%, rgba(0, 140, 213, .6));
+}
+
+/* 动画 */
+@-webkit-keyframes process {
+	0% { background-position: 0 0; }
+	100% { background-position: 20px 0; }
+}
+@keyframes process {
+	0% { background-position: 0 0; }
+	100% { background-position: 20px 0; }
+}

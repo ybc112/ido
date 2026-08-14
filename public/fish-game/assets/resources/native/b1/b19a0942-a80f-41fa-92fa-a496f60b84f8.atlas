@@ -1,0 +1,90 @@
+
+paotai_jingubang.png
+size: 743,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai/jingubangCannon/glow_00000
+  rotate: true
+  xy: 498, 3
+  size: 48, 56
+  orig: 160, 160
+  offset: 56, 89
+  index: -1
+paotai/jingubangCannon/glow_00001
+  rotate: true
+  xy: 578, 1
+  size: 54, 78
+  orig: 160, 160
+  offset: 51, 68
+  index: -1
+paotai/jingubangCannon/glow_00002
+  rotate: false
+  xy: 498, 52
+  size: 79, 97
+  orig: 160, 160
+  offset: 41, 48
+  index: -1
+paotai/jingubangCannon/glow_00003
+  rotate: false
+  xy: 327, 31
+  size: 84, 118
+  orig: 160, 160
+  offset: 38, 27
+  index: -1
+paotai/jingubangCannon/glow_00004
+  rotate: false
+  xy: 156, 17
+  size: 84, 132
+  orig: 160, 160
+  offset: 38, 13
+  index: -1
+paotai/jingubangCannon/glow_00005
+  rotate: false
+  xy: 241, 24
+  size: 85, 125
+  orig: 160, 160
+  offset: 38, 12
+  index: -1
+paotai/jingubangCannon/glow_00006
+  rotate: false
+  xy: 412, 45
+  size: 85, 104
+  orig: 160, 160
+  offset: 38, 12
+  index: -1
+paotai/jingubangCannon/glow_00007
+  rotate: false
+  xy: 657, 66
+  size: 85, 83
+  orig: 160, 160
+  offset: 38, 12
+  index: -1
+paotai/jingubangCannon/glow_00008
+  rotate: false
+  xy: 657, 3
+  size: 84, 62
+  orig: 160, 160
+  offset: 38, 12
+  index: -1
+paotai/jingubangCannon/glow_00009
+  rotate: false
+  xy: 412, 2
+  size: 84, 42
+  orig: 160, 160
+  offset: 38, 12
+  index: -1
+paotai/jingubangCannon/jingubang
+  rotate: true
+  xy: 1, 4
+  size: 145, 154
+  orig: 145, 154
+  offset: 0, 0
+  index: -1
+paotai/jingubangCannon/paokoutexiao
+  rotate: false
+  xy: 578, 56
+  size: 78, 93
+  orig: 92, 108
+  offset: 8, 1
+  index: -1

@@ -1,0 +1,13 @@
+
+chuizi_zhu.png
+size: 145,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuizi
+  rotate: false
+  xy: 1, 1
+  size: 143, 163
+  orig: 143, 163
+  offset: 0, 0
+  index: -1

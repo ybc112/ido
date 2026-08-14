@@ -1,0 +1,41 @@
+
+fish21.png
+size: 710,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui
+  rotate: false
+  xy: 621, 50
+  size: 89, 103
+  orig: 89, 103
+  offset: 0, 0
+  index: -1
+jiangbei
+  rotate: true
+  xy: 276, 13
+  size: 140, 128
+  orig: 140, 128
+  offset: 0, 0
+  index: -1
+jiangpai
+  rotate: false
+  xy: 528, 52
+  size: 93, 101
+  orig: 93, 101
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 153, 276
+  orig: 153, 276
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 404, 29
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1

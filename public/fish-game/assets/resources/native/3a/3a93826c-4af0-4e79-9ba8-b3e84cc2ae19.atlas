@@ -1,0 +1,69 @@
+
+gxhd_k.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongxihuode/k_glow_00000
+  rotate: false
+  xy: 172, 2
+  size: 166, 163
+  orig: 200, 200
+  offset: 17, 20
+  index: -1
+gongxihuode/k_glow_00001
+  rotate: false
+  xy: 1033, 4
+  size: 165, 161
+  orig: 200, 200
+  offset: 18, 20
+  index: -1
+gongxihuode/k_glow_00002
+  rotate: false
+  xy: 0, 0
+  size: 165, 165
+  orig: 200, 200
+  offset: 19, 20
+  index: -1
+gongxihuode/k_glow_00003
+  rotate: true
+  xy: 1377, 7
+  size: 158, 166
+  orig: 200, 200
+  offset: 26, 20
+  index: -1
+gongxihuode/k_glow_00004
+  rotate: false
+  xy: 345, 1
+  size: 165, 164
+  orig: 200, 200
+  offset: 19, 22
+  index: -1
+gongxihuode/k_glow_00005
+  rotate: false
+  xy: 1205, 4
+  size: 165, 161
+  orig: 200, 200
+  offset: 18, 25
+  index: -1
+gongxihuode/k_glow_00006
+  rotate: false
+  xy: 517, 2
+  size: 165, 163
+  orig: 200, 200
+  offset: 17, 23
+  index: -1
+gongxihuode/k_glow_00007
+  rotate: true
+  xy: 861, 3
+  size: 162, 165
+  orig: 200, 200
+  offset: 17, 21
+  index: -1
+gongxihuode/k_glow_00008
+  rotate: true
+  xy: 689, 2
+  size: 163, 165
+  orig: 200, 200
+  offset: 17, 20
+  index: -1

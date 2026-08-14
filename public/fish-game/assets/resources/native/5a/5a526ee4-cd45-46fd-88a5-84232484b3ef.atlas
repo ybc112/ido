@@ -1,0 +1,265 @@
+
+fish705.png
+size: 715,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BINGFA
+  rotate: true
+  xy: 163, 19
+  size: 45, 119
+  orig: 47, 121
+  offset: 1, 1
+  index: -1
+BINGFA1
+  rotate: false
+  xy: 484, 138
+  size: 46, 122
+  orig: 48, 124
+  offset: 1, 1
+  index: -1
+BIYAN
+  rotate: false
+  xy: 1, 1
+  size: 57, 25
+  orig: 59, 27
+  offset: 1, 1
+  index: -1
+CHEGNSHAN
+  rotate: true
+  xy: 648, 78
+  size: 36, 65
+  orig: 38, 67
+  offset: 1, 1
+  index: -1
+CHENGSHAN
+  rotate: true
+  xy: 531, 229
+  size: 57, 81
+  orig: 59, 83
+  offset: 1, 1
+  index: -1
+HOUMIANQUNZI
+  rotate: false
+  xy: 612, 431
+  size: 102, 91
+  orig: 104, 93
+  offset: 1, 1
+  index: -1
+HOUTOUFA
+  rotate: false
+  xy: 256, 68
+  size: 71, 154
+  orig: 73, 156
+  offset: 1, 1
+  index: -1
+HUANGGUAN
+  rotate: false
+  xy: 607, 115
+  size: 103, 71
+  orig: 105, 73
+  offset: 1, 1
+  index: -1
+JIAOJIA
+  rotate: false
+  xy: 597, 54
+  size: 50, 60
+  orig: 52, 62
+  offset: 1, 1
+  index: -1
+LIAN
+  rotate: false
+  xy: 328, 1
+  size: 99, 72
+  orig: 101, 74
+  offset: 1, 1
+  index: -1
+LONGJIAO
+  rotate: true
+  xy: 575, 34
+  size: 19, 47
+  orig: 21, 49
+  offset: 1, 1
+  index: -1
+LONGJIAO1
+  rotate: false
+  xy: 283, 19
+  size: 40, 48
+  orig: 42, 50
+  offset: 1, 1
+  index: -1
+LONGSHEN
+  rotate: false
+  xy: 489, 402
+  size: 122, 120
+  orig: 124, 122
+  offset: 1, 1
+  index: -1
+LONGTOU
+  rotate: true
+  xy: 613, 336
+  size: 94, 101
+  orig: 96, 103
+  offset: 1, 1
+  index: -1
+LONGWEI
+  rotate: false
+  xy: 613, 246
+  size: 99, 89
+  orig: 101, 91
+  offset: 1, 1
+  index: -1
+PIAOFA
+  rotate: false
+  xy: 163, 65
+  size: 92, 157
+  orig: 94, 159
+  offset: 1, 1
+  index: -1
+QUNBAI1
+  rotate: false
+  xy: 519, 31
+  size: 55, 105
+  orig: 57, 107
+  offset: 1, 1
+  index: -1
+QUNBAI3
+  rotate: true
+  xy: 504, 287
+  size: 114, 108
+  orig: 116, 110
+  offset: 1, 1
+  index: -1
+SHENGZI
+  rotate: true
+  xy: 613, 187
+  size: 58, 92
+  orig: 60, 94
+  offset: 1, 1
+  index: -1
+SHOUXIU
+  rotate: false
+  xy: 317, 267
+  size: 116, 130
+  orig: 118, 132
+  offset: 1, 1
+  index: -1
+TAISHOU
+  rotate: false
+  xy: 328, 124
+  size: 97, 142
+  orig: 99, 144
+  offset: 1, 1
+  index: -1
+TOUFA
+  rotate: false
+  xy: 1, 27
+  size: 161, 195
+  orig: 163, 197
+  offset: 1, 1
+  index: -1
+XIONGQIANG
+  rotate: false
+  xy: 531, 137
+  size: 75, 91
+  orig: 77, 93
+  offset: 1, 1
+  index: -1
+YANJ
+  rotate: false
+  xy: 103, 11
+  size: 54, 15
+  orig: 56, 17
+  offset: 1, 1
+  index: -1
+YAODAI
+  rotate: true
+  xy: 428, 2
+  size: 71, 31
+  orig: 73, 33
+  offset: 1, 1
+  index: -1
+ZHENGPAN
+  rotate: false
+  xy: 1, 223
+  size: 315, 299
+  orig: 317, 301
+  offset: 1, 1
+  index: -1
+ZHUZI
+  rotate: true
+  xy: 519, 9
+  size: 21, 46
+  orig: 23, 48
+  offset: 1, 1
+  index: -1
+ZHUZI1
+  rotate: true
+  xy: 59, 1
+  size: 25, 43
+  orig: 27, 45
+  offset: 1, 1
+  index: -1
+ZHUZI2
+  rotate: true
+  xy: 575, 1
+  size: 32, 39
+  orig: 34, 41
+  offset: 1, 1
+  index: -1
+ZHUZI3
+  rotate: false
+  xy: 623, 15
+  size: 37, 33
+  orig: 39, 35
+  offset: 1, 1
+  index: -1
+ZHUZI4
+  rotate: false
+  xy: 648, 49
+  size: 40, 28
+  orig: 42, 30
+  offset: 1, 1
+  index: -1
+jiao1
+  rotate: true
+  xy: 328, 74
+  size: 49, 127
+  orig: 49, 127
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 434, 261
+  size: 69, 136
+  orig: 69, 136
+  offset: 0, 0
+  index: -1
+paozi you
+  rotate: false
+  xy: 317, 398
+  size: 171, 124
+  orig: 171, 124
+  offset: 0, 0
+  index: -1
+paozi zuo
+  rotate: false
+  xy: 426, 124
+  size: 57, 136
+  orig: 57, 136
+  offset: 0, 0
+  index: -1
+qian
+  rotate: false
+  xy: 460, 9
+  size: 58, 114
+  orig: 58, 114
+  offset: 0, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 575, 54
+  size: 82, 21
+  orig: 84, 23
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,286 @@
+
+xc_jukun.png
+size: 1334,527
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: true
+  xy: 338, 53
+  size: 75, 100
+  orig: 77, 102
+  offset: 1, 1
+  index: -1
+Yshou
+  rotate: true
+  xy: 710, 14
+  size: 150, 156
+  orig: 152, 158
+  offset: 1, 1
+  index: -1
+Yshou_000
+  rotate: true
+  xy: 681, 92
+  size: 25, 28
+  orig: 152, 158
+  offset: 127, 0
+  index: -1
+Yshou_001
+  rotate: false
+  xy: 380, 10
+  size: 45, 42
+  orig: 152, 158
+  offset: 107, 0
+  index: -1
+Yshou_002
+  rotate: true
+  xy: 1045, 1
+  size: 70, 62
+  orig: 152, 158
+  offset: 82, 0
+  index: -1
+Yshou_003
+  rotate: false
+  xy: 439, 47
+  size: 94, 81
+  orig: 152, 158
+  offset: 58, 0
+  index: -1
+Yshou_004
+  rotate: false
+  xy: 962, 72
+  size: 102, 92
+  orig: 152, 158
+  offset: 35, 9
+  index: -1
+Yshou_005
+  rotate: false
+  xy: 1065, 72
+  size: 100, 92
+  orig: 152, 158
+  offset: 13, 29
+  index: -1
+Yshou_006
+  rotate: true
+  xy: 587, 28
+  size: 89, 93
+  orig: 152, 158
+  offset: 1, 45
+  index: -1
+Yshou_007
+  rotate: true
+  xy: 1108, 4
+  size: 67, 76
+  orig: 152, 158
+  offset: 1, 62
+  index: -1
+Yshou_008
+  rotate: false
+  xy: 1272, 28
+  size: 45, 60
+  orig: 152, 158
+  offset: 1, 79
+  index: -1
+Yshou_009
+  rotate: true
+  xy: 1097, 165
+  size: 24, 39
+  orig: 152, 158
+  offset: 1, 99
+  index: -1
+Yxiaochib
+  rotate: true
+  xy: 172, 20
+  size: 39, 83
+  orig: 41, 85
+  offset: 1, 1
+  index: -1
+Zxiaochib
+  rotate: true
+  xy: 426, 15
+  size: 31, 60
+  orig: 33, 62
+  offset: 1, 1
+  index: -1
+chazi
+  rotate: true
+  xy: 1, 1
+  size: 140, 170
+  orig: 142, 172
+  offset: 1, 1
+  index: -1
+chazi_000
+  rotate: false
+  xy: 681, 58
+  size: 24, 33
+  orig: 142, 172
+  offset: 117, 1
+  index: -1
+chazi_001
+  rotate: true
+  xy: 324, 5
+  size: 47, 55
+  orig: 142, 172
+  offset: 94, 1
+  index: -1
+chazi_002
+  rotate: true
+  xy: 1254, 333
+  size: 65, 79
+  orig: 142, 172
+  offset: 76, 1
+  index: -1
+chazi_003
+  rotate: true
+  xy: 593, 118
+  size: 87, 116
+  orig: 142, 172
+  offset: 54, 1
+  index: -1
+chazi_004
+  rotate: false
+  xy: 1213, 399
+  size: 97, 127
+  orig: 142, 172
+  offset: 29, 16
+  index: -1
+chazi_005
+  rotate: false
+  xy: 867, 32
+  size: 94, 132
+  orig: 142, 172
+  offset: 12, 38
+  index: -1
+chazi_006
+  rotate: false
+  xy: 1166, 84
+  size: 84, 105
+  orig: 142, 172
+  offset: 1, 66
+  index: -1
+chazi_007
+  rotate: true
+  xy: 962, 1
+  size: 70, 82
+  orig: 142, 172
+  offset: 1, 89
+  index: -1
+chazi_008
+  rotate: false
+  xy: 534, 60
+  size: 52, 68
+  orig: 142, 172
+  offset: 1, 103
+  index: -1
+chazi_009
+  rotate: true
+  xy: 487, 12
+  size: 34, 40
+  orig: 142, 172
+  offset: 1, 131
+  index: -1
+chib1
+  rotate: false
+  xy: 256, 11
+  size: 67, 48
+  orig: 69, 50
+  offset: 1, 1
+  index: -1
+chibang2
+  rotate: false
+  xy: 1254, 223
+  size: 72, 109
+  orig: 74, 111
+  offset: 1, 1
+  index: -1
+dupi
+  rotate: false
+  xy: 1097, 190
+  size: 156, 208
+  orig: 158, 210
+  offset: 1, 1
+  index: -1
+gaoguang
+  rotate: true
+  xy: 1311, 502
+  size: 24, 21
+  orig: 26, 23
+  offset: 1, 1
+  index: -1
+koushui
+  rotate: false
+  xy: 1272, 1
+  size: 19, 26
+  orig: 21, 28
+  offset: 1, 1
+  index: -1
+langhua
+  rotate: false
+  xy: 712, 399
+  size: 500, 127
+  orig: 500, 127
+  offset: 0, 0
+  index: -1
+meigong
+  rotate: false
+  xy: 172, 60
+  size: 165, 81
+  orig: 167, 83
+  offset: 1, 1
+  index: -1
+quan
+  rotate: false
+  xy: 1254, 149
+  size: 74, 73
+  orig: 76, 75
+  offset: 1, 1
+  index: -1
+refer
+  rotate: false
+  xy: 1, 142
+  size: 368, 384
+  orig: 370, 386
+  offset: 1, 1
+  index: -1
+shenzi
+  rotate: true
+  xy: 712, 165
+  size: 233, 384
+  orig: 235, 386
+  offset: 1, 1
+  index: -1
+shetou
+  rotate: true
+  xy: 1185, 6
+  size: 77, 86
+  orig: 79, 88
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 370, 129
+  size: 76, 222
+  orig: 78, 224
+  offset: 1, 1
+  index: -1
+xuanchang_mokun
+  rotate: false
+  xy: 370, 206
+  size: 341, 320
+  orig: 341, 320
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 1251, 89
+  size: 77, 59
+  orig: 79, 61
+  offset: 1, 1
+  index: -1
+yanren
+  rotate: false
+  xy: 1137, 165
+  size: 25, 24
+  orig: 27, 26
+  offset: 1, 1
+  index: -1

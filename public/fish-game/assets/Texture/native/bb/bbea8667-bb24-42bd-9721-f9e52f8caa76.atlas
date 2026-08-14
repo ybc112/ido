@@ -1,0 +1,27 @@
+
+jushachang_deng.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buyu_inside/jushachang/jiangchi_deng1
+  rotate: false
+  xy: 1, 1
+  size: 278, 76
+  orig: 278, 76
+  offset: 0, 0
+  index: -1
+buyu_inside/jushachang/jiangchi_deng2
+  rotate: false
+  xy: 565, 18
+  size: 192, 59
+  orig: 278, 76
+  offset: 43, 9
+  index: -1
+buyu_inside/jushachang/jiangchi_k
+  rotate: false
+  xy: 280, 19
+  size: 284, 58
+  orig: 284, 58
+  offset: 0, 0
+  index: -1

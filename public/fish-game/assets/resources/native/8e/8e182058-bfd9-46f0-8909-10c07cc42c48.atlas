@@ -1,0 +1,27 @@
+
+hongzhajiruchang_gaoji.png
+size: 1932,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/HongzhajiRuchang/ruchang_chaoji
+  rotate: false
+  xy: 1280, 427
+  size: 652, 120
+  orig: 652, 120
+  offset: 0, 0
+  index: -1
+UI/HongzhajiRuchang/ruchang_chaoji2
+  rotate: false
+  xy: 0, 255
+  size: 1280, 292
+  orig: 1280, 292
+  offset: 0, 0
+  index: -1
+UI/HongzhajiRuchang/ruchang_chaoji3
+  rotate: false
+  xy: 0, 0
+  size: 1280, 255
+  orig: 1280, 281
+  offset: 0, 18
+  index: -1

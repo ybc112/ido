@@ -1,0 +1,13 @@
+
+suipian_jin.png
+size: 114,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/suipian
+  rotate: false
+  xy: 2, 3
+  size: 110, 109
+  orig: 128, 128
+  offset: 9, 9
+  index: -1

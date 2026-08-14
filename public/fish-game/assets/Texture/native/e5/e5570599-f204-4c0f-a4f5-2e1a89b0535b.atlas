@@ -1,0 +1,76 @@
+
+yueka_chaozhilibao.png
+size: 350,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yueka/chaozhiyueka
+  rotate: true
+  xy: 0, 239
+  size: 268, 128
+  orig: 268, 128
+  offset: 0, 0
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00000
+  rotate: true
+  xy: 128, 252
+  size: 46, 75
+  orig: 286, 150
+  offset: 10, 12
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00001
+  rotate: true
+  xy: 252, 136
+  size: 104, 98
+  orig: 286, 150
+  offset: 9, 11
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00002
+  rotate: true
+  xy: 247, 348
+  size: 159, 103
+  orig: 286, 150
+  offset: 9, 11
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00003
+  rotate: true
+  xy: 128, 298
+  size: 209, 119
+  orig: 286, 150
+  offset: 10, 12
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00004
+  rotate: false
+  xy: 0, 119
+  size: 252, 120
+  orig: 286, 150
+  offset: 20, 14
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00005
+  rotate: false
+  xy: 0, 0
+  size: 198, 119
+  orig: 286, 150
+  offset: 79, 20
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00006
+  rotate: false
+  xy: 198, 6
+  size: 141, 113
+  orig: 286, 150
+  offset: 136, 26
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00007
+  rotate: false
+  xy: 247, 240
+  size: 99, 108
+  orig: 286, 150
+  offset: 178, 31
+  index: -1
+yueka/chaozhiyueka/chaozhiyueka_00008
+  rotate: false
+  xy: 203, 253
+  size: 44, 45
+  orig: 286, 150
+  offset: 233, 94
+  index: -1

@@ -1,0 +1,76 @@
+
+icon_jinxingzhong.png
+size: 204,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/icon_new/jiaobiao_jinxingzhong
+  rotate: true
+  xy: 1, 45
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_00
+  rotate: true
+  xy: 109, 69
+  size: 17, 38
+  orig: 95, 53
+  offset: 0, 15
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_01
+  rotate: false
+  xy: 109, 87
+  size: 37, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_02
+  rotate: true
+  xy: 150, 84
+  size: 56, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_03
+  rotate: false
+  xy: 73, 2
+  size: 76, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_04
+  rotate: true
+  xy: 55, 56
+  size: 84, 53
+  orig: 95, 53
+  offset: 9, 0
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_05
+  rotate: false
+  xy: 1, 1
+  size: 66, 43
+  orig: 95, 53
+  offset: 29, 10
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_06
+  rotate: false
+  xy: 150, 12
+  size: 46, 43
+  orig: 95, 53
+  offset: 49, 10
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_07
+  rotate: true
+  xy: 148, 56
+  size: 27, 43
+  orig: 95, 53
+  offset: 68, 10
+  index: -1
+UI/icon_new/jiaobiao_jinxingzhong_08
+  rotate: true
+  xy: 55, 48
+  size: 7, 17
+  orig: 95, 53
+  offset: 88, 11
+  index: -1

@@ -1,0 +1,34 @@
+
+caishen_laixi.png
+size: 419,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/boss
+  rotate: false
+  xy: 59, 320
+  size: 359, 215
+  orig: 359, 215
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/caishen
+  rotate: true
+  xy: 42, 1
+  size: 318, 372
+  orig: 318, 372
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/faguang
+  rotate: false
+  xy: 1, 479
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/zuigaokehuo
+  rotate: true
+  xy: 1, 19
+  size: 459, 40
+  orig: 459, 40
+  offset: 0, 0
+  index: -1

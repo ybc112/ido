@@ -1,0 +1,69 @@
+
+mokunjiangshi_UI.png
+size: 504,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mokunjiangshi/glow_003
+  rotate: false
+  xy: 309, 91
+  size: 194, 194
+  orig: 196, 196
+  offset: 1, 1
+  index: -1
+mokunjiangshi/mokunjiangshi_01
+  rotate: false
+  xy: 402, 338
+  size: 26, 43
+  orig: 220, 270
+  offset: 11, 217
+  index: -1
+mokunjiangshi/mokunjiangshi_02
+  rotate: false
+  xy: 402, 382
+  size: 90, 154
+  orig: 220, 270
+  offset: 11, 106
+  index: -1
+mokunjiangshi/mokunjiangshi_03
+  rotate: false
+  xy: 1, 34
+  size: 153, 250
+  orig: 220, 270
+  offset: 11, 10
+  index: -1
+mokunjiangshi/mokunjiangshi_04
+  rotate: false
+  xy: 1, 285
+  size: 199, 251
+  orig: 220, 270
+  offset: 11, 9
+  index: -1
+mokunjiangshi/mokunjiangshi_05
+  rotate: false
+  xy: 201, 286
+  size: 200, 250
+  orig: 220, 270
+  offset: 11, 9
+  index: -1
+mokunjiangshi/mokunjiangshi_06
+  rotate: false
+  xy: 155, 35
+  size: 153, 249
+  orig: 220, 270
+  offset: 58, 9
+  index: -1
+mokunjiangshi/mokunjiangshi_07
+  rotate: true
+  xy: 309, 1
+  size: 89, 155
+  orig: 220, 270
+  offset: 122, 9
+  index: -1
+mokunjiangshi/mokunjiangshi_08
+  rotate: true
+  xy: 1, 9
+  size: 24, 45
+  orig: 220, 270
+  offset: 186, 9
+  index: -1

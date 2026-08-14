@@ -1,0 +1,13 @@
+
+qihang_baoxiang5.png
+size: 184,155
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoxiang5
+  rotate: false
+  xy: 1, 1
+  size: 182, 153
+  orig: 182, 153
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+jusha_yaojiang.png
+size: 222,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newfishes/haibao_xulie/xulie_k1
+  rotate: false
+  xy: 2, 170
+  size: 120, 50
+  orig: 121, 50
+  offset: 1, 0
+  index: -1
+newfishes/jusha_xulie/chuxian1
+  rotate: true
+  xy: 175, 25
+  size: 84, 35
+  orig: 121, 50
+  offset: 18, 8
+  index: -1
+newfishes/jusha_xulie/chuxian2
+  rotate: true
+  xy: 76, 5
+  size: 89, 35
+  orig: 121, 50
+  offset: 15, 8
+  index: -1
+newfishes/jusha_xulie/chuxian3
+  rotate: false
+  xy: 124, 148
+  size: 94, 35
+  orig: 121, 50
+  offset: 13, 8
+  index: -1
+newfishes/jusha_xulie/chuxian4
+  rotate: false
+  xy: 124, 185
+  size: 96, 35
+  orig: 121, 50
+  offset: 12, 8
+  index: -1
+newfishes/jusha_xulie/chuxian5
+  rotate: false
+  xy: 2, 133
+  size: 98, 35
+  orig: 121, 50
+  offset: 12, 8
+  index: -1
+newfishes/jusha_xulie/chuxian6
+  rotate: true
+  xy: 113, 11
+  size: 98, 33
+  orig: 121, 50
+  offset: 12, 8
+  index: -1
+newfishes/jusha_xulie/chuxian7
+  rotate: true
+  xy: 148, 11
+  size: 98, 25
+  orig: 121, 50
+  offset: 12, 12
+  index: -1
+newfishes/jusha_xulie/xunhuan3
+  rotate: true
+  xy: 148, 11
+  size: 98, 25
+  orig: 121, 50
+  offset: 12, 12
+  index: -1
+newfishes/jusha_xulie/xunhuan1
+  rotate: true
+  xy: 39, 4
+  size: 90, 35
+  orig: 121, 50
+  offset: 15, 8
+  index: -1
+newfishes/jusha_xulie/xunhuan2
+  rotate: false
+  xy: 102, 111
+  size: 97, 35
+  orig: 121, 50
+  offset: 12, 8
+  index: -1
+newfishes/jusha_xulie/xunhuan4
+  rotate: false
+  xy: 2, 96
+  size: 98, 35
+  orig: 121, 50
+  offset: 12, 8
+  index: -1
+newfishes/jusha_xulie/xunhuan5
+  rotate: true
+  xy: 2, 2
+  size: 92, 35
+  orig: 121, 50
+  offset: 16, 8
+  index: -1

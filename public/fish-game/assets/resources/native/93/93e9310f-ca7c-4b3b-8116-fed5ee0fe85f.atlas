@@ -1,0 +1,41 @@
+
+yuanbaogui_laixi.png
+size: 1107,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/boss
+  rotate: true
+  xy: 891, 145
+  size: 359, 215
+  orig: 359, 215
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/faguang
+  rotate: false
+  xy: 536, 17
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/guangzy
+  rotate: true
+  xy: 1, 1
+  size: 503, 534
+  orig: 503, 534
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text_caiquanjiangli
+  rotate: false
+  xy: 536, 74
+  size: 334, 55
+  orig: 334, 55
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/yuanbaogui
+  rotate: false
+  xy: 536, 130
+  size: 354, 374
+  orig: 354, 374
+  offset: 0, 0
+  index: -1

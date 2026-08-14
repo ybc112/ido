@@ -1,0 +1,13 @@
+
+mokunzhuanpan_deng.png
+size: 42,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 1, 1
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1

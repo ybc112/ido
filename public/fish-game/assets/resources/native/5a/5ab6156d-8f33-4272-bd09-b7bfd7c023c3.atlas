@@ -1,0 +1,111 @@
+
+paotaibeishu_qiehuan.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+炮台倍数切换/beishu_qiehuan_00000
+  rotate: true
+  xy: 987, 0
+  size: 33, 37
+  orig: 150, 150
+  offset: 59, 56
+  index: -1
+炮台倍数切换/beishu_qiehuan_00001
+  rotate: false
+  xy: 1357, 69
+  size: 49, 52
+  orig: 150, 150
+  offset: 52, 49
+  index: -1
+炮台倍数切换/beishu_qiehuan_00002
+  rotate: false
+  xy: 1296, 63
+  size: 54, 58
+  orig: 150, 150
+  offset: 49, 48
+  index: -1
+炮台倍数切换/beishu_qiehuan_00003
+  rotate: false
+  xy: 1228, 57
+  size: 61, 64
+  orig: 150, 150
+  offset: 45, 45
+  index: -1
+炮台倍数切换/beishu_qiehuan_00004
+  rotate: false
+  xy: 1153, 48
+  size: 68, 73
+  orig: 150, 150
+  offset: 42, 40
+  index: -1
+炮台倍数切换/beishu_qiehuan_00005
+  rotate: false
+  xy: 1076, 46
+  size: 70, 75
+  orig: 150, 150
+  offset: 40, 38
+  index: -1
+炮台倍数切换/beishu_qiehuan_00006
+  rotate: false
+  xy: 987, 40
+  size: 82, 81
+  orig: 150, 150
+  offset: 35, 35
+  index: -1
+炮台倍数切换/beishu_qiehuan_00007
+  rotate: false
+  xy: 887, 30
+  size: 93, 91
+  orig: 150, 150
+  offset: 31, 29
+  index: -1
+炮台倍数切换/beishu_qiehuan_00008
+  rotate: false
+  xy: 787, 21
+  size: 93, 100
+  orig: 150, 150
+  offset: 31, 27
+  index: -1
+炮台倍数切换/beishu_qiehuan_00009
+  rotate: false
+  xy: 674, 15
+  size: 106, 106
+  orig: 150, 150
+  offset: 25, 24
+  index: -1
+炮台倍数切换/beishu_qiehuan_00010
+  rotate: true
+  xy: 548, 6
+  size: 115, 119
+  orig: 150, 150
+  offset: 17, 17
+  index: -1
+炮台倍数切换/beishu_qiehuan_00011
+  rotate: true
+  xy: 413, 4
+  size: 117, 128
+  orig: 150, 150
+  offset: 17, 13
+  index: -1
+炮台倍数切换/beishu_qiehuan_00012
+  rotate: true
+  xy: 276, 3
+  size: 118, 130
+  orig: 150, 150
+  offset: 16, 13
+  index: -1
+炮台倍数切换/beishu_qiehuan_00013
+  rotate: true
+  xy: 0, 1
+  size: 120, 131
+  orig: 150, 150
+  offset: 14, 13
+  index: -1
+炮台倍数切换/beishu_qiehuan_00014
+  rotate: true
+  xy: 138, 1
+  size: 120, 131
+  orig: 150, 150
+  offset: 14, 13
+  index: -1

@@ -1,0 +1,20 @@
+
+zuantouxia_baozha.png
+size: 245,455
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buyu_inside/baozha/glow_00141_000
+  rotate: false
+  xy: 2, 2
+  size: 228, 228
+  orig: 256, 256
+  offset: 14, 14
+  index: -1
+Buyu_inside/baozha/shanguang111_000
+  rotate: true
+  xy: 2, 232
+  size: 221, 241
+  orig: 256, 256
+  offset: 18, 9
+  index: -1

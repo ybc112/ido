@@ -1,0 +1,62 @@
+
+jiaolong.png
+size: 560,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+long1
+  rotate: false
+  xy: 1, 122
+  size: 325, 171
+  orig: 327, 173
+  offset: 1, 1
+  index: -1
+long2
+  rotate: false
+  xy: 327, 121
+  size: 209, 172
+  orig: 211, 174
+  offset: 1, 1
+  index: -1
+long3
+  rotate: false
+  xy: 468, 51
+  size: 91, 69
+  orig: 93, 71
+  offset: 1, 1
+  index: -1
+long4
+  rotate: true
+  xy: 1, 12
+  size: 109, 166
+  orig: 111, 168
+  offset: 1, 1
+  index: -1
+long5
+  rotate: true
+  xy: 321, 53
+  size: 67, 146
+  orig: 69, 148
+  offset: 1, 1
+  index: -1
+long6
+  rotate: false
+  xy: 321, 7
+  size: 113, 45
+  orig: 115, 47
+  offset: 1, 1
+  index: -1
+long7
+  rotate: false
+  xy: 435, 1
+  size: 81, 49
+  orig: 83, 51
+  offset: 1, 1
+  index: -1
+long8
+  rotate: false
+  xy: 168, 16
+  size: 152, 105
+  orig: 154, 107
+  offset: 1, 1
+  index: -1

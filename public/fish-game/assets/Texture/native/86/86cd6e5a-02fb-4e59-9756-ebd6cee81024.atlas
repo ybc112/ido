@@ -1,0 +1,76 @@
+
+chuhaibuyu_saoguang.png
+size: 648,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuhaibuyu
+  rotate: false
+  xy: 461, 1
+  size: 176, 47
+  orig: 176, 47
+  offset: 0, 0
+  index: -1
+chuhaibuyu_00
+  rotate: false
+  xy: 74, 49
+  size: 54, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+chuhaibuyu_01
+  rotate: false
+  xy: 129, 49
+  size: 88, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+chuhaibuyu_02
+  rotate: false
+  xy: 218, 49
+  size: 124, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+chuhaibuyu_03
+  rotate: false
+  xy: 343, 49
+  size: 158, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+chuhaibuyu_04
+  rotate: false
+  xy: 1, 2
+  size: 176, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+chuhaibuyu_05
+  rotate: false
+  xy: 178, 2
+  size: 175, 46
+  orig: 176, 47
+  offset: 1, 1
+  index: -1
+chuhaibuyu_06
+  rotate: false
+  xy: 502, 49
+  size: 145, 46
+  orig: 176, 47
+  offset: 31, 1
+  index: -1
+chuhaibuyu_07
+  rotate: false
+  xy: 354, 2
+  size: 106, 46
+  orig: 176, 47
+  offset: 70, 1
+  index: -1
+chuhaibuyu_08
+  rotate: false
+  xy: 1, 49
+  size: 72, 46
+  orig: 176, 47
+  offset: 104, 1
+  index: -1

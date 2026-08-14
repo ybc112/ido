@@ -1,0 +1,13 @@
+
+zadan_guang.png
+size: 260,151
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_zadan
+  rotate: false
+  xy: 1, 1
+  size: 258, 149
+  orig: 258, 149
+  offset: 0, 0
+  index: -1

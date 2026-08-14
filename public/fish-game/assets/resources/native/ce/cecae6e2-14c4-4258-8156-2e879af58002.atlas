@@ -1,0 +1,62 @@
+
+fish306.png
+size: 1066,902
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+306/body
+  rotate: false
+  xy: 905, 456
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+306/boom
+  rotate: false
+  xy: 905, 718
+  size: 160, 183
+  orig: 160, 183
+  offset: 0, 0
+  index: -1
+306/boom_fire
+  rotate: false
+  xy: 905, 399
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+306/boom_quan1
+  rotate: false
+  xy: 1, 1
+  size: 903, 900
+  orig: 903, 900
+  offset: 0, 0
+  index: -1
+306/eye
+  rotate: false
+  xy: 905, 353
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+306/left_jiazi
+  rotate: false
+  xy: 905, 508
+  size: 97, 104
+  orig: 97, 104
+  offset: 0, 0
+  index: -1
+306/leg
+  rotate: false
+  xy: 1016, 671
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+306/right_jiazi
+  rotate: false
+  xy: 905, 613
+  size: 110, 104
+  orig: 110, 104
+  offset: 0, 0
+  index: -1

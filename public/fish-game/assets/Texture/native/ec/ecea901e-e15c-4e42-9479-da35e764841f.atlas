@@ -1,0 +1,48 @@
+
+shenmihaiyu.png
+size: 565,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating/long (1)
+  rotate: false
+  xy: 1, 1
+  size: 284, 276
+  orig: 285, 276
+  offset: 0, 0
+  index: -1
+dating/long (2)
+  rotate: false
+  xy: 462, 79
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+dating/long (3)
+  rotate: false
+  xy: 462, 181
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+dating/long (4)
+  rotate: false
+  xy: 286, 3
+  size: 153, 63
+  orig: 153, 63
+  offset: 0, 0
+  index: -1
+dating/long (5)
+  rotate: false
+  xy: 440, 15
+  size: 124, 51
+  orig: 124, 51
+  offset: 0, 0
+  index: -1
+dating/long (6)
+  rotate: false
+  xy: 286, 67
+  size: 175, 210
+  orig: 175, 210
+  offset: 0, 0
+  index: -1

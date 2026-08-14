@@ -1,0 +1,139 @@
+
+xcsunwukong.png
+size: 1685,833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datui
+  rotate: false
+  xy: 1268, 30
+  size: 209, 203
+  orig: 209, 203
+  offset: 0, 0
+  index: -1
+datui1
+  rotate: false
+  xy: 729, 9
+  size: 215, 141
+  orig: 215, 141
+  offset: 0, 0
+  index: -1
+guan
+  rotate: true
+  xy: 1477, 5
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1272, 350
+  size: 232, 200
+  orig: 232, 200
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 729, 150
+  size: 214, 236
+  orig: 214, 236
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 943, 160
+  size: 226, 208
+  orig: 226, 208
+  offset: 0, 0
+  index: -1
+hongling
+  rotate: false
+  xy: 731, 591
+  size: 550, 242
+  orig: 550, 242
+  offset: 0, 0
+  index: -1
+hongling2
+  rotate: false
+  xy: 731, 386
+  size: 434, 205
+  orig: 434, 205
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: true
+  xy: 1151, 110
+  size: 199, 117
+  orig: 199, 118
+  offset: 0, 1
+  index: -1
+jinggub
+  rotate: false
+  xy: 0, 403
+  size: 731, 430
+  orig: 731, 430
+  offset: 0, 0
+  index: -1
+paozi
+  rotate: false
+  xy: 0, 77
+  size: 560, 326
+  orig: 560, 326
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 1281, 550
+  size: 403, 283
+  orig: 403, 283
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 1499, 155
+  size: 186, 189
+  orig: 186, 189
+  offset: 0, 0
+  index: -1
+taishoujian
+  rotate: true
+  xy: 1138, 0
+  size: 110, 118
+  orig: 110, 118
+  offset: 0, 0
+  index: -1
+xiabai
+  rotate: true
+  xy: 1272, 233
+  size: 117, 227
+  orig: 117, 227
+  offset: 0, 0
+  index: -1
+xiaotui
+  rotate: false
+  xy: 1504, 344
+  size: 165, 206
+  orig: 165, 206
+  offset: 0, 0
+  index: -1
+xiaotui1
+  rotate: true
+  xy: 944, 7
+  size: 153, 194
+  orig: 154, 194
+  offset: 0, 0
+  index: -1
+yao
+  rotate: true
+  xy: 560, 35
+  size: 368, 169
+  orig: 368, 170
+  offset: 0, 0
+  index: -1
+yaodai
+  rotate: true
+  xy: 1165, 309
+  size: 282, 107
+  orig: 282, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+shaizi.png
+size: 257,257
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/2020.4.27-骰子鱼/2
+  rotate: false
+  xy: 2, 123
+  size: 121, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/5
+  rotate: false
+  xy: 2, 123
+  size: 121, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/3
+  rotate: false
+  xy: 125, 128
+  size: 117, 127
+  orig: 117, 127
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/6
+  rotate: false
+  xy: 125, 128
+  size: 117, 127
+  orig: 117, 127
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/4
+  rotate: true
+  xy: 2, 2
+  size: 119, 123
+  orig: 119, 123
+  offset: 0, 0
+  index: -1

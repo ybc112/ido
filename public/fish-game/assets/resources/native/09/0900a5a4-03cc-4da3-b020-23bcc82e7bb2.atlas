@@ -1,0 +1,174 @@
+
+shengshou_laixi.png
+size: 1980,1514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/ZHUTU
+  rotate: false
+  xy: 984, 358
+  size: 316, 387
+  orig: 318, 389
+  offset: 1, 1
+  index: -1
+boss_laixi/caishen/baihu
+  rotate: false
+  xy: 748, 1165
+  size: 631, 348
+  orig: 631, 348
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/boss
+  rotate: false
+  xy: 1620, 794
+  size: 359, 215
+  orig: 359, 215
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/caishen
+  rotate: false
+  xy: 1301, 373
+  size: 318, 372
+  orig: 318, 372
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/dk_boss
+  rotate: true
+  xy: 618, 1009
+  size: 504, 120
+  orig: 504, 120
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/dk_bosslaixi
+  rotate: true
+  xy: 1, 233
+  size: 1280, 338
+  orig: 1280, 338
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/faguang
+  rotate: false
+  xy: 1898, 1
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/guang
+  rotate: true
+  xy: 1195, 746
+  size: 418, 156
+  orig: 418, 156
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/guangdian
+  rotate: true
+  xy: 340, 406
+  size: 1107, 277
+  orig: 1107, 277
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/guangzy
+  rotate: true
+  xy: 1380, 1010
+  size: 503, 534
+  orig: 503, 534
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/img_longwang
+  rotate: true
+  xy: 748, 4
+  size: 307, 407
+  orig: 307, 407
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/jishahouchufa
+  rotate: true
+  xy: 618, 772
+  size: 236, 50
+  orig: 236, 50
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/jishahoukehuode
+  rotate: true
+  xy: 1531, 3
+  size: 369, 40
+  orig: 369, 40
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/jishayoujilv
+  rotate: true
+  xy: 1898, 58
+  size: 327, 51
+  orig: 327, 51
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text
+  rotate: false
+  xy: 1, 35
+  size: 746, 197
+  orig: 746, 197
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text_caiquanjiangli
+  rotate: false
+  xy: 1620, 386
+  size: 334, 55
+  orig: 334, 55
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text_moshijiangli
+  rotate: true
+  xy: 669, 803
+  size: 205, 57
+  orig: 205, 57
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text_moshijiangli2
+  rotate: false
+  xy: 340, 255
+  size: 334, 56
+  orig: 334, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/xiaolongnv
+  rotate: false
+  xy: 618, 312
+  size: 365, 441
+  orig: 365, 441
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/xuanwu
+  rotate: false
+  xy: 748, 754
+  size: 446, 410
+  orig: 446, 410
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/yuanbaogui
+  rotate: true
+  xy: 1156, 3
+  size: 354, 374
+  orig: 354, 374
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/zhangyu
+  rotate: false
+  xy: 1572, 6
+  size: 325, 366
+  orig: 325, 366
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/zhuque
+  rotate: true
+  xy: 1620, 442
+  size: 351, 356
+  orig: 351, 356
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/zuigaokehuo
+  rotate: true
+  xy: 1915, 1054
+  size: 459, 40
+  orig: 459, 40
+  offset: 0, 0
+  index: -1

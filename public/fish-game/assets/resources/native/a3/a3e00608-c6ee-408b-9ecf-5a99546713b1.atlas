@@ -1,0 +1,27 @@
+
+dashengxiafan.png
+size: 1655,481
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dashengxiafan/dk
+  rotate: false
+  xy: 1, 180
+  size: 1280, 300
+  orig: 1280, 300
+  offset: 0, 0
+  index: -1
+dashengxiafan/swk
+  rotate: false
+  xy: 1282, 83
+  size: 372, 397
+  orig: 372, 397
+  offset: 0, 0
+  index: -1
+dashengxiafan/wz
+  rotate: false
+  xy: 1, 1
+  size: 725, 178
+  orig: 725, 178
+  offset: 0, 0
+  index: -1

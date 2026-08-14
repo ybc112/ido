@@ -1,0 +1,69 @@
+
+fish104.png
+size: 606,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/小乌龟/images/houtui
+  rotate: false
+  xy: 494, 10
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+H5Newfishes/小乌龟/images/ke
+  rotate: false
+  xy: 145, 2
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+H5Newfishes/小乌龟/images/qiantui
+  rotate: false
+  xy: 263, 13
+  size: 188, 73
+  orig: 188, 73
+  offset: 0, 0
+  index: -1
+H5Newfishes/小乌龟/images/tou
+  rotate: true
+  xy: 501, 73
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+H5Newfishes/小乌龟/images/weiba
+  rotate: false
+  xy: 589, 18
+  size: 17, 55
+  orig: 17, 55
+  offset: 0, 0
+  index: -1
+H5Newfishes/招牌五连坐/small
+  rotate: false
+  xy: 0, 0
+  size: 145, 144
+  orig: 145, 145
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财金鲨/zhaocaijinsha
+  rotate: false
+  xy: 263, 86
+  size: 238, 58
+  orig: 238, 58
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财金鲨/zhaocaijinsha2
+  rotate: false
+  xy: 451, 33
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财金鲨/zhaocaijinsha3
+  rotate: true
+  xy: 451, 2
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1

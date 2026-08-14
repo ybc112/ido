@@ -1,0 +1,286 @@
+
+fish_xuanwu.png
+size: 1317,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GGfazhen2
+  rotate: false
+  xy: 350, 57
+  size: 386, 274
+  orig: 388, 275
+  offset: 1, 0
+  index: -1
+GGguangshe
+  rotate: true
+  xy: 972, 163
+  size: 168, 167
+  orig: 168, 167
+  offset: 0, 0
+  index: -1
+GGteshu
+  rotate: true
+  xy: 95, 14
+  size: 317, 167
+  orig: 319, 168
+  offset: 1, 0
+  index: -1
+fazhen1
+  rotate: true
+  xy: 263, 42
+  size: 289, 86
+  orig: 290, 86
+  offset: 1, 0
+  index: -1
+gui _body
+  rotate: true
+  xy: 737, 81
+  size: 250, 234
+  orig: 250, 234
+  offset: 0, 0
+  index: -1
+gui_2houijao1
+  rotate: false
+  xy: 1197, 220
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+gui_2houijao2
+  rotate: false
+  xy: 1197, 287
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+gui_2houijao3
+  rotate: false
+  xy: 627, 7
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+gui_2qianjiao1
+  rotate: false
+  xy: 1233, 26
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+gui_2qianjiao2
+  rotate: true
+  xy: 1140, 174
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+gui_biyan
+  rotate: false
+  xy: 95, 1
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+gui_changxu1
+  rotate: true
+  xy: 1, 11
+  size: 320, 46
+  orig: 320, 46
+  offset: 0, 0
+  index: -1
+gui_changxu2
+  rotate: true
+  xy: 48, 11
+  size: 320, 46
+  orig: 320, 46
+  offset: 0, 0
+  index: -1
+gui_houtui1_
+  rotate: false
+  xy: 393, 1
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+gui_houtui2
+  rotate: true
+  xy: 1197, 179
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+gui_houtui3
+  rotate: true
+  xy: 438, 4
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+gui_huxinjia1
+  rotate: false
+  xy: 1230, 177
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+gui_huxinjia2
+  rotate: true
+  xy: 671, 9
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1
+gui_huxinmao1
+  rotate: true
+  xy: 1140, 242
+  size: 44, 36
+  orig: 45, 36
+  offset: 1, 0
+  index: -1
+gui_huxinmao2
+  rotate: true
+  xy: 504, 4
+  size: 52, 48
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+gui_huxinmao3
+  rotate: true
+  xy: 878, 9
+  size: 71, 69
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+gui_ke
+  rotate: true
+  xy: 1115, 3
+  size: 159, 117
+  orig: 159, 118
+  offset: 0, 1
+  index: -1
+gui_kouqiang
+  rotate: true
+  xy: 972, 98
+  size: 64, 13
+  orig: 64, 13
+  offset: 0, 0
+  index: -1
+gui_qianjiao1
+  rotate: false
+  xy: 948, 14
+  size: 44, 66
+  orig: 44, 67
+  offset: 0, 1
+  index: -1
+gui_qianjiao2
+  rotate: true
+  xy: 813, 3
+  size: 77, 64
+  orig: 77, 64
+  offset: 0, 0
+  index: -1
+gui_weiba
+  rotate: false
+  xy: 263, 1
+  size: 129, 40
+  orig: 129, 40
+  offset: 0, 0
+  index: -1
+gui_xiaba
+  rotate: false
+  xy: 737, 57
+  size: 75, 23
+  orig: 75, 23
+  offset: 0, 0
+  index: -1
+gui_xu1
+  rotate: true
+  xy: 553, 7
+  size: 49, 73
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+gui_xu2
+  rotate: false
+  xy: 1233, 96
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+neishuiqiu
+  rotate: true
+  xy: 1201, 249
+  size: 37, 30
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+she_body
+  rotate: false
+  xy: 1268, 84
+  size: 46, 155
+  orig: 46, 155
+  offset: 0, 0
+  index: -1
+she_naodai
+  rotate: false
+  xy: 993, 1
+  size: 121, 161
+  orig: 121, 161
+  offset: 0, 0
+  index: -1
+she_weiba
+  rotate: false
+  xy: 1233, 240
+  size: 83, 91
+  orig: 83, 91
+  offset: 0, 0
+  index: -1
+she_xiaba
+  rotate: true
+  xy: 1272, 43
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+shetou
+  rotate: true
+  xy: 1177, 243
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+shuidi
+  rotate: false
+  xy: 116, 3
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+shuidi2
+  rotate: false
+  xy: 350, 43
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+shuiqiu
+  rotate: false
+  xy: 1140, 288
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+shuiqiubian
+  rotate: true
+  xy: 1233, 135
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+shuiqiuwai
+  rotate: false
+  xy: 763, 12
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1

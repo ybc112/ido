@@ -1,0 +1,69 @@
+
+jingjisai_jiangbei.png
+size: 1082,161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingjisai/jiangbei _00
+  rotate: true
+  xy: 940, 81
+  size: 79, 141
+  orig: 186, 159
+  offset: 0, 0
+  index: -1
+jingjisai/jiangbei _01
+  rotate: false
+  xy: 682, 8
+  size: 123, 152
+  orig: 186, 159
+  offset: 0, 0
+  index: -1
+jingjisai/jiangbei _02
+  rotate: false
+  xy: 527, 2
+  size: 154, 158
+  orig: 186, 159
+  offset: 0, 0
+  index: -1
+jingjisai/jiangbei _03
+  rotate: false
+  xy: 360, 1
+  size: 166, 159
+  orig: 186, 159
+  offset: 0, 0
+  index: -1
+jingjisai/jiangbei _04
+  rotate: false
+  xy: 1, 2
+  size: 186, 158
+  orig: 186, 159
+  offset: 0, 1
+  index: -1
+jingjisai/jiangbei _05
+  rotate: false
+  xy: 188, 2
+  size: 171, 158
+  orig: 186, 159
+  offset: 15, 1
+  index: -1
+jingjisai/jiangbei _06
+  rotate: false
+  xy: 806, 22
+  size: 133, 138
+  orig: 186, 159
+  offset: 53, 21
+  index: -1
+jingjisai/jiangbei _07
+  rotate: false
+  xy: 940, 5
+  size: 90, 75
+  orig: 186, 159
+  offset: 96, 83
+  index: -1
+jingjisai/jiangbei _08
+  rotate: false
+  xy: 1031, 37
+  size: 32, 43
+  orig: 186, 159
+  offset: 154, 99
+  index: -1

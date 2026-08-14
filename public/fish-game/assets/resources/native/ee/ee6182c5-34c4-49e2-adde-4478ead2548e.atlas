@@ -1,0 +1,13 @@
+
+zidan10.png
+size: 35,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+渔网修改/子弹/zidan10/Resources/zidan10
+  rotate: false
+  xy: 1, 1
+  size: 33, 87
+  orig: 33, 87
+  offset: 0, 0
+  index: -1

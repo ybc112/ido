@@ -1,0 +1,146 @@
+
+pao_FrostFighter.png
+size: 878,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao/FrostFighter
+  rotate: false
+  xy: 1, 9
+  size: 134, 142
+  orig: 134, 142
+  offset: 0, 0
+  index: -1
+pao/炮6/4
+  rotate: false
+  xy: 136, 54
+  size: 62, 97
+  orig: 62, 97
+  offset: 0, 0
+  index: -1
+pao/炮6/sg_00000
+  rotate: false
+  xy: 239, 66
+  size: 14, 16
+  orig: 80, 64
+  offset: 5, 4
+  index: -1
+pao/炮6/sg_00001
+  rotate: true
+  xy: 199, 60
+  size: 22, 39
+  orig: 80, 64
+  offset: 4, 4
+  index: -1
+pao/炮6/sg_00002
+  rotate: false
+  xy: 136, 2
+  size: 65, 51
+  orig: 80, 64
+  offset: 4, 4
+  index: -1
+pao/炮6/sg_00003
+  rotate: true
+  xy: 199, 83
+  size: 72, 57
+  orig: 80, 64
+  offset: 4, 5
+  index: -1
+pao/炮6/sg_00004
+  rotate: false
+  xy: 202, 1
+  size: 67, 58
+  orig: 80, 64
+  offset: 9, 5
+  index: -1
+pao/炮6/sg_00005
+  rotate: false
+  xy: 257, 100
+  size: 54, 55
+  orig: 80, 64
+  offset: 22, 8
+  index: -1
+pao/炮6/sg_00006
+  rotate: false
+  xy: 257, 65
+  size: 30, 34
+  orig: 80, 64
+  offset: 46, 29
+  index: -1
+pao/炮6/shandain_00000
+  rotate: false
+  xy: 1, 152
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00001
+  rotate: false
+  xy: 172, 338
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00002
+  rotate: false
+  xy: 1, 334
+  size: 170, 185
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00003
+  rotate: false
+  xy: 172, 156
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00004
+  rotate: false
+  xy: 343, 338
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00005
+  rotate: false
+  xy: 343, 156
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00006
+  rotate: true
+  xy: 514, 349
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00007
+  rotate: true
+  xy: 696, 349
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00008
+  rotate: false
+  xy: 514, 167
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00009
+  rotate: true
+  xy: 685, 178
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+pao/炮6/shandain_00010
+  rotate: true
+  xy: 685, 7
+  size: 170, 181
+  orig: 170, 193
+  offset: 0, 0
+  index: -1

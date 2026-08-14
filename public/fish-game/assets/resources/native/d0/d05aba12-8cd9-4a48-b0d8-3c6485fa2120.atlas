@@ -1,0 +1,20 @@
+
+longgongchang_jian.png
+size: 225,192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buyu_inside/guang
+  rotate: true
+  xy: 0, 46
+  size: 146, 225
+  orig: 146, 225
+  offset: 0, 0
+  index: -1
+Buyu_inside/zhulongjian
+  rotate: true
+  xy: 0, 0
+  size: 46, 194
+  orig: 46, 194
+  offset: 0, 0
+  index: -1

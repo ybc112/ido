@@ -1,0 +1,27 @@
+
+caiquanjiangji.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yulei_suoding/caiquanjiangli
+  rotate: false
+  xy: 601, 8
+  size: 290, 87
+  orig: 290, 87
+  offset: 0, 0
+  index: -1
+yulei_suoding/guang1
+  rotate: false
+  xy: 0, 0
+  size: 294, 95
+  orig: 294, 95
+  offset: 0, 0
+  index: -1
+yulei_suoding/guang2
+  rotate: false
+  xy: 301, 0
+  size: 293, 95
+  orig: 293, 95
+  offset: 0, 0
+  index: -1

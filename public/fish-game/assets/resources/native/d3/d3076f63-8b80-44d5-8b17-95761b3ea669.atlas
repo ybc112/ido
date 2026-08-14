@@ -1,0 +1,34 @@
+
+kuangbao_baozha.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuangbao/images/baozha1
+  rotate: true
+  xy: 144, 110
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+kuangbao/images/baozha2
+  rotate: false
+  xy: 144, 162
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+kuangbao/images/baozha3
+  rotate: false
+  xy: 0, 0
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+kuangbao/images/baozha4
+  rotate: false
+  xy: 0, 111
+  size: 137, 125
+  orig: 137, 125
+  offset: 0, 0
+  index: -1

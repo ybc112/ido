@@ -1,0 +1,34 @@
+
+eyuxuanchang.png
+size: 543,617
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenti
+  rotate: true
+  xy: 0, 0
+  size: 617, 349
+  orig: 617, 349
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 349, 344
+  size: 194, 273
+  orig: 194, 273
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 349, 19
+  size: 132, 188
+  orig: 132, 188
+  offset: 0, 0
+  index: -1
+xiaba
+  rotate: false
+  xy: 349, 151
+  size: 176, 193
+  orig: 176, 193
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+LibaoJiaobiao_da.png
+size: 203,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/jiaobiao/jiaobiao1
+  rotate: false
+  xy: 2, 148
+  size: 95, 53
+  orig: 95, 53
+  offset: 0, 0
+  index: -1
+4/jiaobiao/jiaobiao1_00000
+  rotate: false
+  xy: 84, 2
+  size: 21, 42
+  orig: 115, 70
+  offset: 10, 20
+  index: -1
+4/jiaobiao/jiaobiao1_00001
+  rotate: true
+  xy: 107, 9
+  size: 35, 44
+  orig: 115, 70
+  offset: 10, 18
+  index: -1
+4/jiaobiao/jiaobiao1_00002
+  rotate: false
+  xy: 80, 46
+  size: 49, 44
+  orig: 115, 70
+  offset: 10, 18
+  index: -1
+4/jiaobiao/jiaobiao1_00003
+  rotate: false
+  xy: 82, 92
+  size: 63, 53
+  orig: 115, 70
+  offset: 10, 9
+  index: -1
+4/jiaobiao/jiaobiao1_00004
+  rotate: false
+  xy: 2, 36
+  size: 76, 54
+  orig: 115, 70
+  offset: 11, 8
+  index: -1
+4/jiaobiao/jiaobiao1_00005
+  rotate: false
+  xy: 2, 92
+  size: 78, 54
+  orig: 115, 70
+  offset: 22, 8
+  index: -1
+4/jiaobiao/jiaobiao1_00006
+  rotate: false
+  xy: 99, 147
+  size: 69, 54
+  orig: 115, 70
+  offset: 36, 8
+  index: -1
+4/jiaobiao/jiaobiao1_00007
+  rotate: true
+  xy: 147, 90
+  size: 55, 54
+  orig: 115, 70
+  offset: 50, 8
+  index: -1
+4/jiaobiao/jiaobiao1_00008
+  rotate: true
+  xy: 131, 47
+  size: 41, 44
+  orig: 115, 70
+  offset: 64, 18
+  index: -1
+4/jiaobiao/jiaobiao1_00009
+  rotate: false
+  xy: 170, 157
+  size: 27, 44
+  orig: 115, 70
+  offset: 78, 18
+  index: -1
+4/jiaobiao/jiaobiao_text1
+  rotate: false
+  xy: 2, 5
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1

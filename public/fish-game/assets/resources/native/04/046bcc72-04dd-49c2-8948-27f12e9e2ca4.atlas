@@ -1,0 +1,13 @@
+
+zidan_anim4.png
+size: 40,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai/dan4
+  rotate: false
+  xy: 1, 1
+  size: 38, 92
+  orig: 38, 92
+  offset: 0, 0
+  index: -1

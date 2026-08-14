@@ -1,0 +1,90 @@
+
+yu1.png
+size: 699,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 518, 92
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: true
+  xy: 0, 5
+  size: 326, 286
+  orig: 326, 286
+  offset: 0, 0
+  index: -1
+langhua
+  rotate: false
+  xy: 286, 14
+  size: 297, 75
+  orig: 297, 75
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 620, 102
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+pijiu
+  rotate: true
+  xy: 583, 0
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+san
+  rotate: true
+  xy: 518, 129
+  size: 202, 122
+  orig: 202, 122
+  offset: 0, 0
+  index: -1
+shent
+  rotate: false
+  xy: 286, 89
+  size: 232, 242
+  orig: 232, 242
+  offset: 0, 0
+  index: -1
+xuz
+  rotate: true
+  xy: 640, 117
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+yq
+  rotate: false
+  xy: 640, 265
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+yyj
+  rotate: false
+  xy: 555, 95
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+zq
+  rotate: false
+  xy: 640, 199
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+zyj
+  rotate: false
+  xy: 589, 98
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

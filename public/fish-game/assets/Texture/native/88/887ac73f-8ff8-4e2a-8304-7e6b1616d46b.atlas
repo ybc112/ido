@@ -1,0 +1,13 @@
+
+icon_viptequan.png
+size: 93,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating_icon/icon_VIPtequan
+  rotate: false
+  xy: 1, 1
+  size: 91, 96
+  orig: 98, 98
+  offset: 4, 1
+  index: -1

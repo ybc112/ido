@@ -1,0 +1,20 @@
+
+yulei_suoding.png
+size: 243,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yulei_suoding/suodingq
+  rotate: false
+  xy: 0, 0
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+yulei_suoding/zhuanquan
+  rotate: false
+  xy: 194, 146
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1

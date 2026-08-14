@@ -1,0 +1,27 @@
+
+xc_deng.png
+size: 1198,67
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating/deng2
+  rotate: false
+  xy: 406, 0
+  size: 393, 67
+  orig: 406, 67
+  offset: 7, 0
+  index: -1
+dating/dng1
+  rotate: false
+  xy: 0, 0
+  size: 406, 67
+  orig: 406, 67
+  offset: 0, 0
+  index: -1
+dating/jiangchid
+  rotate: false
+  xy: 799, 7
+  size: 399, 60
+  orig: 399, 60
+  offset: 0, 0
+  index: -1

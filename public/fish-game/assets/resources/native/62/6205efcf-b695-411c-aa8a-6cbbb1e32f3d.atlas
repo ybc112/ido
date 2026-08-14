@@ -1,0 +1,20 @@
+
+vippao2.png
+size: 124,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paokoutexiao
+  rotate: true
+  xy: 1, 1
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+vippaotai2
+  rotate: false
+  xy: 1, 107
+  size: 119, 121
+  orig: 119, 121
+  offset: 0, 0
+  index: -1

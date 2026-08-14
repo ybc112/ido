@@ -1,0 +1,41 @@
+
+dt_zhadanleyuan.png
+size: 245,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhadan1
+  rotate: true
+  xy: 197, 42
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+zhadan2
+  rotate: false
+  xy: 197, 3
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+zhadan3
+  rotate: true
+  xy: 197, 74
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+zhadan4
+  rotate: true
+  xy: 197, 108
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+zhadanleyuan
+  rotate: true
+  xy: 1, 1
+  size: 142, 195
+  orig: 142, 195
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+dasheng_laixi.png
+size: 725,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/boss
+  rotate: true
+  xy: 452, 63
+  size: 359, 215
+  orig: 359, 215
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/dasheng
+  rotate: true
+  xy: 1, 1
+  size: 421, 450
+  orig: 421, 450
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/faguang
+  rotate: false
+  xy: 452, 6
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text_eyu
+  rotate: true
+  xy: 668, 20
+  size: 402, 56
+  orig: 402, 56
+  offset: 0, 0
+  index: -1

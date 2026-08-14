@@ -1,0 +1,41 @@
+
+fish10.png
+size: 323,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui
+  rotate: false
+  xy: 222, 8
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+ke
+  rotate: false
+  xy: 0, 2
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+qiantui
+  rotate: false
+  xy: 118, 71
+  size: 188, 73
+  orig: 188, 73
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 118, 0
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 306, 89
+  size: 17, 55
+  orig: 17, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+lijigoumai_anniu.png
+size: 592,550
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI2/btn_ljgm
+  rotate: false
+  xy: 244, 76
+  size: 181, 66
+  orig: 181, 66
+  offset: 0, 0
+  index: -1
+UI2/ljgm_glow/ljgm_g_00000
+  rotate: false
+  xy: 488, 273
+  size: 101, 66
+  orig: 350, 150
+  offset: 64, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00001
+  rotate: false
+  xy: 448, 141
+  size: 139, 66
+  orig: 350, 150
+  offset: 64, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00002
+  rotate: false
+  xy: 236, 10
+  size: 178, 66
+  orig: 350, 150
+  offset: 64, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00003
+  rotate: true
+  xy: 489, 339
+  size: 211, 66
+  orig: 350, 150
+  offset: 64, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00004
+  rotate: false
+  xy: 245, 208
+  size: 219, 66
+  orig: 350, 150
+  offset: 65, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00005
+  rotate: false
+  xy: 245, 142
+  size: 203, 66
+  orig: 350, 150
+  offset: 82, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00006
+  rotate: false
+  xy: 425, 75
+  size: 167, 66
+  orig: 350, 150
+  offset: 118, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00007
+  rotate: false
+  xy: 464, 207
+  size: 128, 66
+  orig: 350, 150
+  offset: 157, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00008
+  rotate: false
+  xy: 414, 9
+  size: 91, 66
+  orig: 350, 150
+  offset: 194, 47
+  index: -1
+UI2/ljgm_glow/ljgm_g_00009
+  rotate: false
+  xy: 505, 16
+  size: 51, 59
+  orig: 350, 150
+  offset: 233, 53
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00000
+  rotate: false
+  xy: 245, 458
+  size: 244, 92
+  orig: 350, 150
+  offset: 52, 33
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00001
+  rotate: false
+  xy: 0, 275
+  size: 245, 91
+  orig: 350, 150
+  offset: 52, 33
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00002
+  rotate: false
+  xy: 0, 184
+  size: 245, 91
+  orig: 350, 150
+  offset: 53, 33
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00003
+  rotate: false
+  xy: 245, 366
+  size: 244, 92
+  orig: 350, 150
+  offset: 55, 33
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00004
+  rotate: false
+  xy: 245, 274
+  size: 243, 92
+  orig: 350, 150
+  offset: 56, 33
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00005
+  rotate: false
+  xy: 0, 458
+  size: 245, 92
+  orig: 350, 150
+  offset: 53, 34
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00006
+  rotate: false
+  xy: 0, 92
+  size: 244, 92
+  orig: 350, 150
+  offset: 53, 34
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00007
+  rotate: false
+  xy: 0, 366
+  size: 245, 92
+  orig: 350, 150
+  offset: 52, 34
+  index: -1
+UI2/ljgm_glow/ljgm_glow_00008
+  rotate: false
+  xy: 0, 0
+  size: 236, 92
+  orig: 350, 150
+  offset: 51, 33
+  index: -1

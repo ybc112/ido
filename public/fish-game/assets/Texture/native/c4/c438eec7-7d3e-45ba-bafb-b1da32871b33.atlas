@@ -1,0 +1,41 @@
+
+nanhai_jiesuan.png
+size: 775,775
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongxihuode/cd
+  rotate: false
+  xy: 2, 2
+  size: 536, 152
+  orig: 536, 152
+  offset: 0, 0
+  index: -1
+gongxihuode/g
+  rotate: false
+  xy: 2, 156
+  size: 633, 617
+  orig: 633, 617
+  offset: 0, 0
+  index: -1
+gongxihuode/jb
+  rotate: false
+  xy: 637, 386
+  size: 122, 112
+  orig: 122, 112
+  offset: 0, 0
+  index: -1
+gongxihuode/jbd
+  rotate: true
+  xy: 637, 500
+  size: 273, 134
+  orig: 273, 134
+  offset: 0, 0
+  index: -1
+gongxihuode/xingg
+  rotate: false
+  xy: 637, 288
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1

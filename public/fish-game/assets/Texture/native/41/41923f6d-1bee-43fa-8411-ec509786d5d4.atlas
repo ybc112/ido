@@ -1,0 +1,20 @@
+
+jingjisai_uideng.png
+size: 566,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng_c
+  rotate: false
+  xy: 1, 102
+  size: 564, 101
+  orig: 577, 101
+  offset: 13, 0
+  index: -1
+deng_l
+  rotate: false
+  xy: 1, 1
+  size: 562, 100
+  orig: 577, 101
+  offset: 0, 0
+  index: -1

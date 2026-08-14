@@ -1,0 +1,657 @@
+
+wanfayujinchang.png
+size: 1273,536
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buyu_inside/wanfayujinchang/1
+  rotate: true
+  xy: 907, 2
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/2
+  rotate: true
+  xy: 764, 300
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/5
+  rotate: true
+  xy: 764, 300
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/3
+  rotate: false
+  xy: 831, 296
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/6
+  rotate: false
+  xy: 831, 296
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/4
+  rotate: false
+  xy: 983, 6
+  size: 59, 61
+  orig: 59, 61
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/baoxiang_baiyin
+  rotate: true
+  xy: 591, 200
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/baoxiang_huangjin
+  rotate: true
+  xy: 673, 360
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/baoxiang_qingtong
+  rotate: true
+  xy: 581, 17
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/baoxiang_zuanshi
+  rotate: true
+  xy: 581, 108
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_000
+  rotate: true
+  xy: 425, 174
+  size: 76, 78
+  orig: 78, 93
+  offset: 0, 12
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_001
+  rotate: true
+  xy: 345, 174
+  size: 76, 79
+  orig: 78, 93
+  offset: 0, 9
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_002
+  rotate: false
+  xy: 890, 297
+  size: 76, 77
+  orig: 78, 93
+  offset: 0, 9
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_003
+  rotate: false
+  xy: 918, 377
+  size: 76, 76
+  orig: 78, 93
+  offset: 0, 8
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_004
+  rotate: false
+  xy: 907, 58
+  size: 75, 77
+  orig: 78, 93
+  offset: 1, 7
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_005
+  rotate: false
+  xy: 927, 459
+  size: 76, 76
+  orig: 78, 93
+  offset: 1, 7
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_006
+  rotate: true
+  xy: 908, 139
+  size: 76, 74
+  orig: 78, 93
+  offset: 1, 8
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_007
+  rotate: true
+  xy: 967, 300
+  size: 76, 73
+  orig: 78, 93
+  offset: 2, 9
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_008
+  rotate: false
+  xy: 832, 136
+  size: 75, 79
+  orig: 78, 93
+  offset: 3, 4
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_009
+  rotate: true
+  xy: 260, 174
+  size: 75, 84
+  orig: 78, 93
+  offset: 3, 0
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_010
+  rotate: true
+  xy: 987, 224
+  size: 75, 73
+  orig: 78, 93
+  offset: 3, 13
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_011
+  rotate: true
+  xy: 912, 221
+  size: 75, 74
+  orig: 78, 93
+  offset: 2, 14
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_012
+  rotate: false
+  xy: 836, 216
+  size: 75, 79
+  orig: 78, 93
+  offset: 2, 11
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_013
+  rotate: false
+  xy: 759, 216
+  size: 76, 78
+  orig: 78, 93
+  offset: 1, 15
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_014
+  rotate: false
+  xy: 841, 375
+  size: 76, 78
+  orig: 78, 93
+  offset: 1, 14
+  index: -1
+buyu_inside/wanfayujinchang/beike/bk_015
+  rotate: false
+  xy: 830, 32
+  size: 76, 78
+  orig: 78, 93
+  offset: 1, 13
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_beike
+  rotate: false
+  xy: 1, 1
+  size: 208, 33
+  orig: 209, 34
+  offset: 1, 0
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_jubaopen
+  rotate: false
+  xy: 210, 1
+  size: 182, 33
+  orig: 182, 33
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_quan
+  rotate: false
+  xy: 139, 321
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_quan_000
+  rotate: false
+  xy: 70, 418
+  size: 117, 117
+  orig: 156, 156
+  offset: 19, 20
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_suipianbox
+  rotate: false
+  xy: 139, 285
+  size: 208, 35
+  orig: 208, 35
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_touziyu
+  rotate: false
+  xy: 321, 251
+  size: 180, 33
+  orig: 209, 34
+  offset: 1, 1
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_wenzidi
+  rotate: true
+  xy: 1, 242
+  size: 293, 68
+  orig: 293, 68
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_zhadanxie
+  rotate: false
+  xy: 139, 250
+  size: 181, 34
+  orig: 209, 34
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/jinchang_zuantouxia
+  rotate: false
+  xy: 393, 1
+  size: 181, 33
+  orig: 209, 34
+  offset: 0, 1
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen00
+  rotate: true
+  xy: 667, 14
+  size: 92, 80
+  orig: 96, 96
+  offset: 1, 7
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen01
+  rotate: true
+  xy: 589, 357
+  size: 93, 83
+  orig: 96, 96
+  offset: 1, 6
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen02
+  rotate: false
+  xy: 461, 450
+  size: 94, 85
+  orig: 96, 96
+  offset: 1, 6
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen03
+  rotate: true
+  xy: 236, 348
+  size: 94, 87
+  orig: 96, 96
+  offset: 1, 5
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen04
+  rotate: true
+  xy: 188, 443
+  size: 92, 89
+  orig: 96, 96
+  offset: 2, 5
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen05
+  rotate: false
+  xy: 324, 353
+  size: 89, 91
+  orig: 96, 96
+  offset: 3, 5
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen06
+  rotate: false
+  xy: 278, 445
+  size: 90, 90
+  orig: 96, 96
+  offset: 3, 4
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen07
+  rotate: false
+  xy: 369, 447
+  size: 91, 88
+  orig: 96, 96
+  offset: 2, 4
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen08
+  rotate: true
+  xy: 414, 355
+  size: 91, 88
+  orig: 96, 96
+  offset: 2, 3
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen09
+  rotate: true
+  xy: 504, 199
+  size: 91, 86
+  orig: 96, 96
+  offset: 2, 3
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen10
+  rotate: false
+  xy: 650, 451
+  size: 91, 84
+  orig: 96, 96
+  offset: 2, 3
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen11
+  rotate: true
+  xy: 503, 356
+  size: 93, 85
+  orig: 96, 96
+  offset: 1, 3
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen12
+  rotate: false
+  xy: 556, 451
+  size: 93, 84
+  orig: 96, 96
+  offset: 1, 4
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen13
+  rotate: false
+  xy: 742, 453
+  size: 92, 82
+  orig: 96, 96
+  offset: 1, 6
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen14
+  rotate: true
+  xy: 759, 361
+  size: 91, 81
+  orig: 96, 96
+  offset: 2, 7
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen15
+  rotate: true
+  xy: 750, 111
+  size: 89, 81
+  orig: 96, 96
+  offset: 2, 8
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen16
+  rotate: true
+  xy: 748, 16
+  size: 90, 81
+  orig: 96, 96
+  offset: 2, 8
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen17
+  rotate: false
+  xy: 835, 454
+  size: 91, 81
+  orig: 96, 96
+  offset: 1, 8
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen18
+  rotate: true
+  xy: 667, 107
+  size: 92, 82
+  orig: 96, 96
+  offset: 1, 7
+  index: -1
+buyu_inside/wanfayujinchang/jubaopenaaa/fish_jubaopen19
+  rotate: true
+  xy: 677, 201
+  size: 92, 81
+  orig: 96, 96
+  offset: 1, 7
+  index: -1
+buyu_inside/wanfayujinchang/sg_000
+  rotate: true
+  xy: 70, 244
+  size: 27, 67
+  orig: 320, 68
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/sg_001
+  rotate: false
+  xy: 415, 105
+  size: 85, 68
+  orig: 320, 68
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/sg_002
+  rotate: true
+  xy: 70, 272
+  size: 145, 68
+  orig: 320, 68
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/sg_003
+  rotate: false
+  xy: 216, 35
+  size: 203, 68
+  orig: 320, 68
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/sg_004
+  rotate: false
+  xy: 1, 104
+  size: 251, 68
+  orig: 320, 68
+  offset: 0, 0
+  index: -1
+buyu_inside/wanfayujinchang/sg_005
+  rotate: false
+  xy: 1, 173
+  size: 258, 68
+  orig: 320, 68
+  offset: 22, 0
+  index: -1
+buyu_inside/wanfayujinchang/sg_006
+  rotate: false
+  xy: 1, 35
+  size: 214, 68
+  orig: 320, 68
+  offset: 82, 0
+  index: -1
+buyu_inside/wanfayujinchang/sg_007
+  rotate: false
+  xy: 253, 104
+  size: 161, 68
+  orig: 320, 68
+  offset: 142, 0
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_000
+  rotate: false
+  xy: 1200, 168
+  size: 69, 68
+  orig: 79, 79
+  offset: 4, 1
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_001
+  rotate: false
+  xy: 1196, 8
+  size: 70, 70
+  orig: 79, 79
+  offset: 3, 3
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_002
+  rotate: false
+  xy: 1143, 389
+  size: 71, 73
+  orig: 79, 79
+  offset: 2, 4
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_003
+  rotate: false
+  xy: 1058, 149
+  size: 72, 74
+  orig: 79, 79
+  offset: 1, 4
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_004
+  rotate: false
+  xy: 1041, 308
+  size: 73, 75
+  orig: 79, 79
+  offset: 1, 2
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_005
+  rotate: false
+  xy: 995, 384
+  size: 74, 74
+  orig: 79, 79
+  offset: 3, 1
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_006
+  rotate: true
+  xy: 1061, 233
+  size: 74, 72
+  orig: 79, 79
+  offset: 3, 3
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_007
+  rotate: true
+  xy: 1115, 308
+  size: 75, 71
+  orig: 79, 79
+  offset: 2, 3
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_008
+  rotate: false
+  xy: 1126, 79
+  size: 73, 69
+  orig: 79, 79
+  offset: 4, 4
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_009
+  rotate: true
+  xy: 1126, 5
+  size: 73, 69
+  orig: 79, 79
+  offset: 4, 4
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_010
+  rotate: false
+  xy: 1156, 465
+  size: 73, 70
+  orig: 79, 79
+  offset: 4, 4
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_011
+  rotate: true
+  xy: 1131, 160
+  size: 72, 68
+  orig: 79, 79
+  offset: 5, 3
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_012
+  rotate: true
+  xy: 1187, 317
+  size: 71, 67
+  orig: 79, 79
+  offset: 6, 2
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_013
+  rotate: true
+  xy: 1134, 237
+  size: 70, 68
+  orig: 79, 79
+  offset: 4, 1
+  index: -1
+buyu_inside/wanfayujinchang/zhadanxie/fish306-anim_014
+  rotate: false
+  xy: 1203, 248
+  size: 69, 68
+  orig: 79, 79
+  offset: 4, 1
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_000
+  rotate: false
+  xy: 597, 294
+  size: 84, 62
+  orig: 90, 85
+  offset: 3, 12
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_014
+  rotate: false
+  xy: 597, 294
+  size: 84, 62
+  orig: 90, 85
+  offset: 3, 12
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_001
+  rotate: false
+  xy: 514, 291
+  size: 82, 64
+  orig: 90, 85
+  offset: 2, 10
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_002
+  rotate: false
+  xy: 420, 37
+  size: 81, 67
+  orig: 90, 85
+  offset: 1, 8
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_003
+  rotate: false
+  xy: 501, 105
+  size: 79, 68
+  orig: 90, 85
+  offset: 1, 7
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_004
+  rotate: true
+  xy: 1055, 68
+  size: 77, 70
+  orig: 90, 85
+  offset: 1, 6
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_005
+  rotate: true
+  xy: 1070, 384
+  size: 76, 72
+  orig: 90, 85
+  offset: 1, 4
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_006
+  rotate: false
+  xy: 1004, 461
+  size: 74, 74
+  orig: 90, 85
+  offset: 2, 3
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_007
+  rotate: false
+  xy: 983, 146
+  size: 74, 74
+  orig: 90, 85
+  offset: 2, 3
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_008
+  rotate: false
+  xy: 1079, 463
+  size: 76, 72
+  orig: 90, 85
+  offset: 1, 4
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_009
+  rotate: true
+  xy: 983, 68
+  size: 77, 71
+  orig: 90, 85
+  offset: 1, 5
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_010
+  rotate: false
+  xy: 502, 35
+  size: 78, 69
+  orig: 90, 85
+  offset: 1, 6
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_011
+  rotate: false
+  xy: 348, 285
+  size: 80, 67
+  orig: 90, 85
+  offset: 1, 8
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_012
+  rotate: false
+  xy: 682, 295
+  size: 81, 64
+  orig: 90, 85
+  offset: 2, 10
+  index: -1
+buyu_inside/wanfayujinchang/zuantouxia/zuantoulongxia_013
+  rotate: false
+  xy: 429, 291
+  size: 84, 63
+  orig: 90, 85
+  offset: 2, 11
+  index: -1

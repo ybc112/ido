@@ -1,0 +1,13 @@
+
+meirixunbao_anim.png
+size: 292,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+meirixunbao/glow115
+  rotate: false
+  xy: 1, 1
+  size: 290, 321
+  orig: 400, 400
+  offset: 53, 40
+  index: -1

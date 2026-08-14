@@ -1,0 +1,13 @@
+
+jltf_glow.png
+size: 266,80
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dk_jltf_0
+  rotate: false
+  xy: 1, 1
+  size: 264, 78
+  orig: 391, 109
+  offset: 64, 18
+  index: -1

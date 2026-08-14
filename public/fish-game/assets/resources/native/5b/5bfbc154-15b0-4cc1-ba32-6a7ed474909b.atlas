@@ -1,0 +1,104 @@
+
+paotai_xinchun.png
+size: 340,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erduo
+  rotate: false
+  xy: 72, 12
+  size: 94, 34
+  orig: 94, 34
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 167, 1
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+pao
+  rotate: false
+  xy: 266, 53
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+pen
+  rotate: true
+  xy: 34, 47
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+pen1
+  rotate: false
+  xy: 1, 5
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+shanghuzi
+  rotate: true
+  xy: 1, 43
+  size: 98, 32
+  orig: 98, 32
+  offset: 0, 0
+  index: -1
+shangjiemao
+  rotate: true
+  xy: 82, 48
+  size: 93, 34
+  orig: 93, 34
+  offset: 0, 0
+  index: -1
+xiaya
+  rotate: true
+  xy: 117, 61
+  size: 80, 50
+  orig: 80, 50
+  offset: 0, 0
+  index: -1
+yachi
+  rotate: true
+  xy: 247, 4
+  size: 56, 16
+  orig: 56, 16
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 266, 117
+  size: 73, 24
+  orig: 73, 24
+  offset: 0, 0
+  index: -1
+you
+  rotate: false
+  xy: 168, 61
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+youbianpao
+  rotate: false
+  xy: 264, 24
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+zuo
+  rotate: false
+  xy: 217, 61
+  size: 48, 80
+  orig: 48, 80
+  offset: 0, 0
+  index: -1
+zuobianpao
+  rotate: false
+  xy: 293, 24
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

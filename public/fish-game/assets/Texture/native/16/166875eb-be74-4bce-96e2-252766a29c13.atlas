@@ -1,0 +1,69 @@
+
+icon_lijigoumai.png
+size: 501,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon/btn_1orange_000
+  rotate: true
+  xy: 381, 4
+  size: 147, 55
+  orig: 200, 100
+  offset: 27, 25
+  index: -1
+icon/btn_lijigoumai_001
+  rotate: true
+  xy: 320, 1
+  size: 150, 60
+  orig: 170, 80
+  offset: 10, 11
+  index: -1
+icon/btn_lijigoumai_002
+  rotate: true
+  xy: 1, 1
+  size: 150, 63
+  orig: 170, 80
+  offset: 10, 10
+  index: -1
+icon/btn_lijigoumai_003
+  rotate: true
+  xy: 65, 1
+  size: 150, 63
+  orig: 170, 80
+  offset: 10, 10
+  index: -1
+icon/btn_lijigoumai_004
+  rotate: true
+  xy: 437, 23
+  size: 128, 63
+  orig: 170, 80
+  offset: 17, 10
+  index: -1
+icon/btn_lijigoumai_005
+  rotate: true
+  xy: 129, 1
+  size: 150, 63
+  orig: 170, 80
+  offset: 10, 10
+  index: -1
+icon/btn_lijigoumai_006
+  rotate: true
+  xy: 193, 1
+  size: 150, 63
+  orig: 170, 80
+  offset: 10, 10
+  index: -1
+icon/btn_lijigoumai_007
+  rotate: true
+  xy: 257, 1
+  size: 150, 62
+  orig: 170, 80
+  offset: 10, 11
+  index: -1
+icon/btn_lijigoumai_008
+  rotate: true
+  xy: 437, 11
+  size: 11, 31
+  orig: 170, 80
+  offset: 149, 24
+  index: -1

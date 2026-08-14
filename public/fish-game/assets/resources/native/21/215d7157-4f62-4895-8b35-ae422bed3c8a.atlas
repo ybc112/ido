@@ -1,0 +1,34 @@
+
+jusha_laixi.png
+size: 524,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/boss
+  rotate: true
+  xy: 308, 58
+  size: 359, 215
+  orig: 359, 215
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/faguang
+  rotate: false
+  xy: 404, 1
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/img_shark
+  rotate: false
+  xy: 1, 65
+  size: 306, 352
+  orig: 306, 352
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/text_eyu
+  rotate: false
+  xy: 1, 1
+  size: 402, 56
+  orig: 402, 56
+  offset: 0, 0
+  index: -1

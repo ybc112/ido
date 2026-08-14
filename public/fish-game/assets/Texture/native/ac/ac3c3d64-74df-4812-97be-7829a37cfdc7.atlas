@@ -1,0 +1,20 @@
+
+eyuxuanchangd.png
+size: 760,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xuanchang_UITX/Erji_jiemian/images/xuanchang
+  rotate: false
+  xy: 0, 0
+  size: 360, 264
+  orig: 360, 264
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/langhua
+  rotate: false
+  xy: 360, 162
+  size: 400, 102
+  orig: 400, 102
+  offset: 0, 0
+  index: -1

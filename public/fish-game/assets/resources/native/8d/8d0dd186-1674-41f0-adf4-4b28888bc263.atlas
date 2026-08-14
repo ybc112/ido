@@ -1,0 +1,20 @@
+
+fish07.png
+size: 154,41
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/蓝鱼拆分/lanyuchib
+  rotate: false
+  xy: 130, 11
+  size: 24, 30
+  orig: 24, 31
+  offset: 0, 1
+  index: -1
+H5Newfishes/蓝鱼拆分/lanyushenti
+  rotate: true
+  xy: 0, 0
+  size: 41, 130
+  orig: 41, 130
+  offset: 0, 0
+  index: -1

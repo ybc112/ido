@@ -1,0 +1,111 @@
+
+yuwang10.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxingdaji10/Resources/xingxingdaji10
+  rotate: true
+  xy: 331, 106
+  size: 149, 152
+  orig: 171, 168
+  offset: 12, 7
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10aaa0003
+  rotate: true
+  xy: 946, 176
+  size: 79, 67
+  orig: 164, 150
+  offset: 33, 31
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10aaa0004
+  rotate: false
+  xy: 309, 12
+  size: 118, 93
+  orig: 164, 150
+  offset: 24, 29
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10aaa0005
+  rotate: true
+  xy: 1, 1
+  size: 103, 92
+  orig: 164, 150
+  offset: 33, 23
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10aaa0006
+  rotate: false
+  xy: 484, 146
+  size: 122, 109
+  orig: 164, 150
+  offset: 17, 11
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10aaa0007
+  rotate: false
+  xy: 166, 109
+  size: 164, 146
+  orig: 164, 150
+  offset: 0, 0
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10aaa0008
+  rotate: false
+  xy: 1, 105
+  size: 164, 150
+  orig: 164, 150
+  offset: 0, 0
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0001
+  rotate: true
+  xy: 428, 12
+  size: 93, 90
+  orig: 112, 109
+  offset: 10, 10
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0002
+  rotate: false
+  xy: 617, 49
+  size: 99, 96
+  orig: 112, 109
+  offset: 7, 7
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0003
+  rotate: false
+  xy: 94, 3
+  size: 104, 101
+  orig: 112, 109
+  offset: 4, 5
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0004
+  rotate: false
+  xy: 833, 149
+  size: 112, 106
+  orig: 112, 109
+  offset: 0, 3
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0005
+  rotate: false
+  xy: 607, 146
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0006
+  rotate: false
+  xy: 720, 146
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0007
+  rotate: false
+  xy: 199, 2
+  size: 109, 106
+  orig: 112, 109
+  offset: 3, 2
+  index: -1
+xingxingdaji10/Resources/xingxingdaji10bbb0008
+  rotate: false
+  xy: 519, 36
+  size: 97, 109
+  orig: 112, 109
+  offset: 1, 0
+  index: -1

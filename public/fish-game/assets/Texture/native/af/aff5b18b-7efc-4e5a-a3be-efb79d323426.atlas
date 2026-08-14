@@ -1,0 +1,27 @@
+
+Chuhaibuyu.png
+size: 411,325
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating/shay (1)
+  rotate: true
+  xy: 1, 1
+  size: 323, 191
+  orig: 323, 191
+  offset: 0, 0
+  index: -1
+dating/shay (2)
+  rotate: true
+  xy: 193, 20
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+dating/shay (3)
+  rotate: false
+  xy: 193, 64
+  size: 217, 260
+  orig: 217, 260
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+fish_zuantoulongxia.png
+size: 1406,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newfishes/fish_zuantoulongxia/huxu
+  rotate: false
+  xy: 1261, 55
+  size: 144, 54
+  orig: 144, 54
+  offset: 0, 0
+  index: -1
+newfishes/fish_zuantoulongxia/qianzi1
+  rotate: false
+  xy: 1112, 23
+  size: 148, 86
+  orig: 148, 86
+  offset: 0, 0
+  index: -1
+newfishes/fish_zuantoulongxia/shenti
+  rotate: false
+  xy: 834, 21
+  size: 277, 88
+  orig: 277, 88
+  offset: 0, 0
+  index: -1
+newfishes/fish_zuantoulongxia/xiaozhuazi
+  rotate: true
+  xy: 1261, 29
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+newfishes/fish_zuantoulongxia/zuantou01
+  rotate: true
+  xy: 557, 1
+  size: 108, 276
+  orig: 108, 283
+  offset: 0, 7
+  index: -1
+newfishes/fish_zuantoulongxia/zuantou02
+  rotate: true
+  xy: 279, 1
+  size: 108, 277
+  orig: 108, 283
+  offset: 0, 6
+  index: -1
+newfishes/fish_zuantoulongxia/zuantou03
+  rotate: true
+  xy: 1, 1
+  size: 108, 277
+  orig: 108, 283
+  offset: 0, 6
+  index: -1

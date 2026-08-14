@@ -1,0 +1,76 @@
+
+jingjichang_saoguang.png
+size: 200,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingjichang
+  rotate: false
+  xy: 1, 236
+  size: 132, 47
+  orig: 132, 47
+  offset: 0, 0
+  index: -1
+jingjichang_00
+  rotate: false
+  xy: 134, 190
+  size: 62, 46
+  orig: 132, 47
+  offset: 0, 1
+  index: -1
+jingjichang_01
+  rotate: false
+  xy: 97, 1
+  size: 94, 46
+  orig: 132, 47
+  offset: 0, 1
+  index: -1
+jingjichang_02
+  rotate: false
+  xy: 1, 48
+  size: 124, 46
+  orig: 132, 47
+  offset: 0, 1
+  index: -1
+jingjichang_03
+  rotate: false
+  xy: 1, 189
+  size: 132, 46
+  orig: 132, 47
+  offset: 0, 1
+  index: -1
+jingjichang_04
+  rotate: true
+  xy: 134, 57
+  size: 132, 46
+  orig: 132, 47
+  offset: 0, 1
+  index: -1
+jingjichang_05
+  rotate: false
+  xy: 1, 142
+  size: 132, 46
+  orig: 132, 47
+  offset: 0, 1
+  index: -1
+jingjichang_06
+  rotate: false
+  xy: 1, 95
+  size: 130, 46
+  orig: 132, 47
+  offset: 2, 1
+  index: -1
+jingjichang_07
+  rotate: false
+  xy: 1, 1
+  size: 95, 46
+  orig: 132, 47
+  offset: 37, 1
+  index: -1
+jingjichang_08
+  rotate: false
+  xy: 134, 237
+  size: 65, 46
+  orig: 132, 47
+  offset: 67, 1
+  index: -1

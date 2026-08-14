@@ -1,0 +1,13 @@
+
+zidan_anim1.png
+size: 48,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidan1
+  rotate: false
+  xy: 1, 1
+  size: 46, 84
+  orig: 46, 84
+  offset: 0, 0
+  index: -1

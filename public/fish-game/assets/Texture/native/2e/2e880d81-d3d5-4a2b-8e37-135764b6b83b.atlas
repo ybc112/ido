@@ -1,0 +1,13 @@
+
+meirilibao.png
+size: 78,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Icon/icon_meiritehui
+  rotate: false
+  xy: 0, 0
+  size: 78, 71
+  orig: 78, 78
+  offset: 0, 0
+  index: -1

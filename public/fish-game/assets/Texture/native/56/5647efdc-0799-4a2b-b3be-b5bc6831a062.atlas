@@ -1,0 +1,76 @@
+
+shenmihaiyu_saoguang.png
+size: 588,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenmihaiyu
+  rotate: false
+  xy: 1, 48
+  size: 176, 47
+  orig: 176, 47
+  offset: 0, 0
+  index: -1
+shenmihaiyu_00
+  rotate: false
+  xy: 545, 49
+  size: 42, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+shenmihaiyu_01
+  rotate: false
+  xy: 443, 2
+  size: 79, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+shenmihaiyu_02
+  rotate: false
+  xy: 328, 2
+  size: 114, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+shenmihaiyu_03
+  rotate: false
+  xy: 178, 2
+  size: 149, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+shenmihaiyu_04
+  rotate: false
+  xy: 1, 1
+  size: 176, 46
+  orig: 176, 47
+  offset: 0, 1
+  index: -1
+shenmihaiyu_05
+  rotate: false
+  xy: 178, 49
+  size: 157, 46
+  orig: 176, 47
+  offset: 19, 1
+  index: -1
+shenmihaiyu_06
+  rotate: false
+  xy: 336, 49
+  size: 121, 46
+  orig: 176, 47
+  offset: 55, 1
+  index: -1
+shenmihaiyu_07
+  rotate: false
+  xy: 458, 49
+  size: 86, 46
+  orig: 176, 47
+  offset: 90, 1
+  index: -1
+shenmihaiyu_08
+  rotate: false
+  xy: 523, 2
+  size: 51, 46
+  orig: 176, 47
+  offset: 125, 1
+  index: -1

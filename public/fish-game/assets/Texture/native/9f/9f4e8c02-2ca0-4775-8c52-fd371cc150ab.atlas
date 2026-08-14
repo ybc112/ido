@@ -1,0 +1,76 @@
+
+ziyousai.png
+size: 458,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingjichangrukou/lizi_c_1
+  rotate: false
+  xy: 381, 13
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_caidai
+  rotate: false
+  xy: 379, 118
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_qiu
+  rotate: false
+  xy: 335, 59
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_xiaoyu
+  rotate: true
+  xy: 379, 193
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_youpi
+  rotate: true
+  xy: 335, 142
+  size: 139, 43
+  orig: 139, 43
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_youqi
+  rotate: false
+  xy: 335, 2
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_youyan
+  rotate: false
+  xy: 356, 124
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_yu1
+  rotate: true
+  xy: 1, 1
+  size: 280, 333
+  orig: 280, 333
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_zuoqi
+  rotate: false
+  xy: 386, 61
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+jingjichangrukou/rukou1_zuoyan
+  rotate: true
+  xy: 335, 118
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1

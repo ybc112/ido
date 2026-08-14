@@ -1,0 +1,20 @@
+
+fish12.png
+size: 159,75
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/Hongdouyu/hongdouyubeibu
+  rotate: true
+  xy: 0, 0
+  size: 75, 125
+  orig: 75, 125
+  offset: 0, 0
+  index: -1
+H5Newfishes/Hongdouyu/hongdouyuyuqi
+  rotate: false
+  xy: 125, 44
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1

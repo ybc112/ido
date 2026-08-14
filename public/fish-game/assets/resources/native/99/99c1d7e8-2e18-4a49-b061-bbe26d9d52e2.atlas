@@ -1,0 +1,13 @@
+
+fish_chanyue.png
+size: 108,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanyue
+  rotate: false
+  xy: 1, 1
+  size: 106, 329
+  orig: 106, 329
+  offset: 0, 0
+  index: -1

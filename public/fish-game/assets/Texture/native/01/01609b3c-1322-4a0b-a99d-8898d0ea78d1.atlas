@@ -1,0 +1,27 @@
+
+chuizi.png
+size: 173,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_kaishi
+  rotate: false
+  xy: 1, 31
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+chuizi
+  rotate: false
+  xy: 1, 106
+  size: 143, 163
+  orig: 143, 163
+  offset: 0, 0
+  index: -1
+kaishi
+  rotate: false
+  xy: 1, 1
+  size: 79, 29
+  orig: 79, 29
+  offset: 0, 0
+  index: -1

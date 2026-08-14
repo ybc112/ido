@@ -1,0 +1,20 @@
+
+vippao7.png
+size: 124,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paokoutexiao
+  rotate: true
+  xy: 1, 1
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+vippaotai7/vippaotai7
+  rotate: false
+  xy: 1, 107
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1

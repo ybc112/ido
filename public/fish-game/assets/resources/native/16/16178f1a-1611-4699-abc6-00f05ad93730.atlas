@@ -1,0 +1,27 @@
+
+hongzhajiruchang_putong.png
+size: 1931,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/HongzhajiRuchang/ruchang_putongruchang
+  rotate: false
+  xy: 1280, 429
+  size: 651, 118
+  orig: 651, 118
+  offset: 0, 0
+  index: -1
+UI/HongzhajiRuchang/ruchang_putongruchang2
+  rotate: false
+  xy: 0, 255
+  size: 1280, 292
+  orig: 1280, 292
+  offset: 0, 0
+  index: -1
+UI/HongzhajiRuchang/ruchang_putongruchang3
+  rotate: false
+  xy: 0, 0
+  size: 1280, 255
+  orig: 1280, 292
+  offset: 0, 18
+  index: -1

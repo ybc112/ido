@@ -1,0 +1,13 @@
+
+mokunzhuanpan_glow.png
+size: 192,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xuanzhong
+  rotate: false
+  xy: 1, 1
+  size: 190, 242
+  orig: 200, 250
+  offset: 6, 4
+  index: -1

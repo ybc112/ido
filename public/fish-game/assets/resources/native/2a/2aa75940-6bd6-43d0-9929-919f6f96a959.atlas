@@ -1,0 +1,55 @@
+
+fish106.png
+size: 145,179
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/招财水母/body
+  rotate: true
+  xy: 0, 11
+  size: 58, 76
+  orig: 58, 78
+  offset: 0, 2
+  index: -1
+H5Newfishes/招财水母/leg_you1
+  rotate: false
+  xy: 96, 121
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财水母/leg_you2
+  rotate: false
+  xy: 105, 63
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财水母/leg_zhong
+  rotate: false
+  xy: 70, 88
+  size: 26, 91
+  orig: 26, 91
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财水母/leg_zuo1
+  rotate: false
+  xy: 76, 9
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财水母/leg_zuo2
+  rotate: false
+  xy: 105, 0
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财水母/san
+  rotate: true
+  xy: 0, 69
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1

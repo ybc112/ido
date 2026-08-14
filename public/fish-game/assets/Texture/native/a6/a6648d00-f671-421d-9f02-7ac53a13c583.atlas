@@ -1,0 +1,76 @@
+
+zhadanleyuan_saoguang.png
+size: 108,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhadanleyuan
+  rotate: false
+  xy: 1, 249
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+zhadanleyuan_00
+  rotate: false
+  xy: 1, 1
+  size: 59, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+zhadanleyuan_01
+  rotate: false
+  xy: 1, 63
+  size: 84, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+zhadanleyuan_02
+  rotate: false
+  xy: 1, 218
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+zhadanleyuan_03
+  rotate: false
+  xy: 1, 187
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+zhadanleyuan_04
+  rotate: false
+  xy: 1, 156
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+zhadanleyuan_05
+  rotate: false
+  xy: 1, 125
+  size: 106, 30
+  orig: 106, 30
+  offset: 0, 0
+  index: -1
+zhadanleyuan_06
+  rotate: false
+  xy: 1, 94
+  size: 97, 30
+  orig: 106, 30
+  offset: 9, 0
+  index: -1
+zhadanleyuan_07
+  rotate: false
+  xy: 1, 32
+  size: 72, 30
+  orig: 106, 30
+  offset: 34, 0
+  index: -1
+zhadanleyuan_08
+  rotate: true
+  xy: 74, 14
+  size: 48, 30
+  orig: 106, 30
+  offset: 58, 0
+  index: -1

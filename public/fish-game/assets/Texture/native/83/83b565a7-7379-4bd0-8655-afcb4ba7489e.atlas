@@ -1,0 +1,13 @@
+
+xscz_k.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk_000
+  rotate: false
+  xy: 1, 1
+  size: 114, 115
+  orig: 150, 150
+  offset: 19, 15
+  index: -1

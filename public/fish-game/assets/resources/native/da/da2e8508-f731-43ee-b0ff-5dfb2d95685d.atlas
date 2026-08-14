@@ -1,0 +1,41 @@
+
+fish100.png
+size: 91,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/黄金龟/2
+  rotate: true
+  xy: 0, 75
+  size: 75, 89
+  orig: 75, 89
+  offset: 0, 0
+  index: -1
+H5Newfishes/黄金龟/3
+  rotate: false
+  xy: 0, 10
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+H5Newfishes/黄金龟/4
+  rotate: true
+  xy: 45, 22
+  size: 53, 46
+  orig: 53, 46
+  offset: 0, 0
+  index: -1
+H5Newfishes/黄金龟/5
+  rotate: true
+  xy: 45, 2
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+H5Newfishes/黄金龟/6
+  rotate: true
+  xy: 0, 0
+  size: 10, 35
+  orig: 10, 35
+  offset: 0, 0
+  index: -1

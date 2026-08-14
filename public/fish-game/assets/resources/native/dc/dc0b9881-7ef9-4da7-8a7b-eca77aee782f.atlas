@@ -1,0 +1,118 @@
+
+yulei_zidan5.png
+size: 500,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+钻石鱼雷发射/daodan_00000
+  rotate: false
+  xy: 199, 166
+  size: 183, 77
+  orig: 203, 83
+  offset: 5, 3
+  index: -1
+钻石鱼雷发射/daodan_00001
+  rotate: false
+  xy: 200, 244
+  size: 196, 76
+  orig: 203, 83
+  offset: 5, 2
+  index: -1
+钻石鱼雷发射/daodan_00003
+  rotate: false
+  xy: 1, 167
+  size: 197, 76
+  orig: 203, 83
+  offset: 4, 2
+  index: -1
+钻石鱼雷发射/daodan_00004
+  rotate: false
+  xy: 1, 244
+  size: 198, 76
+  orig: 203, 83
+  offset: 3, 2
+  index: -1
+钻石鱼雷发射/zuanshiyulei
+  rotate: true
+  xy: 1, 65
+  size: 101, 168
+  orig: 105, 168
+  offset: 0, 0
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00000
+  rotate: false
+  xy: 231, 1
+  size: 59, 102
+  orig: 105, 168
+  offset: 23, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00001
+  rotate: true
+  xy: 170, 104
+  size: 61, 102
+  orig: 105, 168
+  offset: 22, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00002
+  rotate: false
+  xy: 170, 1
+  size: 60, 102
+  orig: 105, 168
+  offset: 22, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00003
+  rotate: true
+  xy: 273, 104
+  size: 61, 102
+  orig: 105, 168
+  offset: 21, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00004
+  rotate: false
+  xy: 291, 1
+  size: 59, 102
+  orig: 105, 168
+  offset: 23, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00005
+  rotate: false
+  xy: 351, 1
+  size: 59, 102
+  orig: 105, 168
+  offset: 23, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00006
+  rotate: true
+  xy: 397, 198
+  size: 59, 102
+  orig: 105, 168
+  offset: 23, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00007
+  rotate: true
+  xy: 383, 138
+  size: 59, 102
+  orig: 105, 168
+  offset: 23, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00008
+  rotate: false
+  xy: 411, 35
+  size: 59, 102
+  orig: 105, 168
+  offset: 23, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00009
+  rotate: true
+  xy: 397, 258
+  size: 62, 102
+  orig: 105, 168
+  offset: 21, 33
+  index: -1
+钻石鱼雷发射/zuanshiyulei_00010
+  rotate: true
+  xy: 1, 1
+  size: 63, 102
+  orig: 105, 168
+  offset: 21, 33
+  index: -1

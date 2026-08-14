@@ -1,0 +1,62 @@
+
+icon_new.png
+size: 172,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/icon_new/new
+  rotate: false
+  xy: 0, 43
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+UI/icon_new/new_000
+  rotate: true
+  xy: 121, 28
+  size: 10, 34
+  orig: 80, 60
+  offset: 3, 13
+  index: -1
+UI/icon_new/new_001
+  rotate: true
+  xy: 54, 0
+  size: 23, 44
+  orig: 80, 60
+  offset: 3, 13
+  index: -1
+UI/icon_new/new_002
+  rotate: true
+  xy: 74, 60
+  size: 36, 54
+  orig: 80, 60
+  offset: 4, 3
+  index: -1
+UI/icon_new/new_003
+  rotate: true
+  xy: 0, 6
+  size: 37, 54
+  orig: 80, 60
+  offset: 15, 3
+  index: -1
+UI/icon_new/new_004
+  rotate: true
+  xy: 74, 23
+  size: 37, 47
+  orig: 80, 60
+  offset: 28, 10
+  index: -1
+UI/icon_new/new_005
+  rotate: true
+  xy: 128, 62
+  size: 34, 44
+  orig: 80, 60
+  offset: 41, 13
+  index: -1
+UI/icon_new/new_006
+  rotate: true
+  xy: 128, 38
+  size: 24, 44
+  orig: 80, 60
+  offset: 54, 13
+  index: -1

@@ -1,0 +1,167 @@
+
+paotaishengji_xiaoguo.png
+size: 1273,1273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotaishengji/fx_00000
+  rotate: false
+  xy: 1130, 72
+  size: 112, 111
+  orig: 128, 128
+  offset: 8, 7
+  index: -1
+paotaishengji/xingxing_00000
+  rotate: true
+  xy: 762, 36
+  size: 35, 47
+  orig: 600, 600
+  offset: 283, 273
+  index: -1
+paotaishengji/xingxing_00001
+  rotate: true
+  xy: 962, 45
+  size: 73, 82
+  orig: 600, 600
+  offset: 267, 247
+  index: -1
+paotaishengji/xingxing_00002
+  rotate: false
+  xy: 1130, 190
+  size: 97, 113
+  orig: 600, 600
+  offset: 251, 232
+  index: -1
+paotaishengji/xingxing_00003
+  rotate: false
+  xy: 1127, 959
+  size: 129, 145
+  orig: 600, 600
+  offset: 235, 216
+  index: -1
+paotaishengji/xingxing_00004
+  rotate: false
+  xy: 1127, 1111
+  size: 145, 162
+  orig: 600, 600
+  offset: 219, 215
+  index: -1
+paotaishengji/xingxing_00005
+  rotate: false
+  xy: 962, 125
+  size: 161, 178
+  orig: 600, 600
+  offset: 219, 199
+  index: -1
+paotaishengji/xingxing_00006
+  rotate: false
+  xy: 762, 78
+  size: 193, 201
+  orig: 600, 600
+  offset: 203, 192
+  index: -1
+paotaishengji/xingxing_00007
+  rotate: false
+  xy: 265, 23
+  size: 225, 225
+  orig: 600, 600
+  offset: 187, 168
+  index: -1
+paotaishengji/xingxing_00008
+  rotate: true
+  xy: 497, 29
+  size: 225, 258
+  orig: 600, 600
+  offset: 187, 151
+  index: -1
+paotaishengji/xingxing_00009
+  rotate: true
+  xy: 0, 16
+  size: 232, 258
+  orig: 600, 600
+  offset: 180, 151
+  index: -1
+paotaishengji/xingxing_00010
+  rotate: false
+  xy: 962, 310
+  size: 249, 290
+  orig: 600, 600
+  offset: 171, 135
+  index: -1
+paotaishengji/xingxing_00011
+  rotate: false
+  xy: 1000, 648
+  size: 273, 297
+  orig: 600, 600
+  offset: 155, 135
+  index: -1
+paotaishengji/xingxing_00012
+  rotate: false
+  xy: 376, 606
+  size: 289, 322
+  orig: 600, 600
+  offset: 139, 119
+  index: -1
+paotaishengji/xingxing_00013
+  rotate: false
+  xy: 661, 286
+  size: 294, 313
+  orig: 600, 600
+  offset: 134, 144
+  index: -1
+paotaishengji/xingxing_00014
+  rotate: false
+  xy: 672, 607
+  size: 321, 337
+  orig: 600, 600
+  offset: 123, 136
+  index: -1
+paotaishengji/xingxing_00015
+  rotate: false
+  xy: 0, 255
+  size: 337, 344
+  orig: 600, 600
+  offset: 107, 136
+  index: -1
+paotaishengji/xingxing_00016
+  rotate: false
+  xy: 392, 951
+  size: 367, 322
+  orig: 600, 600
+  offset: 93, 167
+  index: -1
+paotaishengji/xingxing_00017
+  rotate: false
+  xy: 0, 606
+  size: 369, 322
+  orig: 600, 600
+  offset: 91, 183
+  index: -1
+paotaishengji/xingxing_00018
+  rotate: false
+  xy: 0, 935
+  size: 385, 338
+  orig: 600, 600
+  offset: 75, 183
+  index: -1
+paotaishengji/xingxing_00019
+  rotate: false
+  xy: 344, 261
+  size: 310, 338
+  orig: 600, 600
+  offset: 70, 183
+  index: -1
+paotaishengji/xingxing_00020
+  rotate: true
+  xy: 766, 952
+  size: 321, 354
+  orig: 600, 600
+  offset: 59, 183
+  index: -1
+paotaishengji/xingxing_00021
+  rotate: false
+  xy: 1000, 608
+  size: 145, 33
+  orig: 600, 600
+  offset: 235, 504
+  index: -1

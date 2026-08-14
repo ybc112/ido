@@ -1,0 +1,34 @@
+
+hjybaozha_guangquan.png
+size: 964,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buyu_inside/baojin/baojin/glow
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Buyu_inside/baojin/glow12
+  rotate: false
+  xy: 258, 4
+  size: 254, 253
+  orig: 400, 400
+  offset: 70, 75
+  index: -1
+Buyu_inside/baojin/glow_000
+  rotate: false
+  xy: 735, 29
+  size: 228, 228
+  orig: 256, 256
+  offset: 14, 14
+  index: -1
+Buyu_inside/baojin/shanguang_000
+  rotate: false
+  xy: 513, 16
+  size: 221, 241
+  orig: 256, 256
+  offset: 18, 9
+  index: -1

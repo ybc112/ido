@@ -1,0 +1,41 @@
+
+yuwang_cat.png
+size: 833,210
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao/CatCannon/CannonBlast1
+  rotate: true
+  xy: 1, 1
+  size: 208, 205
+  orig: 208, 205
+  offset: 0, 0
+  index: -1
+pao/CatCannon/CannonBlast2
+  rotate: false
+  xy: 207, 5
+  size: 198, 204
+  orig: 208, 205
+  offset: 5, 1
+  index: -1
+pao/CatCannon/CannonBlast3
+  rotate: true
+  xy: 406, 13
+  size: 196, 183
+  orig: 208, 205
+  offset: 5, 11
+  index: -1
+pao/CatCannon/CannonBlast4
+  rotate: true
+  xy: 590, 27
+  size: 182, 138
+  orig: 208, 205
+  offset: 13, 33
+  index: -1
+pao/CatCannon/CannonBlast5
+  rotate: false
+  xy: 729, 113
+  size: 103, 96
+  orig: 208, 205
+  offset: 52, 54
+  index: -1

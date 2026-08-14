@@ -1,0 +1,76 @@
+
+wangluoyanchi.png
+size: 486,486
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI2/网络延迟/wangluoyanchi
+  rotate: false
+  xy: 2, 283
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+UI2/网络延迟/wangluoyanchi_00000
+  rotate: false
+  xy: 205, 342
+  size: 141, 142
+  orig: 220, 220
+  offset: 79, 78
+  index: -1
+UI2/网络延迟/wangluoyanchi_00001
+  rotate: true
+  xy: 2, 2
+  size: 79, 178
+  orig: 220, 220
+  offset: 141, 39
+  index: -1
+UI2/网络延迟/wangluoyanchi_00002
+  rotate: false
+  xy: 327, 179
+  size: 108, 155
+  orig: 220, 220
+  offset: 112, 0
+  index: -1
+UI2/网络延迟/wangluoyanchi_00003
+  rotate: true
+  xy: 306, 9
+  size: 168, 96
+  orig: 220, 220
+  offset: 49, 0
+  index: -1
+UI2/网络延迟/wangluoyanchi_00004
+  rotate: true
+  xy: 202, 15
+  size: 168, 102
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+UI2/网络延迟/wangluoyanchi_00005
+  rotate: false
+  xy: 205, 185
+  size: 120, 155
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+UI2/网络延迟/wangluoyanchi_00006
+  rotate: false
+  xy: 2, 83
+  size: 106, 198
+  orig: 220, 220
+  offset: 0, 22
+  index: -1
+UI2/网络延迟/wangluoyanchi_00007
+  rotate: true
+  xy: 348, 336
+  size: 148, 125
+  orig: 220, 220
+  offset: 0, 95
+  index: -1
+UI2/网络延迟/wangluoyanchi_00008
+  rotate: true
+  xy: 110, 97
+  size: 184, 90
+  orig: 220, 220
+  offset: 24, 130
+  index: -1

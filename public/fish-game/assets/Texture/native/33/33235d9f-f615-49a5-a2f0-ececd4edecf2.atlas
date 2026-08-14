@@ -1,0 +1,83 @@
+
+xingyunzhuanpan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingyunchoujiang/choujiang_0
+  rotate: true
+  xy: 1, 14
+  size: 51, 70
+  orig: 95, 95
+  offset: 3, 23
+  index: -1
+xingyunchoujiang/choujiang_1
+  rotate: true
+  xy: 533, 7
+  size: 72, 86
+  orig: 95, 95
+  offset: 3, 8
+  index: -1
+xingyunchoujiang/choujiang_2
+  rotate: true
+  xy: 871, 54
+  size: 86, 91
+  orig: 95, 95
+  offset: 3, 3
+  index: -1
+xingyunchoujiang/choujiang_3
+  rotate: false
+  xy: 871, 232
+  size: 90, 91
+  orig: 95, 95
+  offset: 3, 3
+  index: -1
+xingyunchoujiang/choujiang_4
+  rotate: false
+  xy: 871, 416
+  size: 91, 91
+  orig: 95, 95
+  offset: 3, 3
+  index: -1
+xingyunchoujiang/choujiang_5
+  rotate: false
+  xy: 871, 324
+  size: 91, 91
+  orig: 95, 95
+  offset: 3, 3
+  index: -1
+xingyunchoujiang/choujiang_6
+  rotate: false
+  xy: 871, 141
+  size: 90, 90
+  orig: 95, 95
+  offset: 4, 3
+  index: -1
+xingyunchoujiang/choujiang_7
+  rotate: true
+  xy: 444, 1
+  size: 78, 88
+  orig: 95, 95
+  offset: 16, 3
+  index: -1
+xingyunchoujiang/choujiang_8
+  rotate: false
+  xy: 963, 427
+  size: 59, 80
+  orig: 95, 95
+  offset: 35, 3
+  index: -1
+xingyunchoujiang/zhuanpan_deng1
+  rotate: false
+  xy: 1, 66
+  size: 442, 441
+  orig: 442, 441
+  offset: 0, 0
+  index: -1
+xingyunchoujiang/zhuanpan_deng2
+  rotate: false
+  xy: 444, 80
+  size: 426, 427
+  orig: 442, 441
+  offset: 8, 7
+  index: -1

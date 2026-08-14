@@ -1,0 +1,27 @@
+
+yuwang_shuangpao.png
+size: 505,218
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+new_paotai/shuangpao/baiwang
+  rotate: true
+  xy: 213, 41
+  size: 176, 175
+  orig: 176, 175
+  offset: 0, 0
+  index: -1
+new_paotai/shuangpao/wangdi
+  rotate: true
+  xy: 1, 1
+  size: 216, 211
+  orig: 216, 211
+  offset: 0, 0
+  index: -1
+new_paotai/shuangpao/zidanguang
+  rotate: false
+  xy: 389, 82
+  size: 115, 135
+  orig: 117, 139
+  offset: 1, 2
+  index: -1

@@ -1,0 +1,153 @@
+
+dt_paotai.png
+size: 256,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bolizhao
+  rotate: false
+  xy: 180, 148
+  size: 64, 32
+  orig: 66, 34
+  offset: 1, 1
+  index: -1
+cao
+  rotate: true
+  xy: 110, 65
+  size: 70, 44
+  orig: 72, 46
+  offset: 1, 1
+  index: -1
+di1
+  rotate: false
+  xy: 155, 68
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 180, 181
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+di3
+  rotate: true
+  xy: 110, 136
+  size: 89, 37
+  orig: 89, 37
+  offset: 0, 0
+  index: -1
+di4
+  rotate: true
+  xy: 110, 298
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+dipan
+  rotate: true
+  xy: 1, 63
+  size: 289, 108
+  orig: 291, 110
+  offset: 1, 1
+  index: -1
+dipan1
+  rotate: true
+  xy: 148, 140
+  size: 76, 31
+  orig: 76, 31
+  offset: 0, 0
+  index: -1
+lanhuo
+  rotate: false
+  xy: 78, 2
+  size: 88, 60
+  orig: 90, 62
+  offset: 1, 1
+  index: -1
+luosikou_li
+  rotate: false
+  xy: 167, 42
+  size: 27, 25
+  orig: 29, 27
+  offset: 1, 1
+  index: -1
+luosikou_wai
+  rotate: true
+  xy: 155, 113
+  size: 26, 24
+  orig: 28, 26
+  offset: 1, 1
+  index: -1
+luosikou_wai2
+  rotate: false
+  xy: 200, 47
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+mushou2
+  rotate: true
+  xy: 180, 122
+  size: 25, 55
+  orig: 27, 57
+  offset: 1, 1
+  index: -1
+shoubing_shang
+  rotate: false
+  xy: 1, 353
+  size: 147, 68
+  orig: 149, 70
+  offset: 1, 1
+  index: -1
+yancong_di
+  rotate: false
+  xy: 167, 7
+  size: 34, 34
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+yancong_guang1
+  rotate: false
+  xy: 1, 1
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+yancong_shensuo1
+  rotate: true
+  xy: 236, 127
+  size: 20, 11
+  orig: 22, 13
+  offset: 1, 1
+  index: -1
+yancong_shensuo2
+  rotate: false
+  xy: 200, 84
+  size: 43, 37
+  orig: 45, 39
+  offset: 1, 1
+  index: -1
+yeti
+  rotate: true
+  xy: 110, 226
+  size: 71, 40
+  orig: 73, 42
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: true
+  xy: 153, 217
+  size: 304, 102
+  orig: 306, 104
+  offset: 1, 1
+  index: -1
+zhongjianquan
+  rotate: false
+  xy: 1, 422
+  size: 151, 99
+  orig: 153, 101
+  offset: 1, 1
+  index: -1

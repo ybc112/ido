@@ -1,0 +1,48 @@
+
+wuzhuangjusha.png
+size: 540,567
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xuanchang_UITX/longwang/langhua
+  rotate: true
+  xy: 0, 167
+  size: 400, 102
+  orig: 400, 102
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/wuzhuangjusha/lizi_00001
+  rotate: false
+  xy: 456, 465
+  size: 84, 102
+  orig: 102, 102
+  offset: 9, 0
+  index: -1
+Xuanchang_UITX/wuzhuangjusha/shark
+  rotate: true
+  xy: 102, 261
+  size: 306, 354
+  orig: 306, 354
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/wuzhuangjusha/shark2
+  rotate: true
+  xy: 0, 10
+  size: 157, 165
+  orig: 157, 165
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/wuzhuangjusha/xuanchang_4
+  rotate: false
+  xy: 165, 0
+  size: 327, 261
+  orig: 327, 261
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/wuzhuangjusha/zd
+  rotate: false
+  xy: 456, 387
+  size: 67, 78
+  orig: 67, 78
+  offset: 0, 0
+  index: -1

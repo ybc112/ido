@@ -1,0 +1,55 @@
+
+Xiejiang_ui.png
+size: 1338,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/Xiejiang/1
+  rotate: true
+  xy: 456, 21
+  size: 313, 197
+  orig: 313, 197
+  offset: 0, 0
+  index: -1
+UI/Xiejiang/2
+  rotate: true
+  xy: 828, 6
+  size: 328, 174
+  orig: 328, 174
+  offset: 0, 0
+  index: -1
+UI/Xiejiang/3
+  rotate: true
+  xy: 1003, 4
+  size: 330, 169
+  orig: 330, 169
+  offset: 0, 0
+  index: -1
+UI/Xiejiang/4
+  rotate: true
+  xy: 1173, 1
+  size: 333, 164
+  orig: 333, 164
+  offset: 0, 0
+  index: -1
+UI/Xiejiang/5
+  rotate: true
+  xy: 654, 1
+  size: 333, 173
+  orig: 333, 173
+  offset: 0, 0
+  index: -1
+UI/Xiejiang/6
+  rotate: true
+  xy: 249, 11
+  size: 323, 206
+  orig: 323, 206
+  offset: 0, 0
+  index: -1
+UI/Xiejiang/7
+  rotate: true
+  xy: 1, 43
+  size: 291, 247
+  orig: 291, 247
+  offset: 0, 0
+  index: -1

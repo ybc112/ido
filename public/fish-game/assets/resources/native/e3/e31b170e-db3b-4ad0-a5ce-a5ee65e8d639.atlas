@@ -1,0 +1,13 @@
+
+jifen_xingxing.png
+size: 23,26
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/乐园积分/glow
+  rotate: false
+  xy: 0, 0
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1

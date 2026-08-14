@@ -1,0 +1,20 @@
+
+yuwang.png
+size: 178,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wang
+  rotate: false
+  xy: 1, 1
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+wangxiao
+  rotate: false
+  xy: 115, 42
+  size: 62, 72
+  orig: 62, 74
+  offset: 0, 1
+  index: -1

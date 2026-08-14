@@ -1,0 +1,62 @@
+
+paotai_haibao.png
+size: 392,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pao1
+  rotate: true
+  xy: 1, 10
+  size: 120, 166
+  orig: 120, 166
+  offset: 0, 0
+  index: -1
+pao2
+  rotate: true
+  xy: 255, 10
+  size: 42, 73
+  orig: 42, 73
+  offset: 0, 0
+  index: -1
+paohuokou
+  rotate: true
+  xy: 168, 1
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 357, 58
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: true
+  xy: 357, 82
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 279, 53
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 329, 8
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+yongquan
+  rotate: false
+  xy: 168, 76
+  size: 110, 54
+  orig: 110, 54
+  offset: 0, 0
+  index: -1

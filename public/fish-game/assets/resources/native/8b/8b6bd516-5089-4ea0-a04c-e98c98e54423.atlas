@@ -1,0 +1,27 @@
+
+bosslaixi_di.png
+size: 1403,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/dk_boss
+  rotate: true
+  xy: 1282, 113
+  size: 504, 120
+  orig: 504, 120
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/dk_bosslaixi
+  rotate: false
+  xy: 1, 279
+  size: 1280, 338
+  orig: 1280, 338
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/guangdian
+  rotate: false
+  xy: 1, 1
+  size: 1107, 277
+  orig: 1107, 277
+  offset: 0, 0
+  index: -1

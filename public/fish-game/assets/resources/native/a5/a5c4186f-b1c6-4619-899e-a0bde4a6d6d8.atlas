@@ -1,0 +1,13 @@
+
+zidan7.png
+size: 45,45
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+渔网修改/子弹/zidan7/Resources/zidan7
+  rotate: false
+  xy: 1, 1
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

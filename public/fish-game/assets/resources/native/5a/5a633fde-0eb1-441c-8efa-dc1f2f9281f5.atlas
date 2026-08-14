@@ -1,0 +1,20 @@
+
+yuchaolx.png
+size: 1591,259
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic/dk
+  rotate: false
+  xy: 1, 32
+  size: 1048, 226
+  orig: 1048, 226
+  offset: 0, 0
+  index: -1
+pic/yuchaolaixi2
+  rotate: false
+  xy: 1050, 1
+  size: 540, 257
+  orig: 540, 257
+  offset: 0, 0
+  index: -1

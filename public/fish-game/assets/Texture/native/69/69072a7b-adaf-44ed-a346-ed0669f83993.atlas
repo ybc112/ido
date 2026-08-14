@@ -1,0 +1,48 @@
+
+nanhai_chuan.png
+size: 509,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/船/1
+  rotate: true
+  xy: 415, 145
+  size: 98, 78
+  orig: 98, 78
+  offset: 0, 0
+  index: -1
+4/船/2
+  rotate: false
+  xy: 415, 330
+  size: 94, 83
+  orig: 94, 83
+  offset: 0, 0
+  index: -1
+4/船/3
+  rotate: false
+  xy: 415, 243
+  size: 90, 87
+  orig: 90, 87
+  offset: 0, 0
+  index: -1
+4/船/chuan1
+  rotate: false
+  xy: 0, 0
+  size: 415, 413
+  orig: 415, 413
+  offset: 0, 0
+  index: -1
+4/船/lang
+  rotate: false
+  xy: 415, 4
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+4/船/lang2
+  rotate: false
+  xy: 415, 62
+  size: 66, 83
+  orig: 66, 83
+  offset: 0, 0
+  index: -1

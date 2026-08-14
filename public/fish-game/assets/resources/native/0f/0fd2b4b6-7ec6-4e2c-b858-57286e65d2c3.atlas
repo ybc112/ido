@@ -1,0 +1,69 @@
+
+zhaohuan.png
+size: 1672,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhaohuan/ZH_00000
+  rotate: false
+  xy: 1014, 25
+  size: 187, 189
+  orig: 240, 240
+  offset: 27, 32
+  index: -1
+zhaohuan/ZH_00002
+  rotate: false
+  xy: 814, 14
+  size: 200, 200
+  orig: 240, 240
+  offset: 18, 24
+  index: -1
+zhaohuan/ZH_00004
+  rotate: false
+  xy: 612, 11
+  size: 202, 203
+  orig: 240, 240
+  offset: 18, 23
+  index: -1
+zhaohuan/ZH_00006
+  rotate: true
+  xy: 409, 8
+  size: 206, 203
+  orig: 240, 240
+  offset: 17, 21
+  index: -1
+zhaohuan/ZH_00008
+  rotate: true
+  xy: 0, 0
+  size: 214, 204
+  orig: 240, 240
+  offset: 13, 19
+  index: -1
+zhaohuan/ZH_00010
+  rotate: true
+  xy: 204, 4
+  size: 210, 205
+  orig: 240, 240
+  offset: 13, 19
+  index: -1
+zhaohuan/ZH_00012
+  rotate: true
+  xy: 1513, 45
+  size: 169, 159
+  orig: 240, 240
+  offset: 36, 34
+  index: -1
+zhaohuan/ZH_00014
+  rotate: true
+  xy: 1357, 40
+  size: 174, 156
+  orig: 240, 240
+  offset: 36, 32
+  index: -1
+zhaohuan/ZH_00016
+  rotate: true
+  xy: 1201, 20
+  size: 194, 156
+  orig: 240, 240
+  offset: 28, 24
+  index: -1

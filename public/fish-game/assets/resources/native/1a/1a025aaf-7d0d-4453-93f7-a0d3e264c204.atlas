@@ -1,0 +1,118 @@
+
+paotai_doujizhanshen.png
+size: 1905,454
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: true
+  xy: 192, 195
+  size: 258, 189
+  orig: 310, 230
+  offset: 28, 19
+  index: -1
+0002
+  rotate: true
+  xy: 1, 195
+  size: 258, 190
+  orig: 310, 230
+  offset: 28, 19
+  index: -1
+0003
+  rotate: true
+  xy: 572, 196
+  size: 257, 192
+  orig: 310, 230
+  offset: 28, 18
+  index: -1
+0004
+  rotate: false
+  xy: 760, 3
+  size: 256, 192
+  orig: 310, 230
+  offset: 29, 18
+  index: -1
+0005
+  rotate: false
+  xy: 1, 1
+  size: 254, 193
+  orig: 310, 230
+  offset: 30, 18
+  index: -1
+0006
+  rotate: false
+  xy: 511, 1
+  size: 248, 193
+  orig: 310, 230
+  offset: 33, 18
+  index: -1
+0007
+  rotate: false
+  xy: 256, 1
+  size: 254, 193
+  orig: 310, 230
+  offset: 30, 18
+  index: -1
+0008
+  rotate: false
+  xy: 1017, 3
+  size: 256, 192
+  orig: 310, 230
+  offset: 29, 18
+  index: -1
+0009
+  rotate: true
+  xy: 765, 196
+  size: 257, 191
+  orig: 310, 230
+  offset: 28, 19
+  index: -1
+0010
+  rotate: true
+  xy: 957, 196
+  size: 257, 190
+  orig: 310, 230
+  offset: 28, 19
+  index: -1
+0011
+  rotate: true
+  xy: 382, 195
+  size: 258, 189
+  orig: 310, 230
+  offset: 28, 19
+  index: -1
+10000
+  rotate: true
+  xy: 1659, 197
+  size: 256, 245
+  orig: 350, 350
+  offset: 47, 53
+  index: -1
+10001
+  rotate: false
+  xy: 1148, 197
+  size: 256, 256
+  orig: 350, 350
+  offset: 47, 51
+  index: -1
+10002
+  rotate: true
+  xy: 1405, 197
+  size: 256, 253
+  orig: 350, 350
+  offset: 47, 49
+  index: -1
+10003
+  rotate: false
+  xy: 1274, 11
+  size: 256, 185
+  orig: 350, 350
+  offset: 47, 43
+  index: -1
+10004
+  rotate: false
+  xy: 1531, 11
+  size: 256, 185
+  orig: 350, 350
+  offset: 47, 53
+  index: -1

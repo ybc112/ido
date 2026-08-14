@@ -1,0 +1,76 @@
+
+jiaobiao_huodongzhong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiaobiao/huodongzhong
+  rotate: true
+  xy: 456, 1
+  size: 123, 89
+  orig: 123, 89
+  offset: 0, 0
+  index: -1
+jiaobiao/jiaobiaosg_000
+  rotate: false
+  xy: 727, 53
+  size: 67, 71
+  orig: 125, 90
+  offset: 1, 19
+  index: -1
+jiaobiao/jiaobiaosg_001
+  rotate: true
+  xy: 636, 19
+  size: 105, 90
+  orig: 125, 90
+  offset: 1, 0
+  index: -1
+jiaobiao/jiaobiaosg_002
+  rotate: true
+  xy: 1, 1
+  size: 123, 90
+  orig: 125, 90
+  offset: 1, 0
+  index: -1
+jiaobiao/jiaobiaosg_003
+  rotate: true
+  xy: 92, 1
+  size: 123, 90
+  orig: 125, 90
+  offset: 1, 0
+  index: -1
+jiaobiao/jiaobiaosg_004
+  rotate: true
+  xy: 183, 1
+  size: 123, 90
+  orig: 125, 90
+  offset: 1, 0
+  index: -1
+jiaobiao/jiaobiaosg_005
+  rotate: true
+  xy: 274, 1
+  size: 123, 90
+  orig: 125, 90
+  offset: 1, 0
+  index: -1
+jiaobiao/jiaobiaosg_006
+  rotate: true
+  xy: 365, 1
+  size: 123, 90
+  orig: 125, 90
+  offset: 1, 0
+  index: -1
+jiaobiao/jiaobiaosg_007
+  rotate: true
+  xy: 546, 15
+  size: 109, 89
+  orig: 125, 90
+  offset: 15, 1
+  index: -1
+jiaobiao/jiaobiaosg_008
+  rotate: false
+  xy: 795, 47
+  size: 61, 77
+  orig: 125, 90
+  offset: 63, 10
+  index: -1

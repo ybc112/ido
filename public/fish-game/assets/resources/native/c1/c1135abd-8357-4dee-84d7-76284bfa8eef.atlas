@@ -1,0 +1,76 @@
+
+zidongkaipao.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zidongkaipao/zdkp_00000
+  rotate: false
+  xy: 790, 8
+  size: 108, 97
+  orig: 150, 150
+  offset: 24, 20
+  index: -1
+zidongkaipao/zdkp_00001
+  rotate: false
+  xy: 0, 0
+  size: 106, 105
+  orig: 150, 150
+  offset: 26, 21
+  index: -1
+zidongkaipao/zdkp_00002
+  rotate: true
+  xy: 677, 5
+  size: 100, 106
+  orig: 150, 150
+  offset: 33, 21
+  index: -1
+zidongkaipao/zdkp_00003
+  rotate: true
+  xy: 113, 0
+  size: 105, 106
+  orig: 150, 150
+  offset: 27, 22
+  index: -1
+zidongkaipao/zdkp_00004
+  rotate: false
+  xy: 564, 3
+  size: 106, 102
+  orig: 150, 150
+  offset: 26, 25
+  index: -1
+zidongkaipao/zdkp_00005
+  rotate: false
+  xy: 451, 2
+  size: 106, 103
+  orig: 150, 150
+  offset: 25, 24
+  index: -1
+zidongkaipao/zdkp_00006
+  rotate: false
+  xy: 226, 0
+  size: 105, 105
+  orig: 150, 150
+  offset: 24, 22
+  index: -1
+zidongkaipao/zdkp_00007
+  rotate: true
+  xy: 1019, 4
+  size: 101, 105
+  orig: 150, 150
+  offset: 24, 21
+  index: -1
+zidongkaipao/zdkp_00008
+  rotate: false
+  xy: 338, 1
+  size: 106, 104
+  orig: 150, 150
+  offset: 25, 21
+  index: -1
+zidongkaipao/zdkp_00009
+  rotate: false
+  xy: 905, 8
+  size: 107, 97
+  orig: 150, 150
+  offset: 25, 20
+  index: -1

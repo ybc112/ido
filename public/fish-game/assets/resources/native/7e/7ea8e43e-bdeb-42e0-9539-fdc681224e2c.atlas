@@ -1,0 +1,62 @@
+
+yuwang_haidao.png
+size: 967,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+PirateCannon/haidaopaotaiwang1
+  rotate: false
+  xy: 865, 37
+  size: 101, 95
+  orig: 125, 139
+  offset: 12, 22
+  index: -1
+PirateCannon/haidaopaotaiwang2
+  rotate: true
+  xy: 757, 7
+  size: 125, 107
+  orig: 125, 139
+  offset: 0, 16
+  index: -1
+PirateCannon/haidaopaotaiwang3
+  rotate: false
+  xy: 253, 5
+  size: 125, 127
+  orig: 125, 139
+  offset: 0, 6
+  index: -1
+PirateCannon/haidaopaotaiwang5
+  rotate: false
+  xy: 127, 3
+  size: 125, 129
+  orig: 125, 139
+  offset: 0, 5
+  index: -1
+PirateCannon/haidaopaotaiwang6
+  rotate: false
+  xy: 379, 5
+  size: 125, 127
+  orig: 125, 139
+  offset: 0, 6
+  index: -1
+PirateCannon/haidaopaotaiwang7
+  rotate: false
+  xy: 505, 5
+  size: 125, 127
+  orig: 125, 139
+  offset: 0, 6
+  index: -1
+PirateCannon/haidaopaotaiwang8
+  rotate: false
+  xy: 631, 5
+  size: 125, 127
+  orig: 125, 139
+  offset: 0, 6
+  index: -1
+PirateCannon/haidaopaotaiwang9
+  rotate: false
+  xy: 1, 1
+  size: 125, 131
+  orig: 125, 139
+  offset: 0, 4
+  index: -1

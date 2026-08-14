@@ -1,0 +1,69 @@
+
+jingubang.png
+size: 1835,1025
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Buyu_inside/dinghaishenzhen/E_fuwen16
+  rotate: false
+  xy: 545, 8
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Buyu_inside/dinghaishenzhen/dilie1
+  rotate: false
+  xy: 1329, 514
+  size: 505, 510
+  orig: 512, 512
+  offset: 3, 2
+  index: -1
+Buyu_inside/dinghaishenzhen/glow302
+  rotate: true
+  xy: 827, 433
+  size: 591, 501
+  orig: 640, 550
+  offset: 22, 24
+  index: -1
+Buyu_inside/dinghaishenzhen/glow305
+  rotate: true
+  xy: 1329, 1
+  size: 512, 486
+  orig: 512, 512
+  offset: 0, 13
+  index: -1
+Buyu_inside/dinghaishenzhen/glow_000
+  rotate: false
+  xy: 802, 36
+  size: 228, 228
+  orig: 256, 256
+  offset: 14, 14
+  index: -1
+Buyu_inside/dinghaishenzhen/glow_00165
+  rotate: true
+  xy: 1, 49
+  size: 126, 125
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+Buyu_inside/dinghaishenzhen/glowlong
+  rotate: true
+  xy: 298, 7
+  size: 257, 246
+  orig: 257, 246
+  offset: 0, 0
+  index: -1
+Buyu_inside/dinghaishenzhen/guang
+  rotate: false
+  xy: 298, 265
+  size: 528, 759
+  orig: 528, 759
+  offset: 0, 0
+  index: -1
+Buyu_inside/dinghaishenzhen/jingub
+  rotate: false
+  xy: 1, 176
+  size: 296, 848
+  orig: 296, 848
+  offset: 0, 0
+  index: -1

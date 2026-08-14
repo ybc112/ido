@@ -1,0 +1,20 @@
+
+jbpzhuanpan_glow.png
+size: 764,402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow004
+  rotate: false
+  xy: 1, 1
+  size: 400, 400
+  orig: 480, 480
+  offset: 40, 40
+  index: -1
+glow307
+  rotate: false
+  xy: 402, 40
+  size: 361, 361
+  orig: 512, 512
+  offset: 75, 76
+  index: -1

@@ -1,0 +1,27 @@
+
+sc_tuijianguang.png
+size: 306,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shangcheng_tuijian_g/dk7
+  rotate: true
+  xy: 206, 13
+  size: 94, 100
+  orig: 94, 100
+  offset: 0, 0
+  index: -1
+shangcheng_tuijian_g/guang
+  rotate: true
+  xy: 0, 0
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+shangcheng_tuijian_g/guang2
+  rotate: true
+  xy: 103, 0
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1

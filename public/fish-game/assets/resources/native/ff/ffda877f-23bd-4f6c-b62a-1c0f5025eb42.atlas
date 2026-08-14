@@ -1,0 +1,83 @@
+
+fish_shaizi.png
+size: 680,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/2020.4.27-骰子鱼/掷骰子序列帧/1
+  rotate: false
+  xy: 2, 274
+  size: 134, 404
+  orig: 134, 404
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/掷骰子序列帧/2
+  rotate: false
+  xy: 138, 274
+  size: 134, 404
+  orig: 134, 404
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/掷骰子序列帧/3
+  rotate: false
+  xy: 274, 274
+  size: 134, 404
+  orig: 134, 404
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/掷骰子序列帧/4
+  rotate: true
+  xy: 2, 138
+  size: 134, 404
+  orig: 134, 404
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/掷骰子序列帧/5
+  rotate: false
+  xy: 410, 274
+  size: 134, 404
+  orig: 134, 404
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/掷骰子序列帧/6
+  rotate: true
+  xy: 2, 2
+  size: 134, 404
+  orig: 134, 404
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/骰子/1
+  rotate: false
+  xy: 408, 159
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/骰子/3
+  rotate: false
+  xy: 546, 565
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/骰子/4
+  rotate: false
+  xy: 408, 44
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/骰子/5
+  rotate: false
+  xy: 546, 450
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+H5Newfishes/2020.4.27-骰子鱼/骰子/6
+  rotate: false
+  xy: 546, 335
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1

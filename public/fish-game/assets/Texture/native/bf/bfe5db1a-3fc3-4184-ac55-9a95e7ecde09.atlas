@@ -1,0 +1,27 @@
+
+longgong_icon.png
+size: 272,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/longgonglibao/icon_longgonglibao
+  rotate: false
+  xy: 181, 103
+  size: 90, 87
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+UI/longgonglibao/icon_tulongyongshi
+  rotate: false
+  xy: 181, 16
+  size: 90, 86
+  orig: 90, 90
+  offset: 0, 1
+  index: -1
+UI/longgonglibao/qipao
+  rotate: true
+  xy: 1, 1
+  size: 189, 179
+  orig: 189, 179
+  offset: 0, 0
+  index: -1

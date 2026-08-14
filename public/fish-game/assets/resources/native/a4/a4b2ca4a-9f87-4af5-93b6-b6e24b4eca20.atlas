@@ -1,0 +1,48 @@
+
+fish17.png
+size: 321,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi
+  rotate: false
+  xy: 270, 189
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 270, 59
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+meimao1
+  rotate: false
+  xy: 0, 0
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 0, 11
+  size: 238, 270
+  orig: 238, 270
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: true
+  xy: 270, 79
+  size: 61, 31
+  orig: 62, 32
+  offset: 0, 1
+  index: -1
+yanqiu
+  rotate: false
+  xy: 270, 140
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1

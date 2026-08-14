@@ -1,0 +1,13 @@
+
+longgong_shuicao.png
+size: 125,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/longgonglibao/shuicao
+  rotate: false
+  xy: 0, 0
+  size: 125, 266
+  orig: 125, 266
+  offset: 0, 0
+  index: -1

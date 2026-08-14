@@ -1,0 +1,55 @@
+
+haiwangbaozang.png
+size: 787,787
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xuanchang_UITX/haiwang/haidao2
+  rotate: false
+  xy: 2, 350
+  size: 505, 435
+  orig: 505, 435
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/haiwang/haiwang (1)
+  rotate: false
+  xy: 509, 200
+  size: 248, 290
+  orig: 248, 290
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/haiwang/haiwang (2)
+  rotate: true
+  xy: 264, 40
+  size: 179, 195
+  orig: 179, 195
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/haiwang/haiwang (3)
+  rotate: false
+  xy: 2, 49
+  size: 260, 170
+  orig: 260, 170
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/haiwang/haiwang (4)
+  rotate: true
+  xy: 509, 492
+  size: 293, 276
+  orig: 293, 276
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/haiwang/haiwang (5)
+  rotate: false
+  xy: 461, 92
+  size: 139, 106
+  orig: 139, 106
+  offset: 0, 0
+  index: -1
+Xuanchang_UITX/longwang/langhua
+  rotate: false
+  xy: 2, 221
+  size: 500, 127
+  orig: 500, 127
+  offset: 0, 0
+  index: -1

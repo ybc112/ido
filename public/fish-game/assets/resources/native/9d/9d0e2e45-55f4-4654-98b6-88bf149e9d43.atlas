@@ -1,0 +1,41 @@
+
+loading_pangxie.png
+size: 94,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI2/loading_pangxie/body
+  rotate: false
+  xy: 0, 22
+  size: 52, 72
+  orig: 52, 72
+  offset: 0, 0
+  index: -1
+UI2/loading_pangxie/yj
+  rotate: false
+  xy: 59, 56
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+UI2/loading_pangxie/yz
+  rotate: true
+  xy: 59, 0
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+UI2/loading_pangxie/zj
+  rotate: true
+  xy: 59, 24
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+UI2/loading_pangxie/zz
+  rotate: true
+  xy: 0, 1
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+Mingrilibao.png
+size: 92,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/icon_mingrilibao
+  rotate: false
+  xy: 2, 5
+  size: 88, 85
+  orig: 90, 90
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+yuwang5.png
+size: 555,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxingdaji5/Resources/xingxing_00000
+  rotate: true
+  xy: 441, 154
+  size: 36, 34
+  orig: 190, 190
+  offset: 93, 60
+  index: -1
+xingxingdaji5/Resources/xingxing_00002
+  rotate: true
+  xy: 501, 136
+  size: 54, 53
+  orig: 190, 190
+  offset: 81, 50
+  index: -1
+xingxingdaji5/Resources/xingxing_00004
+  rotate: false
+  xy: 478, 65
+  size: 70, 70
+  orig: 190, 190
+  offset: 70, 44
+  index: -1
+xingxingdaji5/Resources/xingxing_00006
+  rotate: false
+  xy: 441, 191
+  size: 88, 83
+  orig: 190, 190
+  offset: 63, 38
+  index: -1
+xingxingdaji5/Resources/xingxing_00008
+  rotate: true
+  xy: 1, 8
+  size: 108, 105
+  orig: 190, 190
+  offset: 50, 32
+  index: -1
+xingxingdaji5/Resources/xingxing_00010
+  rotate: true
+  xy: 312, 142
+  size: 132, 128
+  orig: 190, 190
+  offset: 35, 21
+  index: -1
+xingxingdaji5/Resources/xingxing_00012
+  rotate: false
+  xy: 331, 2
+  size: 146, 139
+  orig: 190, 190
+  offset: 29, 16
+  index: -1
+xingxingdaji5/Resources/xingxing_00014
+  rotate: false
+  xy: 149, 140
+  size: 162, 134
+  orig: 190, 190
+  offset: 18, 32
+  index: -1
+xingxingdaji5/Resources/xingxing_00016
+  rotate: true
+  xy: 1, 117
+  size: 157, 147
+  orig: 190, 190
+  offset: 6, 30
+  index: -1
+xingxingdaji5/Resources/xingxing_00018
+  rotate: true
+  xy: 107, 23
+  size: 93, 84
+  orig: 190, 190
+  offset: 75, 102
+  index: -1
+xingxingdaji5/Resources/xingxing_00020
+  rotate: false
+  xy: 476, 163
+  size: 24, 27
+  orig: 190, 190
+  offset: 104, 145
+  index: -1
+xingxingdaji5/Resources/yuwang5
+  rotate: false
+  xy: 192, 1
+  size: 138, 138
+  orig: 150, 150
+  offset: 6, 6
+  index: -1

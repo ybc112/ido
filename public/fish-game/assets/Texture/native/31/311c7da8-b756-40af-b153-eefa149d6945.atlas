@@ -1,0 +1,34 @@
+
+jushachoujiang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jushachoujiang/deng1
+  rotate: false
+  xy: 1, 9
+  size: 478, 147
+  orig: 478, 147
+  offset: 0, 0
+  index: -1
+jushachoujiang/deng2
+  rotate: true
+  xy: 846, 1
+  size: 434, 134
+  orig: 478, 147
+  offset: 21, 7
+  index: -1
+jushachoujiang/glow
+  rotate: false
+  xy: 617, 207
+  size: 228, 228
+  orig: 228, 228
+  offset: 0, 0
+  index: -1
+jushachoujiang/jiangchi_zhuanpan
+  rotate: false
+  xy: 1, 157
+  size: 615, 278
+  orig: 615, 278
+  offset: 0, 0
+  index: -1

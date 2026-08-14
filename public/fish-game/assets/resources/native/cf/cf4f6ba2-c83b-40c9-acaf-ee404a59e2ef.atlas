@@ -1,0 +1,20 @@
+
+kuangbao_yuwang.png
+size: 320,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuangbao/kuangbao_yw
+  rotate: true
+  xy: 1, 1
+  size: 166, 173
+  orig: 166, 173
+  offset: 0, 0
+  index: -1
+kuangbao/kuangbao_yw0
+  rotate: true
+  xy: 175, 3
+  size: 164, 144
+  orig: 164, 145
+  offset: 0, 1
+  index: -1

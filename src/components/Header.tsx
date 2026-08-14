@@ -1,10 +1,11 @@
-import { Coins, ShieldCheck, Flame } from "lucide-react";
+import { Coins, ShieldCheck, Flame, Ship } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 const navItems = [
   { href: "#staking", label: "质押分红", icon: Coins },
   { href: "#floor-price", label: "托底价", icon: ShieldCheck },
   { href: "#exit", label: "退出机制", icon: Flame },
+  { href: "/fish-game", label: "捕鱼游戏", icon: Ship, external: true },
 ];
 
 export function Header() {
@@ -30,7 +31,9 @@ export function Header() {
               href={item.href}
               className={cn(
                 "inline-flex items-center gap-1.5 rounded-xl px-3 py-2 text-sm font-medium transition-all",
-                "text-[#8aa7bd] hover:bg-[rgba(79,209,229,0.08)] hover:text-[#4fd1e5]"
+                "text-[#8aa7bd] hover:bg-[rgba(79,209,229,0.08)] hover:text-[#4fd1e5]",
+                item.external &&
+                  "rounded-xl border border-[rgba(79,209,229,0.3)] bg-[rgba(79,209,229,0.07)] text-[#4fd1e5] hover:bg-[rgba(79,209,229,0.16)]"
               )}
             >
               <item.icon className="h-4 w-4" />

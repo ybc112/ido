@@ -1,0 +1,69 @@
+
+jingjisai_iconsg.png
+size: 2033,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingjisai/btn_orange_00
+  rotate: false
+  xy: 1368, 7
+  size: 226, 76
+  orig: 240, 90
+  offset: 7, 9
+  index: -1
+jingjisai/btn_orange_01
+  rotate: false
+  xy: 459, 3
+  size: 228, 80
+  orig: 240, 90
+  offset: 6, 6
+  index: -1
+jingjisai/btn_orange_02
+  rotate: false
+  xy: 1, 1
+  size: 228, 82
+  orig: 240, 90
+  offset: 6, 4
+  index: -1
+jingjisai/btn_orange_03
+  rotate: false
+  xy: 915, 1
+  size: 224, 82
+  orig: 240, 90
+  offset: 8, 4
+  index: -1
+jingjisai/btn_orange_04
+  rotate: false
+  xy: 1819, 1
+  size: 213, 82
+  orig: 240, 90
+  offset: 13, 4
+  index: -1
+jingjisai/btn_orange_05
+  rotate: false
+  xy: 688, 1
+  size: 226, 82
+  orig: 240, 90
+  offset: 7, 4
+  index: -1
+jingjisai/btn_orange_06
+  rotate: false
+  xy: 230, 2
+  size: 228, 81
+  orig: 240, 90
+  offset: 6, 5
+  index: -1
+jingjisai/btn_orange_07
+  rotate: false
+  xy: 1140, 5
+  size: 227, 78
+  orig: 240, 90
+  offset: 7, 7
+  index: -1
+jingjisai/btn_orange_08
+  rotate: false
+  xy: 1595, 12
+  size: 223, 71
+  orig: 240, 90
+  offset: 9, 12
+  index: -1

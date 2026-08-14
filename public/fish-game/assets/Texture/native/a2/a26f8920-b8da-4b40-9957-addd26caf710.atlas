@@ -1,0 +1,48 @@
+
+xingyunfudai.png
+size: 676,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingyunfudai/fudai1
+  rotate: true
+  xy: 131, 1
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+xingyunfudai/fudai2
+  rotate: true
+  xy: 261, 1
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+xingyunfudai/fudai3
+  rotate: true
+  xy: 391, 1
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+xingyunfudai/fudai4
+  rotate: true
+  xy: 521, 1
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+xingyunfudai/fudai5
+  rotate: true
+  xy: 1, 1
+  size: 116, 129
+  orig: 116, 129
+  offset: 0, 0
+  index: -1
+xingyunfudai/shengzi2
+  rotate: false
+  xy: 651, 70
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1

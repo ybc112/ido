@@ -1,0 +1,118 @@
+
+nanhaixunbao_new.png
+size: 523,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuan_diceng
+  rotate: true
+  xy: 1, 2
+  size: 139, 112
+  orig: 139, 113
+  offset: 0, 1
+  index: -1
+chuan_erceng
+  rotate: true
+  xy: 114, 10
+  size: 131, 81
+  orig: 131, 81
+  offset: 0, 0
+  index: -1
+chuan_wei
+  rotate: true
+  xy: 253, 35
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+chuanmao
+  rotate: false
+  xy: 346, 1
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+daizi
+  rotate: false
+  xy: 222, 4
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+duoshou
+  rotate: false
+  xy: 370, 2
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+fan_hou
+  rotate: true
+  xy: 338, 57
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+fan_qian
+  rotate: true
+  xy: 396, 57
+  size: 84, 57
+  orig: 84, 57
+  offset: 0, 0
+  index: -1
+jiushengquan
+  rotate: false
+  xy: 320, 4
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+lang
+  rotate: true
+  xy: 196, 30
+  size: 111, 56
+  orig: 111, 56
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 269, 4
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+yanpi_ban
+  rotate: false
+  xy: 114, 1
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+yanpi_bi
+  rotate: false
+  xy: 421, 21
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+yu
+  rotate: true
+  xy: 454, 69
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+yu_youqi
+  rotate: true
+  xy: 196, 1
+  size: 28, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+yu_zuoqi
+  rotate: false
+  xy: 421, 35
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

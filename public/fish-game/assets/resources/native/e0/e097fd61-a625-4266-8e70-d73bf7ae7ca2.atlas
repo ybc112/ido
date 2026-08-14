@@ -1,0 +1,202 @@
+
+vippao9.png
+size: 898,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paokoutexiao
+  rotate: false
+  xy: 121, 104
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9
+  rotate: false
+  xy: 1, 95
+  size: 119, 131
+  orig: 119, 131
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0001
+  rotate: true
+  xy: 140, 10
+  size: 23, 94
+  orig: 100, 111
+  offset: 0, 2
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0002
+  rotate: false
+  xy: 862, 131
+  size: 35, 95
+  orig: 100, 111
+  offset: 0, 1
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0003
+  rotate: true
+  xy: 588, 69
+  size: 45, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0004
+  rotate: true
+  xy: 364, 57
+  size: 57, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0005
+  rotate: true
+  xy: 140, 34
+  size: 69, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0006
+  rotate: false
+  xy: 708, 115
+  size: 80, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0007
+  rotate: false
+  xy: 530, 115
+  size: 91, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0008
+  rotate: false
+  xy: 227, 115
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0009
+  rotate: false
+  xy: 328, 115
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0010
+  rotate: false
+  xy: 429, 115
+  size: 100, 111
+  orig: 100, 111
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0011
+  rotate: true
+  xy: 1, 1
+  size: 93, 111
+  orig: 100, 111
+  offset: 7, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0012
+  rotate: false
+  xy: 622, 115
+  size: 85, 111
+  orig: 100, 111
+  offset: 15, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0013
+  rotate: false
+  xy: 789, 115
+  size: 72, 111
+  orig: 100, 111
+  offset: 28, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0014
+  rotate: true
+  xy: 252, 51
+  size: 63, 111
+  orig: 100, 111
+  offset: 37, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0015
+  rotate: true
+  xy: 476, 64
+  size: 50, 111
+  orig: 100, 111
+  offset: 50, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0016
+  rotate: true
+  xy: 700, 74
+  size: 40, 110
+  orig: 100, 111
+  offset: 60, 0
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0017
+  rotate: false
+  xy: 113, 1
+  size: 26, 93
+  orig: 100, 111
+  offset: 74, 3
+  index: -1
+vippaotai9/vippaotai9shuaxiao/vippaotai9shuaxiao0018
+  rotate: true
+  xy: 634, 2
+  size: 16, 84
+  orig: 100, 111
+  offset: 84, 7
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0001
+  rotate: false
+  xy: 634, 19
+  size: 80, 49
+  orig: 86, 49
+  offset: 6, 0
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0002
+  rotate: false
+  xy: 715, 24
+  size: 82, 49
+  orig: 86, 49
+  offset: 4, 0
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0003
+  rotate: false
+  xy: 339, 1
+  size: 84, 49
+  orig: 86, 49
+  offset: 2, 0
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0004
+  rotate: false
+  xy: 252, 1
+  size: 86, 49
+  orig: 86, 49
+  offset: 0, 0
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0005
+  rotate: false
+  xy: 811, 66
+  size: 86, 48
+  orig: 86, 49
+  offset: 0, 1
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0006
+  rotate: false
+  xy: 798, 17
+  size: 82, 48
+  orig: 86, 49
+  offset: 4, 1
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0007
+  rotate: true
+  xy: 588, 1
+  size: 67, 45
+  orig: 86, 49
+  offset: 19, 4
+  index: -1
+vippaotai9/vippaotaihuoyan/vippaotai9huoyan0008
+  rotate: false
+  xy: 424, 8
+  size: 73, 48
+  orig: 86, 49
+  offset: 13, 1
+  index: -1

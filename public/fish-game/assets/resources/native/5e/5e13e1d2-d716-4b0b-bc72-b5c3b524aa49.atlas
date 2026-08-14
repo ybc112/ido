@@ -1,0 +1,34 @@
+
+fish_zuantoulongxia3.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newfishes/fish_zuantoulongxia/zuantou
+  rotate: true
+  xy: 2, 287
+  size: 160, 511
+  orig: 160, 511
+  offset: 0, 0
+  index: -1
+newfishes/fish_zuantoulongxia/zuantou01
+  rotate: true
+  xy: 515, 339
+  size: 108, 283
+  orig: 108, 283
+  offset: 0, 0
+  index: -1
+newfishes/fish_zuantoulongxia/zuantou02
+  rotate: false
+  xy: 112, 2
+  size: 108, 283
+  orig: 108, 283
+  offset: 0, 0
+  index: -1
+newfishes/fish_zuantoulongxia/zuantou03
+  rotate: false
+  xy: 2, 2
+  size: 108, 283
+  orig: 108, 283
+  offset: 0, 0
+  index: -1

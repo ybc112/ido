@@ -1,0 +1,90 @@
+
+fish_jian.png
+size: 1577,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fxjian_00
+  rotate: false
+  xy: 1, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_01
+  rotate: false
+  xy: 140, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_02
+  rotate: false
+  xy: 279, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_03
+  rotate: false
+  xy: 418, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_04
+  rotate: false
+  xy: 557, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_05
+  rotate: false
+  xy: 696, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_06
+  rotate: false
+  xy: 835, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_07
+  rotate: false
+  xy: 974, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_08
+  rotate: false
+  xy: 1113, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+fxjian_09
+  rotate: false
+  xy: 1252, 1
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+jian
+  rotate: false
+  xy: 1507, 66
+  size: 69, 73
+  orig: 69, 73
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: false
+  xy: 1391, 23
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fish102.png
+size: 315,65
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/招财剑鱼/zhaocaijianyu
+  rotate: false
+  xy: 0, 0
+  size: 269, 65
+  orig: 269, 65
+  offset: 0, 0
+  index: -1
+H5Newfishes/招财剑鱼/zhaocaijianyu2
+  rotate: false
+  xy: 269, 13
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1

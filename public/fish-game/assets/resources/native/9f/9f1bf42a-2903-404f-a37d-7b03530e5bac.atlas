@@ -1,0 +1,139 @@
+
+fish_pig.png
+size: 992,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dingpa
+  rotate: false
+  xy: 146, 74
+  size: 399, 198
+  orig: 399, 198
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 836, 138
+  size: 142, 33
+  orig: 142, 33
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 349, 5
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 48, 7
+  size: 84, 50
+  orig: 84, 50
+  offset: 0, 0
+  index: -1
+left leg
+  rotate: false
+  xy: 496, 9
+  size: 88, 64
+  orig: 88, 64
+  offset: 0, 0
+  index: -1
+left_ foot
+  rotate: false
+  xy: 1, 4
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 1, 58
+  size: 144, 214
+  orig: 144, 214
+  offset: 0, 0
+  index: -1
+lingjing
+  rotate: true
+  xy: 901, 5
+  size: 132, 90
+  orig: 132, 90
+  offset: 0, 0
+  index: -1
+pai
+  rotate: true
+  xy: 740, 5
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+qianjin_you
+  rotate: true
+  xy: 836, 172
+  size: 100, 154
+  orig: 100, 154
+  offset: 0, 0
+  index: -1
+qianjin_zuo
+  rotate: true
+  xy: 585, 3
+  size: 74, 154
+  orig: 74, 154
+  offset: 0, 0
+  index: -1
+rhght_foot
+  rotate: true
+  xy: 133, 8
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+right hand
+  rotate: false
+  xy: 546, 78
+  size: 94, 194
+  orig: 94, 194
+  offset: 0, 0
+  index: -1
+right leg
+  rotate: true
+  xy: 450, 6
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+right_shouzhi
+  rotate: true
+  xy: 817, 90
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+skin
+  rotate: false
+  xy: 641, 88
+  size: 175, 184
+  orig: 175, 184
+  offset: 0, 0
+  index: -1
+waist
+  rotate: false
+  xy: 178, 2
+  size: 170, 71
+  orig: 170, 71
+  offset: 0, 0
+  index: -1
+yi_you
+  rotate: false
+  xy: 836, 1
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 863, 116
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1

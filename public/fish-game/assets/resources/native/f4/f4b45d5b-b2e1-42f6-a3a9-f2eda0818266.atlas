@@ -1,0 +1,27 @@
+
+fish13.png
+size: 335,71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/剑鱼/2
+  rotate: true
+  xy: 0, 0
+  size: 71, 255
+  orig: 71, 255
+  offset: 0, 0
+  index: -1
+H5Newfishes/剑鱼/3
+  rotate: true
+  xy: 255, 20
+  size: 51, 80
+  orig: 51, 80
+  offset: 0, 0
+  index: -1
+H5Newfishes/剑鱼/4
+  rotate: true
+  xy: 255, 2
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1

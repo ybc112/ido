@@ -1,0 +1,111 @@
+
+yuwang_anim3.png
+size: 499,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sui_00
+  rotate: false
+  xy: 1, 16
+  size: 27, 28
+  orig: 150, 150
+  offset: 59, 66
+  index: -1
+sui_02
+  rotate: false
+  xy: 107, 2
+  size: 48, 46
+  orig: 150, 150
+  offset: 52, 53
+  index: -1
+sui_04
+  rotate: false
+  xy: 429, 147
+  size: 62, 58
+  orig: 150, 150
+  offset: 47, 45
+  index: -1
+sui_06
+  rotate: true
+  xy: 429, 206
+  size: 72, 68
+  orig: 150, 150
+  offset: 43, 39
+  index: -1
+sui_08
+  rotate: true
+  xy: 422, 15
+  size: 79, 76
+  orig: 150, 150
+  offset: 40, 35
+  index: -1
+sui_10
+  rotate: true
+  xy: 316, 190
+  size: 88, 83
+  orig: 150, 150
+  offset: 36, 31
+  index: -1
+sui_12
+  rotate: true
+  xy: 332, 1
+  size: 93, 89
+  orig: 150, 150
+  offset: 33, 28
+  index: -1
+sui_14
+  rotate: true
+  xy: 215, 76
+  size: 100, 95
+  orig: 150, 150
+  offset: 30, 25
+  index: -1
+sui_16
+  rotate: true
+  xy: 112, 172
+  size: 106, 101
+  orig: 150, 150
+  offset: 27, 22
+  index: -1
+sui_18
+  rotate: true
+  xy: 107, 49
+  size: 112, 107
+  orig: 150, 150
+  offset: 24, 19
+  index: -1
+sui_20
+  rotate: true
+  xy: 1, 45
+  size: 116, 105
+  orig: 150, 150
+  offset: 22, 25
+  index: -1
+sui_22
+  rotate: true
+  xy: 1, 162
+  size: 116, 110
+  orig: 150, 150
+  offset: 25, 22
+  index: -1
+sui_24
+  rotate: true
+  xy: 311, 95
+  size: 81, 117
+  orig: 150, 150
+  offset: 29, 19
+  index: -1
+sui_26
+  rotate: true
+  xy: 215, 1
+  size: 74, 116
+  orig: 150, 150
+  offset: 27, 23
+  index: -1
+zha
+  rotate: false
+  xy: 214, 177
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1

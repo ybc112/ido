@@ -1,0 +1,48 @@
+
+jukun_laixi.png
+size: 1819,483
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/jukunlaixi/di2_k
+  rotate: false
+  xy: 162, 1
+  size: 688, 87
+  orig: 688, 87
+  offset: 0, 0
+  index: -1
+boss_laixi/jukunlaixi/di_k
+  rotate: false
+  xy: 538, 174
+  size: 1280, 308
+  orig: 1280, 308
+  offset: 0, 0
+  index: -1
+boss_laixi/jukunlaixi/texiao
+  rotate: false
+  xy: 162, 89
+  size: 375, 393
+  orig: 375, 393
+  offset: 0, 0
+  index: -1
+boss_laixi/jukunlaixi/texiao2
+  rotate: false
+  xy: 851, 3
+  size: 852, 112
+  orig: 852, 112
+  offset: 0, 0
+  index: -1
+boss_laixi/jukunlaixi/texiao3_xian
+  rotate: false
+  xy: 538, 116
+  size: 821, 57
+  orig: 821, 57
+  offset: 0, 0
+  index: -1
+boss_laixi/jukunlaixi/title_mkjs
+  rotate: true
+  xy: 1, 46
+  size: 436, 160
+  orig: 436, 160
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+yinbidiaoluo.png
+size: 130,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 55
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 1
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 56, 1
+  size: 36, 53
+  orig: 54, 53
+  offset: 9, 0
+  index: -1
+4
+  rotate: false
+  xy: 109, 55
+  size: 15, 53
+  orig: 54, 53
+  offset: 19, 0
+  index: -1
+5
+  rotate: false
+  xy: 93, 2
+  size: 36, 52
+  orig: 54, 53
+  offset: 9, 1
+  index: -1
+6
+  rotate: false
+  xy: 56, 55
+  size: 52, 53
+  orig: 54, 53
+  offset: 1, 0
+  index: -1

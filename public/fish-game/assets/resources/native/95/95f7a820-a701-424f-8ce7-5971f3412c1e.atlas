@@ -1,0 +1,20 @@
+
+xinshou_paopao.png
+size: 342,196
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/xinshou/guang
+  rotate: false
+  xy: 2, 2
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+4/xinshou/paopao
+  rotate: false
+  xy: 196, 49
+  size: 144, 145
+  orig: 144, 145
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+nanhai_yuwang.png
+size: 1412,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI2/南海渔网/w1
+  rotate: true
+  xy: 377, 2
+  size: 172, 183
+  orig: 172, 183
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w10
+  rotate: true
+  xy: 1196, 28
+  size: 146, 136
+  orig: 146, 136
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w2
+  rotate: true
+  xy: 187, 6
+  size: 168, 190
+  orig: 168, 190
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w3
+  rotate: true
+  xy: 0, 0
+  size: 174, 187
+  orig: 174, 187
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w4
+  rotate: false
+  xy: 560, 5
+  size: 177, 169
+  orig: 177, 169
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w5
+  rotate: false
+  xy: 737, 9
+  size: 177, 165
+  orig: 177, 165
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w6
+  rotate: true
+  xy: 914, 3
+  size: 171, 142
+  orig: 171, 142
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w7
+  rotate: false
+  xy: 1056, 29
+  size: 140, 145
+  orig: 140, 145
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w8
+  rotate: false
+  xy: 1332, 0
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+UI2/南海渔网/w9
+  rotate: false
+  xy: 1332, 88
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1

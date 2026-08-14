@@ -1,0 +1,20 @@
+
+fish03.png
+size: 78,34
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/蜗牛鱼/2
+  rotate: true
+  xy: 0, 0
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+H5Newfishes/蜗牛鱼/3
+  rotate: false
+  xy: 63, 11
+  size: 15, 23
+  orig: 16, 24
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,328 @@
+
+shenmibeike.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/Beike_choujiang/beike_haicao
+  rotate: true
+  xy: 380, 7
+  size: 48, 59
+  orig: 62, 62
+  offset: 7, 2
+  index: -1
+4/Beike_choujiang/beike_haixing
+  rotate: false
+  xy: 498, 9
+  size: 62, 55
+  orig: 62, 62
+  offset: 0, 4
+  index: -1
+4/Beike_choujiang/beike_kai
+  rotate: true
+  xy: 1681, 246
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+4/Beike_choujiang/beike_shanhu
+  rotate: false
+  xy: 321, 1
+  size: 58, 54
+  orig: 62, 62
+  offset: 2, 4
+  index: -1
+4/Beike_choujiang/beike_zhadan
+  rotate: true
+  xy: 440, 5
+  size: 50, 57
+  orig: 60, 57
+  offset: 5, 0
+  index: -1
+4/Beike_choujiang/beike_zhenzhu
+  rotate: false
+  xy: 561, 14
+  size: 50, 50
+  orig: 62, 62
+  offset: 6, 6
+  index: -1
+4/Beike_choujiang/donghua_beike1
+  rotate: true
+  xy: 1925, 252
+  size: 108, 79
+  orig: 108, 79
+  offset: 0, 0
+  index: -1
+4/Beike_choujiang/quanpingdaodan0001
+  rotate: false
+  xy: 990, 24
+  size: 99, 94
+  orig: 180, 180
+  offset: 33, 45
+  index: -1
+4/Beike_choujiang/quanpingdaodan0002
+  rotate: true
+  xy: 1098, 129
+  size: 107, 104
+  orig: 180, 180
+  offset: 26, 39
+  index: -1
+4/Beike_choujiang/quanpingdaodan0003
+  rotate: false
+  xy: 1203, 135
+  size: 104, 102
+  orig: 180, 180
+  offset: 26, 39
+  index: -1
+4/Beike_choujiang/quanpingdaodan0004
+  rotate: true
+  xy: 990, 119
+  size: 116, 107
+  orig: 180, 180
+  offset: 26, 39
+  index: -1
+4/Beike_choujiang/quanpingdaodan0005
+  rotate: false
+  xy: 1434, 250
+  size: 123, 110
+  orig: 180, 180
+  offset: 27, 38
+  index: -1
+4/Beike_choujiang/quanpingdaodan0006
+  rotate: true
+  xy: 760, 73
+  size: 137, 125
+  orig: 180, 180
+  offset: 19, 32
+  index: -1
+4/Beike_choujiang/quanpingdaodan0007
+  rotate: false
+  xy: 926, 236
+  size: 131, 124
+  orig: 180, 180
+  offset: 25, 33
+  index: -1
+4/Beike_choujiang/quanpingdaodan0008
+  rotate: true
+  xy: 803, 215
+  size: 132, 122
+  orig: 180, 180
+  offset: 25, 33
+  index: -1
+4/Beike_choujiang/quanpingdaodan0009
+  rotate: true
+  xy: 1184, 238
+  size: 122, 125
+  orig: 180, 180
+  offset: 35, 33
+  index: -1
+4/Beike_choujiang/quanpingdaodan0010
+  rotate: true
+  xy: 1058, 237
+  size: 123, 125
+  orig: 180, 180
+  offset: 35, 33
+  index: -1
+4/Beike_choujiang/quanpingdaodan0011
+  rotate: true
+  xy: 1800, 258
+  size: 102, 124
+  orig: 180, 180
+  offset: 35, 33
+  index: -1
+4/Beike_choujiang/quanpingdaodan0012
+  rotate: false
+  xy: 886, 91
+  size: 103, 123
+  orig: 180, 180
+  offset: 35, 34
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_000
+  rotate: true
+  xy: 886, 28
+  size: 62, 69
+  orig: 200, 200
+  offset: 69, 68
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_001
+  rotate: true
+  xy: 1558, 250
+  size: 110, 122
+  orig: 200, 200
+  offset: 42, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_002
+  rotate: true
+  xy: 1558, 250
+  size: 110, 122
+  orig: 200, 200
+  offset: 42, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_003
+  rotate: true
+  xy: 1310, 242
+  size: 118, 123
+  orig: 200, 200
+  offset: 42, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_004
+  rotate: true
+  xy: 1310, 242
+  size: 118, 123
+  orig: 200, 200
+  offset: 42, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_005
+  rotate: false
+  xy: 623, 65
+  size: 136, 145
+  orig: 200, 200
+  offset: 29, 27
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_006
+  rotate: true
+  xy: 652, 211
+  size: 136, 150
+  orig: 200, 200
+  offset: 29, 27
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_007
+  rotate: true
+  xy: 330, 220
+  size: 136, 163
+  orig: 200, 200
+  offset: 29, 14
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_008
+  rotate: true
+  xy: 845, 361
+  size: 150, 164
+  orig: 200, 200
+  offset: 29, 13
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_009
+  rotate: false
+  xy: 321, 56
+  size: 150, 163
+  orig: 200, 200
+  offset: 29, 14
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_010
+  rotate: false
+  xy: 472, 65
+  size: 150, 150
+  orig: 200, 200
+  offset: 29, 27
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_011
+  rotate: true
+  xy: 1010, 361
+  size: 150, 164
+  orig: 200, 200
+  offset: 29, 21
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_012
+  rotate: true
+  xy: 330, 357
+  size: 154, 175
+  orig: 200, 200
+  offset: 25, 14
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_013
+  rotate: false
+  xy: 166, 164
+  size: 154, 176
+  orig: 200, 200
+  offset: 25, 13
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_014
+  rotate: true
+  xy: 506, 357
+  size: 154, 174
+  orig: 200, 200
+  offset: 25, 13
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_015
+  rotate: true
+  xy: 1175, 361
+  size: 150, 164
+  orig: 200, 200
+  offset: 29, 13
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_016
+  rotate: false
+  xy: 166, 5
+  size: 154, 158
+  orig: 200, 200
+  offset: 29, 19
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_017
+  rotate: false
+  xy: 681, 348
+  size: 163, 163
+  orig: 200, 200
+  offset: 29, 14
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_018
+  rotate: false
+  xy: 1, 334
+  size: 164, 177
+  orig: 200, 200
+  offset: 29, 14
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_019
+  rotate: false
+  xy: 1, 160
+  size: 164, 173
+  orig: 200, 200
+  offset: 29, 14
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_020
+  rotate: false
+  xy: 166, 341
+  size: 163, 170
+  orig: 200, 200
+  offset: 29, 21
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_021
+  rotate: true
+  xy: 1, 1
+  size: 158, 164
+  orig: 200, 200
+  offset: 21, 27
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_022
+  rotate: false
+  xy: 1340, 361
+  size: 164, 150
+  orig: 200, 200
+  offset: 15, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_023
+  rotate: false
+  xy: 1505, 361
+  size: 164, 150
+  orig: 200, 200
+  offset: 15, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_024
+  rotate: false
+  xy: 1670, 361
+  size: 164, 150
+  orig: 200, 200
+  offset: 15, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_025
+  rotate: false
+  xy: 1835, 361
+  size: 164, 150
+  orig: 200, 200
+  offset: 15, 41
+  index: -1
+4/Beike_choujiang/xiaoxingxing/lizi_026
+  rotate: false
+  xy: 494, 216
+  size: 157, 140
+  orig: 200, 200
+  offset: 22, 41
+  index: -1

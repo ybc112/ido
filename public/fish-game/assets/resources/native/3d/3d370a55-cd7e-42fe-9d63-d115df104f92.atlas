@@ -1,0 +1,69 @@
+
+moshibaofu.png
+size: 1338,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buyu_inside/moshibaofu/deng1
+  rotate: false
+  xy: 714, 11
+  size: 356, 116
+  orig: 359, 116
+  offset: 3, 0
+  index: -1
+buyu_inside/moshibaofu/deng2
+  rotate: true
+  xy: 1111, 194
+  size: 350, 108
+  orig: 359, 116
+  offset: 0, 0
+  index: -1
+buyu_inside/moshibaofu/glow
+  rotate: false
+  xy: 1, 1
+  size: 542, 543
+  orig: 542, 543
+  offset: 0, 0
+  index: -1
+buyu_inside/moshibaofu/moshi_caidai
+  rotate: true
+  xy: 544, 50
+  size: 494, 169
+  orig: 494, 169
+  offset: 0, 0
+  index: -1
+buyu_inside/moshibaofu/moshi_di1
+  rotate: true
+  xy: 908, 162
+  size: 382, 202
+  orig: 382, 202
+  offset: 0, 0
+  index: -1
+buyu_inside/moshibaofu/moshi_di2
+  rotate: true
+  xy: 714, 128
+  size: 416, 193
+  orig: 416, 193
+  offset: 0, 0
+  index: -1
+buyu_inside/moshibaofu/text_huodemoshi
+  rotate: false
+  xy: 1166, 17
+  size: 171, 176
+  orig: 171, 176
+  offset: 0, 0
+  index: -1
+buyu_inside/moshibaofu/text_shuzi_di
+  rotate: true
+  xy: 1220, 196
+  size: 348, 93
+  orig: 348, 93
+  offset: 0, 0
+  index: -1
+buyu_inside/moshibaofu/xingxing
+  rotate: true
+  xy: 1071, 10
+  size: 151, 94
+  orig: 151, 94
+  offset: 0, 0
+  index: -1

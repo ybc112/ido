@@ -1,0 +1,13 @@
+
+zadan_jindan.png
+size: 110,133
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jindan
+  rotate: false
+  xy: 1, 1
+  size: 108, 131
+  orig: 108, 131
+  offset: 0, 0
+  index: -1

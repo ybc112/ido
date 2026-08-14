@@ -1,0 +1,76 @@
+
+xc_jubaojingui.png
+size: 976,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LotteryTicket
+  rotate: false
+  xy: 791, 74
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+beike
+  rotate: true
+  xy: 289, 16
+  size: 245, 199
+  orig: 245, 199
+  offset: 0, 0
+  index: -1
+haidao3
+  rotate: false
+  xy: 1, 3
+  size: 287, 258
+  orig: 287, 258
+  offset: 0, 0
+  index: -1
+houzhua
+  rotate: true
+  xy: 689, 34
+  size: 131, 75
+  orig: 131, 75
+  offset: 0, 0
+  index: -1
+langhua
+  rotate: false
+  xy: 489, 166
+  size: 375, 95
+  orig: 375, 95
+  offset: 0, 0
+  index: -1
+qianzhua
+  rotate: false
+  xy: 489, 4
+  size: 95, 161
+  orig: 95, 161
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 585, 28
+  size: 137, 103
+  orig: 137, 103
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 765, 45
+  size: 83, 28
+  orig: 83, 28
+  offset: 0, 0
+  index: -1
+xiake
+  rotate: true
+  xy: 865, 28
+  size: 233, 110
+  orig: 233, 110
+  offset: 0, 0
+  index: -1
+zhu
+  rotate: true
+  xy: 689, 1
+  size: 32, 101
+  orig: 32, 101
+  offset: 0, 0
+  index: -1

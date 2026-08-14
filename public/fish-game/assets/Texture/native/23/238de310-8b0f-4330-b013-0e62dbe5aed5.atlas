@@ -1,0 +1,69 @@
+
+kaishiyouxi.png
+size: 746,323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI/kaishiyouxi/gg_00000
+  rotate: false
+  xy: 290, 233
+  size: 264, 89
+  orig: 280, 120
+  offset: 9, 12
+  index: -1
+UI/kaishiyouxi/gg_00001
+  rotate: false
+  xy: 1, 1
+  size: 247, 104
+  orig: 280, 120
+  offset: 27, 12
+  index: -1
+UI/kaishiyouxi/gg_00002
+  rotate: true
+  xy: 555, 121
+  size: 201, 105
+  orig: 280, 120
+  offset: 73, 12
+  index: -1
+UI/kaishiyouxi/gg_00003
+  rotate: false
+  xy: 1, 106
+  size: 251, 105
+  orig: 280, 120
+  offset: 22, 13
+  index: -1
+UI/kaishiyouxi/gg_00004
+  rotate: false
+  xy: 253, 50
+  size: 254, 99
+  orig: 280, 120
+  offset: 10, 18
+  index: -1
+UI/kaishiyouxi/gg_00005
+  rotate: false
+  xy: 508, 15
+  size: 223, 103
+  orig: 280, 120
+  offset: 8, 12
+  index: -1
+UI/kaishiyouxi/gg_00006
+  rotate: true
+  xy: 661, 119
+  size: 203, 84
+  orig: 280, 120
+  offset: 7, 12
+  index: -1
+UI/kaishiyouxi/gg_00007
+  rotate: false
+  xy: 290, 150
+  size: 256, 82
+  orig: 280, 120
+  offset: 8, 12
+  index: -1
+UI/kaishiyouxi/kaishiyouxi
+  rotate: false
+  xy: 1, 212
+  size: 288, 110
+  orig: 288, 110
+  offset: 0, 0
+  index: -1

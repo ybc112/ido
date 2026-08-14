@@ -1,0 +1,62 @@
+
+yuwang_doujizhanshen.png
+size: 1743,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0000
+  rotate: false
+  xy: 1427, 85
+  size: 196, 196
+  orig: 280, 280
+  offset: 42, 43
+  index: -1
+0001
+  rotate: true
+  xy: 271, 6
+  size: 275, 257
+  orig: 280, 280
+  offset: 3, 12
+  index: -1
+0002
+  rotate: false
+  xy: 1, 1
+  size: 269, 280
+  orig: 280, 280
+  offset: 7, 0
+  index: -1
+0003
+  rotate: false
+  xy: 529, 15
+  size: 244, 266
+  orig: 280, 280
+  offset: 17, 4
+  index: -1
+0004
+  rotate: true
+  xy: 774, 42
+  size: 239, 234
+  orig: 280, 280
+  offset: 18, 24
+  index: -1
+0005
+  rotate: false
+  xy: 1009, 51
+  size: 223, 230
+  orig: 280, 280
+  offset: 20, 20
+  index: -1
+0006
+  rotate: true
+  xy: 1233, 48
+  size: 233, 193
+  orig: 280, 280
+  offset: 13, 17
+  index: -1
+0007
+  rotate: true
+  xy: 1624, 53
+  size: 228, 118
+  orig: 280, 280
+  offset: 20, 76
+  index: -1

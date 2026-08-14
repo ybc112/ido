@@ -1,0 +1,118 @@
+
+dt_donghailonggong.png
+size: 426,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao
+  rotate: true
+  xy: 297, 4
+  size: 49, 41
+  orig: 49, 42
+  offset: 0, 1
+  index: -1
+fangzi1
+  rotate: true
+  xy: 1, 16
+  size: 169, 212
+  orig: 169, 212
+  offset: 0, 0
+  index: -1
+fangzi2
+  rotate: false
+  xy: 1, 363
+  size: 270, 159
+  orig: 270, 159
+  offset: 0, 0
+  index: -1
+fangzi3
+  rotate: false
+  xy: 1, 186
+  size: 244, 176
+  orig: 244, 176
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: false
+  xy: 272, 298
+  size: 134, 120
+  orig: 134, 120
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 246, 130
+  size: 167, 175
+  orig: 173, 185
+  offset: 3, 6
+  index: -1
+jiao
+  rotate: false
+  xy: 246, 328
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+maofa1
+  rotate: false
+  xy: 339, 5
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+maofa2
+  rotate: false
+  xy: 259, 2
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+shenti1
+  rotate: true
+  xy: 385, 57
+  size: 72, 40
+  orig: 72, 40
+  offset: 0, 0
+  index: -1
+shenti2
+  rotate: true
+  xy: 272, 419
+  size: 103, 146
+  orig: 103, 146
+  offset: 0, 0
+  index: -1
+shenti3
+  rotate: false
+  xy: 214, 40
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 287, 54
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 407, 408
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+yanpi
+  rotate: false
+  xy: 407, 397
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+zhuazi
+  rotate: false
+  xy: 214, 1
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+zdly_zhoubangrukou.png
+size: 871,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tulongyongshi/jiangbei_01
+  rotate: false
+  xy: 803, 7
+  size: 30, 38
+  orig: 90, 50
+  offset: 3, 8
+  index: -1
+tulongyongshi/jiangbei_02
+  rotate: true
+  xy: 776, 92
+  size: 49, 44
+  orig: 90, 50
+  offset: 3, 2
+  index: -1
+tulongyongshi/jiangbei_03
+  rotate: true
+  xy: 758, 4
+  size: 70, 44
+  orig: 90, 50
+  offset: 3, 2
+  index: -1
+tulongyongshi/jiangbei_04
+  rotate: false
+  xy: 584, 30
+  size: 83, 44
+  orig: 90, 50
+  offset: 3, 2
+  index: -1
+tulongyongshi/jiangbei_05
+  rotate: false
+  xy: 776, 142
+  size: 70, 42
+  orig: 90, 50
+  offset: 17, 2
+  index: -1
+tulongyongshi/jiangbei_06
+  rotate: true
+  xy: 821, 92
+  size: 49, 41
+  orig: 90, 50
+  offset: 38, 3
+  index: -1
+tulongyongshi/lizi
+  rotate: false
+  xy: 803, 46
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+tulongyongshi/yachi_0
+  rotate: true
+  xy: 651, 8
+  size: 21, 16
+  orig: 60, 22
+  offset: 1, 6
+  index: -1
+tulongyongshi/yachi_1
+  rotate: false
+  xy: 557, 2
+  size: 33, 20
+  orig: 60, 22
+  offset: 0, 2
+  index: -1
+tulongyongshi/yachi_2
+  rotate: false
+  xy: 464, 2
+  size: 46, 20
+  orig: 60, 22
+  offset: 0, 2
+  index: -1
+tulongyongshi/yachi_3
+  rotate: false
+  xy: 352, 2
+  size: 55, 20
+  orig: 60, 22
+  offset: 1, 2
+  index: -1
+tulongyongshi/yachi_4
+  rotate: false
+  xy: 408, 2
+  size: 55, 20
+  orig: 60, 22
+  offset: 3, 2
+  index: -1
+tulongyongshi/yachi_5
+  rotate: false
+  xy: 511, 2
+  size: 45, 20
+  orig: 60, 22
+  offset: 13, 2
+  index: -1
+tulongyongshi/yachi_6
+  rotate: false
+  xy: 618, 10
+  size: 32, 19
+  orig: 60, 22
+  offset: 27, 2
+  index: -1
+tulongyongshi/yachi_7
+  rotate: false
+  xy: 776, 77
+  size: 18, 14
+  orig: 60, 22
+  offset: 40, 7
+  index: -1
+tulongyongshi/zhoubang_dao
+  rotate: false
+  xy: 1, 1
+  size: 350, 282
+  orig: 350, 282
+  offset: 0, 0
+  index: -1
+tulongyongshi/zhoubang_fushou
+  rotate: false
+  xy: 668, 8
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+tulongyongshi/zhoubang_jiangbei
+  rotate: true
+  xy: 776, 185
+  size: 98, 94
+  orig: 98, 94
+  offset: 0, 0
+  index: -1
+tulongyongshi/zhoubang_shayu
+  rotate: false
+  xy: 584, 75
+  size: 191, 208
+  orig: 191, 208
+  offset: 0, 0
+  index: -1
+tulongyongshi/zhoubang_yizi
+  rotate: false
+  xy: 352, 23
+  size: 231, 260
+  orig: 231, 260
+  offset: 0, 0
+  index: -1
+tulongyongshi/zuanshi
+  rotate: false
+  xy: 591, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

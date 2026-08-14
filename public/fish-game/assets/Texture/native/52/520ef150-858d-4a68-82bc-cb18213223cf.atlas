@@ -1,0 +1,27 @@
+
+dashengjiangchi.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dating_jiemian/拆分/dasheng/images/d1
+  rotate: false
+  xy: 0, 0
+  size: 508, 83
+  orig: 508, 83
+  offset: 0, 0
+  index: -1
+dating_jiemian/拆分/dasheng/images/d2
+  rotate: false
+  xy: 1021, 0
+  size: 491, 83
+  orig: 491, 83
+  offset: 0, 0
+  index: -1
+dating_jiemian/拆分/dasheng/images/jiangchidi
+  rotate: false
+  xy: 515, 7
+  size: 499, 76
+  orig: 499, 76
+  offset: 0, 0
+  index: -1

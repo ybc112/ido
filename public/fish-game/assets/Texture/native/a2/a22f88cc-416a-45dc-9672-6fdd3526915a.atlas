@@ -1,0 +1,62 @@
+
+xiarikh_daojuk.png
+size: 431,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kk_01
+  rotate: false
+  xy: 110, 111
+  size: 107, 110
+  orig: 150, 150
+  offset: 26, 15
+  index: -1
+kk_02
+  rotate: false
+  xy: 330, 109
+  size: 100, 112
+  orig: 150, 150
+  offset: 33, 15
+  index: -1
+kk_03
+  rotate: false
+  xy: 1, 111
+  size: 108, 110
+  orig: 150, 150
+  offset: 25, 18
+  index: -1
+kk_04
+  rotate: true
+  xy: 1, 1
+  size: 109, 103
+  orig: 150, 150
+  offset: 23, 25
+  index: -1
+kk_05
+  rotate: true
+  xy: 218, 115
+  size: 106, 111
+  orig: 150, 150
+  offset: 23, 17
+  index: -1
+kk_06
+  rotate: true
+  xy: 317, 9
+  size: 99, 112
+  orig: 150, 150
+  offset: 23, 15
+  index: -1
+kk_07
+  rotate: false
+  xy: 208, 2
+  size: 108, 108
+  orig: 150, 150
+  offset: 23, 15
+  index: -1
+kk_08
+  rotate: true
+  xy: 105, 1
+  size: 109, 102
+  orig: 150, 150
+  offset: 23, 15
+  index: -1

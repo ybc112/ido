@@ -1,0 +1,41 @@
+
+paopao_meihua.png
+size: 335,335
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3/黑红梅方彩券/气泡
+  rotate: false
+  xy: 2, 122
+  size: 208, 211
+  orig: 208, 211
+  offset: 0, 0
+  index: -1
+3/黑红梅方彩券/草花1
+  rotate: false
+  xy: 2, 2
+  size: 124, 118
+  orig: 128, 128
+  offset: 2, 5
+  index: -1
+3/黑红梅方彩券/草花2
+  rotate: false
+  xy: 212, 212
+  size: 96, 121
+  orig: 128, 128
+  offset: 16, 3
+  index: -1
+3/黑红梅方彩券/草花3
+  rotate: false
+  xy: 128, 3
+  size: 75, 117
+  orig: 128, 128
+  offset: 27, 5
+  index: -1
+3/黑红梅方彩券/草花4
+  rotate: false
+  xy: 310, 214
+  size: 19, 119
+  orig: 128, 128
+  offset: 55, 4
+  index: -1

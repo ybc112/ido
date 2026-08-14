@@ -1,0 +1,62 @@
+
+xiarikh_jiangbei1.png
+size: 285,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiangbei_1
+  rotate: false
+  xy: 1, 79
+  size: 92, 83
+  orig: 102, 102
+  offset: 5, 6
+  index: -1
+jiangbei_1_01
+  rotate: false
+  xy: 174, 9
+  size: 45, 71
+  orig: 102, 102
+  offset: 6, 8
+  index: -1
+jiangbei_1_02
+  rotate: false
+  xy: 183, 82
+  size: 69, 80
+  orig: 102, 102
+  offset: 5, 8
+  index: -1
+jiangbei_1_03
+  rotate: true
+  xy: 1, 1
+  size: 77, 81
+  orig: 102, 102
+  offset: 5, 8
+  index: -1
+jiangbei_1_04
+  rotate: false
+  xy: 94, 81
+  size: 88, 81
+  orig: 102, 102
+  offset: 6, 8
+  index: -1
+jiangbei_1_05
+  rotate: false
+  xy: 94, 1
+  size: 79, 79
+  orig: 102, 102
+  offset: 17, 10
+  index: -1
+jiangbei_1_06
+  rotate: true
+  xy: 220, 25
+  size: 56, 52
+  orig: 102, 102
+  offset: 41, 37
+  index: -1
+jiangbei_1_07
+  rotate: false
+  xy: 253, 123
+  size: 31, 39
+  orig: 102, 102
+  offset: 65, 49
+  index: -1

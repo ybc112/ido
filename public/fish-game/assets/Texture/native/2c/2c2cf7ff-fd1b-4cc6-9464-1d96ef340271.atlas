@@ -1,0 +1,62 @@
+
+glow_yueka.png
+size: 1052,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhouka yueka/title_yueka_00
+  rotate: false
+  xy: 994, 28
+  size: 57, 97
+  orig: 273, 129
+  offset: 2, 0
+  index: -1
+zhouka yueka/title_yueka_01
+  rotate: true
+  xy: 819, 19
+  size: 106, 102
+  orig: 273, 129
+  offset: 1, 0
+  index: -1
+zhouka yueka/title_yueka_02
+  rotate: false
+  xy: 561, 7
+  size: 147, 118
+  orig: 273, 129
+  offset: 2, 0
+  index: -1
+zhouka yueka/title_yueka_03
+  rotate: false
+  xy: 202, 3
+  size: 186, 122
+  orig: 273, 129
+  offset: 7, 1
+  index: -1
+zhouka yueka/title_yueka_04
+  rotate: false
+  xy: 1, 2
+  size: 200, 123
+  orig: 273, 129
+  offset: 53, 5
+  index: -1
+zhouka yueka/title_yueka_05
+  rotate: false
+  xy: 389, 5
+  size: 171, 120
+  orig: 273, 129
+  offset: 102, 9
+  index: -1
+zhouka yueka/title_yueka_06
+  rotate: true
+  xy: 709, 1
+  size: 124, 109
+  orig: 273, 129
+  offset: 149, 20
+  index: -1
+zhouka yueka/title_yueka_07
+  rotate: false
+  xy: 922, 16
+  size: 71, 109
+  orig: 273, 129
+  offset: 202, 20
+  index: -1

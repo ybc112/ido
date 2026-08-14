@@ -1,0 +1,20 @@
+
+paotai_anim5.png
+size: 214,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo5
+  rotate: false
+  xy: 142, 40
+  size: 71, 77
+  orig: 71, 78
+  offset: 0, 1
+  index: -1
+pao5
+  rotate: true
+  xy: 1, 1
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1

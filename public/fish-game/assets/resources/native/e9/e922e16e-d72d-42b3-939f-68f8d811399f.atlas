@@ -1,0 +1,83 @@
+
+yuwang2.png
+size: 320,272
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxingdaji2/Resources/hongsewang
+  rotate: false
+  xy: 1, 156
+  size: 115, 115
+  orig: 127, 127
+  offset: 6, 6
+  index: -1
+xingxingdaji2/Resources/xx_00000
+  rotate: false
+  xy: 1, 5
+  size: 25, 24
+  orig: 152, 152
+  offset: 70, 61
+  index: -1
+xingxingdaji2/Resources/xx_00002
+  rotate: false
+  xy: 260, 74
+  size: 47, 42
+  orig: 152, 152
+  offset: 60, 55
+  index: -1
+xingxingdaji2/Resources/xx_00004
+  rotate: false
+  xy: 260, 117
+  size: 53, 53
+  orig: 152, 152
+  offset: 59, 49
+  index: -1
+xingxingdaji2/Resources/xx_00006
+  rotate: false
+  xy: 253, 8
+  size: 65, 65
+  orig: 152, 152
+  offset: 53, 43
+  index: -1
+xingxingdaji2/Resources/xx_00008
+  rotate: false
+  xy: 175, 1
+  size: 77, 77
+  orig: 152, 152
+  offset: 47, 37
+  index: -1
+xingxingdaji2/Resources/xx_00010
+  rotate: false
+  xy: 175, 79
+  size: 84, 85
+  orig: 152, 152
+  offset: 41, 35
+  index: -1
+xingxingdaji2/Resources/xx_00012
+  rotate: true
+  xy: 224, 171
+  size: 100, 95
+  orig: 152, 152
+  offset: 35, 31
+  index: -1
+xingxingdaji2/Resources/xx_00014
+  rotate: false
+  xy: 117, 165
+  size: 106, 106
+  orig: 152, 152
+  offset: 30, 26
+  index: -1
+xingxingdaji2/Resources/xx_00016
+  rotate: false
+  xy: 91, 37
+  size: 83, 118
+  orig: 152, 152
+  offset: 24, 20
+  index: -1
+xingxingdaji2/Resources/xx_00018
+  rotate: false
+  xy: 1, 30
+  size: 89, 125
+  orig: 152, 152
+  offset: 18, 18
+  index: -1

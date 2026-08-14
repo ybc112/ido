@@ -1,0 +1,34 @@
+
+baihu_laixi.png
+size: 958,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_laixi/caishen/baihu
+  rotate: false
+  xy: 1, 12
+  size: 631, 348
+  orig: 631, 348
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/boss
+  rotate: true
+  xy: 633, 1
+  size: 359, 215
+  orig: 359, 215
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/faguang
+  rotate: true
+  xy: 901, 303
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+boss_laixi/caishen/jishayoujilv
+  rotate: true
+  xy: 849, 33
+  size: 327, 51
+  orig: 327, 51
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+Haibao_yaojiang.png
+size: 221,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newfishes/haibao_xulie/chuxian1
+  rotate: false
+  xy: 124, 147
+  size: 83, 35
+  orig: 121, 50
+  offset: 18, 8
+  index: -1
+newfishes/haibao_xulie/chuxian2
+  rotate: true
+  xy: 76, 5
+  size: 88, 35
+  orig: 121, 50
+  offset: 16, 8
+  index: -1
+newfishes/haibao_xulie/chuxian3
+  rotate: false
+  xy: 124, 184
+  size: 94, 35
+  orig: 121, 50
+  offset: 14, 8
+  index: -1
+newfishes/haibao_xulie/chuxian4
+  rotate: true
+  xy: 113, 12
+  size: 96, 35
+  orig: 121, 50
+  offset: 13, 8
+  index: -1
+newfishes/haibao_xulie/chuxian5
+  rotate: false
+  xy: 2, 132
+  size: 97, 35
+  orig: 121, 50
+  offset: 13, 8
+  index: -1
+newfishes/haibao_xulie/chuxian6
+  rotate: true
+  xy: 150, 11
+  size: 97, 31
+  orig: 121, 50
+  offset: 13, 9
+  index: -1
+newfishes/haibao_xulie/chuxian7
+  rotate: true
+  xy: 183, 11
+  size: 97, 25
+  orig: 121, 50
+  offset: 13, 13
+  index: -1
+newfishes/haibao_xulie/xunhuan3
+  rotate: true
+  xy: 183, 11
+  size: 97, 25
+  orig: 121, 50
+  offset: 13, 13
+  index: -1
+newfishes/haibao_xulie/xulie_k1
+  rotate: false
+  xy: 2, 169
+  size: 120, 50
+  orig: 121, 50
+  offset: 1, 0
+  index: -1
+newfishes/haibao_xulie/xunhuan1
+  rotate: true
+  xy: 2, 2
+  size: 91, 35
+  orig: 121, 50
+  offset: 15, 8
+  index: -1
+newfishes/haibao_xulie/xunhuan2
+  rotate: false
+  xy: 2, 95
+  size: 97, 35
+  orig: 121, 50
+  offset: 13, 8
+  index: -1
+newfishes/haibao_xulie/xunhuan4
+  rotate: false
+  xy: 101, 110
+  size: 97, 35
+  orig: 121, 50
+  offset: 13, 8
+  index: -1
+newfishes/haibao_xulie/xunhuan5
+  rotate: true
+  xy: 39, 3
+  size: 90, 35
+  orig: 121, 50
+  offset: 15, 8
+  index: -1

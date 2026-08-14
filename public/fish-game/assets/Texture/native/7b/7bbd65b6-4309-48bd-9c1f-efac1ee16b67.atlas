@@ -1,0 +1,230 @@
+
+baofunew_front.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/暴富/Bottom frame
+  rotate: false
+  xy: 1, 188
+  size: 429, 125
+  orig: 429, 125
+  offset: 0, 0
+  index: -1
+4/暴富/Riband
+  rotate: false
+  xy: 1, 314
+  size: 579, 197
+  orig: 579, 197
+  offset: 0, 0
+  index: -1
+4/暴富/img_huangguan
+  rotate: false
+  xy: 868, 9
+  size: 111, 99
+  orig: 111, 99
+  offset: 0, 0
+  index: -1
+4/暴富/img_star2
+  rotate: true
+  xy: 1339, 44
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+4/暴富/img_star3
+  rotate: false
+  xy: 1243, 28
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+4/暴富/img_star4
+  rotate: false
+  xy: 375, 59
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+4/暴富/title_baofu
+  rotate: false
+  xy: 1, 29
+  size: 373, 158
+  orig: 373, 158
+  offset: 0, 0
+  index: -1
+4/暴富/title_baofu_001
+  rotate: false
+  xy: 825, 229
+  size: 172, 151
+  orig: 380, 160
+  offset: 7, 4
+  index: -1
+4/暴富/title_baofu_002
+  rotate: false
+  xy: 1234, 229
+  size: 206, 150
+  orig: 380, 160
+  offset: 19, 9
+  index: -1
+4/暴富/title_baofu_003
+  rotate: false
+  xy: 998, 231
+  size: 235, 148
+  orig: 380, 160
+  offset: 42, 10
+  index: -1
+4/暴富/title_baofu_004
+  rotate: true
+  xy: 431, 83
+  size: 230, 135
+  orig: 380, 160
+  offset: 101, 16
+  index: -1
+4/暴富/title_baofu_005
+  rotate: false
+  xy: 792, 109
+  size: 205, 119
+  orig: 380, 160
+  offset: 150, 14
+  index: -1
+4/暴富/title_baofu_006
+  rotate: false
+  xy: 1441, 167
+  size: 172, 111
+  orig: 380, 160
+  offset: 193, 12
+  index: -1
+4/暴富/title_baofu_007
+  rotate: true
+  xy: 1774, 125
+  size: 143, 110
+  orig: 380, 160
+  offset: 228, 13
+  index: -1
+4/暴富/title_facaila
+  rotate: false
+  xy: 1006, 380
+  size: 355, 131
+  orig: 355, 131
+  offset: 0, 0
+  index: -1
+4/暴富/title_facaila_000
+  rotate: false
+  xy: 1141, 5
+  size: 101, 105
+  orig: 355, 131
+  offset: 16, 7
+  index: -1
+4/暴富/title_facaila_001
+  rotate: false
+  xy: 1614, 148
+  size: 159, 120
+  orig: 355, 131
+  offset: 4, 7
+  index: -1
+4/暴富/title_facaila_002
+  rotate: false
+  xy: 1441, 279
+  size: 198, 121
+  orig: 355, 131
+  offset: 16, 10
+  index: -1
+4/暴富/title_facaila_003
+  rotate: false
+  xy: 1640, 269
+  size: 240, 125
+  orig: 355, 131
+  offset: 32, 5
+  index: -1
+4/暴富/title_facaila_004
+  rotate: false
+  xy: 567, 136
+  size: 224, 122
+  orig: 355, 131
+  offset: 101, 1
+  index: -1
+4/暴富/title_facaila_005
+  rotate: false
+  xy: 1198, 111
+  size: 190, 117
+  orig: 355, 131
+  offset: 154, 0
+  index: -1
+4/暴富/title_facaila_006
+  rotate: false
+  xy: 1898, 399
+  size: 149, 112
+  orig: 355, 131
+  offset: 200, 0
+  index: -1
+4/暴富/title_facaila_007
+  rotate: false
+  xy: 758, 1
+  size: 109, 107
+  orig: 355, 131
+  offset: 241, 1
+  index: -1
+4/暴富/title_fadacaila
+  rotate: false
+  xy: 581, 381
+  size: 424, 130
+  orig: 424, 130
+  offset: 0, 0
+  index: -1
+4/暴富/title_fadacaila_000
+  rotate: false
+  xy: 375, 95
+  size: 55, 92
+  orig: 424, 130
+  offset: 26, 9
+  index: -1
+4/暴富/title_fadacaila_001
+  rotate: false
+  xy: 1898, 286
+  size: 127, 112
+  orig: 424, 130
+  offset: 8, 8
+  index: -1
+4/暴富/title_fadacaila_002
+  rotate: false
+  xy: 567, 15
+  size: 190, 120
+  orig: 424, 130
+  offset: 8, 8
+  index: -1
+4/暴富/title_fadacaila_003
+  rotate: false
+  xy: 581, 259
+  size: 243, 121
+  orig: 424, 130
+  offset: 26, 9
+  index: -1
+4/暴富/title_fadacaila_004
+  rotate: false
+  xy: 1362, 401
+  size: 279, 110
+  orig: 424, 130
+  offset: 75, 14
+  index: -1
+4/暴富/title_fadacaila_005
+  rotate: false
+  xy: 1642, 395
+  size: 255, 116
+  orig: 424, 130
+  offset: 146, 3
+  index: -1
+4/暴富/title_fadacaila_006
+  rotate: false
+  xy: 998, 115
+  size: 199, 115
+  orig: 424, 130
+  offset: 214, 2
+  index: -1
+4/暴富/title_fadacaila_007
+  rotate: false
+  xy: 998, 5
+  size: 142, 109
+  orig: 424, 130
+  offset: 274, 1
+  index: -1

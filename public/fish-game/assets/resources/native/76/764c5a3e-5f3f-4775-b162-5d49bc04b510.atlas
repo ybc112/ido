@@ -1,0 +1,27 @@
+
+fish06.png
+size: 48,28
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/河豚鱼拆分/hedunyuchib
+  rotate: false
+  xy: 38, 17
+  size: 10, 11
+  orig: 38, 77
+  offset: 10, 39
+  index: -1
+H5Newfishes/河豚鱼拆分/hedunyushenti
+  rotate: true
+  xy: 0, 0
+  size: 28, 38
+  orig: 38, 77
+  offset: 5, 22
+  index: -1
+H5Newfishes/河豚鱼拆分/hedunyuyuzui
+  rotate: false
+  xy: 38, 13
+  size: 10, 4
+  orig: 38, 77
+  offset: 14, 58
+  index: -1

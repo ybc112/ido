@@ -1,0 +1,69 @@
+
+fx_kelingqu.png
+size: 783,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_kelingqu_01
+  rotate: false
+  xy: 1, 2
+  size: 89, 89
+  orig: 100, 100
+  offset: 8, 2
+  index: -1
+fx_kelingqu_02
+  rotate: true
+  xy: 693, 8
+  size: 83, 89
+  orig: 100, 100
+  offset: 14, 4
+  index: -1
+fx_kelingqu_03
+  rotate: false
+  xy: 181, 2
+  size: 88, 89
+  orig: 100, 100
+  offset: 9, 5
+  index: -1
+fx_kelingqu_04
+  rotate: true
+  xy: 525, 1
+  size: 90, 83
+  orig: 100, 100
+  offset: 6, 11
+  index: -1
+fx_kelingqu_05
+  rotate: true
+  xy: 270, 1
+  size: 90, 84
+  orig: 100, 100
+  offset: 5, 10
+  index: -1
+fx_kelingqu_06
+  rotate: false
+  xy: 355, 1
+  size: 84, 90
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+fx_kelingqu_07
+  rotate: false
+  xy: 440, 2
+  size: 84, 89
+  orig: 100, 100
+  offset: 4, 3
+  index: -1
+fx_kelingqu_08
+  rotate: false
+  xy: 91, 2
+  size: 89, 89
+  orig: 100, 100
+  offset: 5, 2
+  index: -1
+fx_kelingqu_09
+  rotate: true
+  xy: 609, 2
+  size: 89, 83
+  orig: 100, 100
+  offset: 6, 2
+  index: -1

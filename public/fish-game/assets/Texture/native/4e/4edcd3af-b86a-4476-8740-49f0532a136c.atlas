@@ -1,0 +1,20 @@
+
+yongquan.png
+size: 277,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+laoyuhuodong/yuwang/yongquan
+  rotate: false
+  xy: 147, 6
+  size: 129, 111
+  orig: 129, 111
+  offset: 0, 0
+  index: -1
+laoyuhuodong/yuwang/yongquan_bowen
+  rotate: false
+  xy: 1, 1
+  size: 145, 116
+  orig: 145, 116
+  offset: 0, 0
+  index: -1

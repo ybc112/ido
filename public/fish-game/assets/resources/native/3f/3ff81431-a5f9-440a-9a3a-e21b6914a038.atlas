@@ -1,0 +1,230 @@
+
+beike.png
+size: 1907,1074
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/贝壳序列帧/1
+  rotate: false
+  xy: 598, 245
+  size: 256, 264
+  orig: 263, 318
+  offset: 1, 42
+  index: -1
+4/贝壳序列帧/10
+  rotate: false
+  xy: 1, 453
+  size: 254, 287
+  orig: 263, 318
+  offset: 9, 0
+  index: -1
+4/贝壳序列帧/11
+  rotate: true
+  xy: 1659, 18
+  size: 254, 247
+  orig: 263, 318
+  offset: 9, 46
+  index: -1
+4/贝壳序列帧/12
+  rotate: false
+  xy: 1160, 3
+  size: 253, 248
+  orig: 263, 318
+  offset: 8, 50
+  index: -1
+4/贝壳序列帧/13
+  rotate: false
+  xy: 855, 252
+  size: 254, 264
+  orig: 263, 318
+  offset: 7, 41
+  index: -1
+4/贝壳序列帧/14
+  rotate: false
+  xy: 511, 648
+  size: 255, 266
+  orig: 263, 318
+  offset: 5, 52
+  index: -1
+4/贝壳序列帧/15
+  rotate: false
+  xy: 1101, 517
+  size: 255, 264
+  orig: 263, 318
+  offset: 4, 50
+  index: -1
+4/贝壳序列帧/16
+  rotate: false
+  xy: 1110, 252
+  size: 255, 264
+  orig: 263, 318
+  offset: 3, 47
+  index: -1
+4/贝壳序列帧/2
+  rotate: false
+  xy: 844, 517
+  size: 256, 264
+  orig: 263, 318
+  offset: 0, 34
+  index: -1
+4/贝壳序列帧/3
+  rotate: false
+  xy: 1357, 521
+  size: 256, 262
+  orig: 263, 318
+  offset: 0, 31
+  index: -1
+4/贝壳序列帧/4
+  rotate: false
+  xy: 1614, 530
+  size: 256, 258
+  orig: 263, 318
+  offset: 1, 29
+  index: -1
+4/贝壳序列帧/5
+  rotate: false
+  xy: 1366, 263
+  size: 255, 257
+  orig: 263, 318
+  offset: 2, 27
+  index: -1
+4/贝壳序列帧/6
+  rotate: true
+  xy: 1622, 273
+  size: 256, 254
+  orig: 263, 318
+  offset: 4, 27
+  index: -1
+4/贝壳序列帧/7
+  rotate: false
+  xy: 903, 1
+  size: 256, 250
+  orig: 263, 318
+  offset: 4, 29
+  index: -1
+4/贝壳序列帧/8
+  rotate: true
+  xy: 1414, 7
+  size: 255, 244
+  orig: 263, 318
+  offset: 7, 34
+  index: -1
+4/贝壳序列帧/9
+  rotate: false
+  xy: 256, 474
+  size: 254, 266
+  orig: 263, 318
+  offset: 9, 17
+  index: -1
+4/贝壳序列帧/bk/nn_1
+  rotate: false
+  xy: 304, 12
+  size: 245, 101
+  orig: 500, 500
+  offset: 128, 101
+  index: -1
+4/贝壳序列帧/bk/nn_10
+  rotate: true
+  xy: 304, 114
+  size: 359, 148
+  orig: 500, 500
+  offset: 75, 77
+  index: -1
+4/贝壳序列帧/bk/nn_11
+  rotate: true
+  xy: 1, 76
+  size: 376, 154
+  orig: 500, 500
+  offset: 67, 74
+  index: -1
+4/贝壳序列帧/bk/nn_13
+  rotate: false
+  xy: 1168, 920
+  size: 372, 153
+  orig: 500, 500
+  offset: 70, 75
+  index: -1
+4/贝壳序列帧/bk/nn_17
+  rotate: false
+  xy: 1, 905
+  size: 396, 168
+  orig: 500, 500
+  offset: 52, 66
+  index: -1
+4/贝壳序列帧/bk/nn_18
+  rotate: false
+  xy: 1, 741
+  size: 391, 163
+  orig: 500, 500
+  offset: 57, 69
+  index: -1
+4/贝壳序列帧/bk/nn_19
+  rotate: false
+  xy: 785, 916
+  size: 382, 157
+  orig: 500, 500
+  offset: 62, 71
+  index: -1
+4/贝壳序列帧/bk/nn_2
+  rotate: false
+  xy: 598, 119
+  size: 304, 125
+  orig: 500, 500
+  offset: 97, 89
+  index: -1
+4/贝壳序列帧/bk/nn_21
+  rotate: false
+  xy: 398, 915
+  size: 386, 158
+  orig: 500, 500
+  offset: 60, 69
+  index: -1
+4/贝壳序列帧/bk/nn_3
+  rotate: false
+  xy: 844, 782
+  size: 323, 133
+  orig: 500, 500
+  offset: 94, 84
+  index: -1
+4/贝壳序列帧/bk/nn_4
+  rotate: false
+  xy: 1541, 789
+  size: 331, 136
+  orig: 500, 500
+  offset: 91, 85
+  index: -1
+4/贝壳序列帧/bk/nn_5
+  rotate: true
+  xy: 156, 93
+  size: 359, 147
+  orig: 500, 500
+  offset: 77, 78
+  index: -1
+4/贝壳序列帧/bk/nn_6
+  rotate: false
+  xy: 1541, 926
+  size: 361, 147
+  orig: 500, 500
+  offset: 75, 78
+  index: -1
+4/贝壳序列帧/bk/nn_7
+  rotate: true
+  xy: 453, 121
+  size: 352, 144
+  orig: 500, 500
+  offset: 81, 80
+  index: -1
+4/贝壳序列帧/bk/nn_8
+  rotate: false
+  xy: 511, 510
+  size: 332, 137
+  orig: 500, 500
+  offset: 92, 82
+  index: -1
+4/贝壳序列帧/bk/nn_9
+  rotate: false
+  xy: 1168, 784
+  size: 330, 135
+  orig: 500, 500
+  offset: 89, 84
+  index: -1

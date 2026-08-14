@@ -1,0 +1,48 @@
+
+zhuijihuolong.png
+size: 398,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+houtui
+  rotate: true
+  xy: 310, 114
+  size: 48, 87
+  orig: 50, 89
+  offset: 1, 1
+  index: -1
+long
+  rotate: false
+  xy: 1, 8
+  size: 224, 154
+  orig: 226, 156
+  offset: 1, 1
+  index: -1
+qiantui
+  rotate: true
+  xy: 226, 1
+  size: 56, 94
+  orig: 58, 96
+  offset: 1, 1
+  index: -1
+youchi
+  rotate: true
+  xy: 226, 58
+  size: 104, 83
+  orig: 106, 85
+  offset: 1, 1
+  index: -1
+zui
+  rotate: false
+  xy: 310, 70
+  size: 70, 43
+  orig: 72, 45
+  offset: 1, 1
+  index: -1
+zuochi
+  rotate: false
+  xy: 321, 5
+  size: 57, 64
+  orig: 59, 66
+  offset: 1, 1
+  index: -1

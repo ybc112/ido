@@ -1,0 +1,48 @@
+
+baofunew_back.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4/暴富/img_guangxiao
+  rotate: false
+  xy: 802, 441
+  size: 612, 518
+  orig: 612, 518
+  offset: 0, 0
+  index: -1
+4/暴富/img_heart2
+  rotate: false
+  xy: 1415, 507
+  size: 549, 452
+  orig: 549, 452
+  offset: 0, 0
+  index: -1
+4/暴富/img_jinbi
+  rotate: false
+  xy: 1, 50
+  size: 498, 108
+  orig: 498, 108
+  offset: 0, 0
+  index: -1
+4/暴富/light1
+  rotate: false
+  xy: 802, 68
+  size: 473, 372
+  orig: 473, 372
+  offset: 0, 0
+  index: -1
+4/暴富/light2
+  rotate: true
+  xy: 1276, 1
+  size: 439, 315
+  orig: 473, 372
+  offset: 17, 50
+  index: -1
+4/暴富/light3
+  rotate: false
+  xy: 1, 159
+  size: 800, 800
+  orig: 800, 800
+  offset: 0, 0
+  index: -1

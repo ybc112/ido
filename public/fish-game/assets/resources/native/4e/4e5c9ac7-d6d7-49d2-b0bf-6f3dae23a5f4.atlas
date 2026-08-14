@@ -1,0 +1,13 @@
+
+fish_kundan.png
+size: 154,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H5Newfishes/魔鲲巨兽/yu_kundan
+  rotate: false
+  xy: 1, 1
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+WuzhaungJusha_laixi.png
+size: 428,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Wuzhuangjushalaixi/img_shark
+  rotate: false
+  xy: 122, 188
+  size: 306, 354
+  orig: 306, 354
+  offset: 0, 0
+  index: -1
+Wuzhuangjushalaixi/text_wuzhuangjusha
+  rotate: true
+  xy: 0, 0
+  size: 542, 122
+  orig: 542, 122
+  offset: 0, 0
+  index: -1

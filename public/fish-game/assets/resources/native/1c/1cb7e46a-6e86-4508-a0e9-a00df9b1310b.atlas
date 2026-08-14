@@ -1,0 +1,76 @@
+
+zidongkp_UI.png
+size: 961,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UI2/buyuchangnei/renwu/zidongkp_00000
+  rotate: true
+  xy: 387, 1
+  size: 97, 96
+  orig: 120, 120
+  offset: 14, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00001
+  rotate: true
+  xy: 483, 1
+  size: 97, 96
+  orig: 120, 120
+  offset: 14, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00002
+  rotate: false
+  xy: 0, 0
+  size: 97, 98
+  orig: 120, 120
+  offset: 14, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00003
+  rotate: false
+  xy: 867, 0
+  size: 94, 98
+  orig: 120, 120
+  offset: 17, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00004
+  rotate: false
+  xy: 291, 0
+  size: 96, 98
+  orig: 120, 120
+  offset: 14, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00005
+  rotate: false
+  xy: 579, 1
+  size: 96, 97
+  orig: 120, 120
+  offset: 14, 9
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00006
+  rotate: false
+  xy: 675, 1
+  size: 96, 97
+  orig: 120, 120
+  offset: 14, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00007
+  rotate: false
+  xy: 194, 1
+  size: 97, 97
+  orig: 120, 120
+  offset: 13, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00008
+  rotate: true
+  xy: 771, 1
+  size: 97, 96
+  orig: 120, 120
+  offset: 13, 8
+  index: -1
+UI2/buyuchangnei/renwu/zidongkp_00009
+  rotate: true
+  xy: 97, 0
+  size: 98, 97
+  orig: 120, 120
+  offset: 13, 7
+  index: -1

@@ -1,0 +1,76 @@
+
+fish_juxie.png
+size: 547,547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+newfishes/fish_juxie/1
+  rotate: true
+  xy: 2, 92
+  size: 277, 87
+  orig: 279, 90
+  offset: 1, 0
+  index: -1
+newfishes/fish_juxie/2
+  rotate: false
+  xy: 203, 366
+  size: 274, 87
+  orig: 279, 90
+  offset: 4, 0
+  index: -1
+newfishes/fish_juxie/3
+  rotate: false
+  xy: 180, 189
+  size: 273, 86
+  orig: 279, 90
+  offset: 2, 0
+  index: -1
+newfishes/fish_juxie/4
+  rotate: false
+  xy: 203, 455
+  size: 272, 90
+  orig: 279, 90
+  offset: 6, 0
+  index: -1
+newfishes/fish_juxie/5
+  rotate: false
+  xy: 2, 2
+  size: 269, 88
+  orig: 279, 90
+  offset: 4, 0
+  index: -1
+newfishes/fish_juxie/6
+  rotate: true
+  xy: 91, 92
+  size: 277, 87
+  orig: 279, 90
+  offset: 1, 0
+  index: -1
+newfishes/fish_juxie/7
+  rotate: false
+  xy: 180, 277
+  size: 275, 87
+  orig: 279, 90
+  offset: 0, 2
+  index: -1
+newfishes/fish_juxie/body
+  rotate: false
+  xy: 2, 371
+  size: 199, 174
+  orig: 199, 174
+  offset: 0, 0
+  index: -1
+newfishes/fish_juxie/leg
+  rotate: false
+  xy: 477, 492
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+newfishes/fish_juxie/qianzi
+  rotate: false
+  xy: 180, 102
+  size: 99, 85
+  orig: 99, 85
+  offset: 0, 0
+  index: -1

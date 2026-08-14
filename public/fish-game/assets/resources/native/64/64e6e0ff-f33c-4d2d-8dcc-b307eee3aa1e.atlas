@@ -1,0 +1,13 @@
+
+pochan.png
+size: 198,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pochan
+  rotate: false
+  xy: 0, 0
+  size: 198, 94
+  orig: 198, 94
+  offset: 0, 0
+  index: -1
