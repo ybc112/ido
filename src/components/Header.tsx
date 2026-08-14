@@ -5,7 +5,7 @@ const navItems = [
   { href: "#staking", label: "质押分红", icon: Coins },
   { href: "#floor-price", label: "托底价", icon: ShieldCheck },
   { href: "#exit", label: "退出机制", icon: Flame },
-  { href: "/fish-game", label: "捕鱼游戏", icon: Ship, external: true },
+  { href: "/fish-game/", label: "捕鱼游戏", icon: Ship, external: true },
 ];
 
 export function Header() {

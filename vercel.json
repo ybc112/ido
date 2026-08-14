@@ -1,5 +1,11 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/fish-game",
+      "destination": "/fish-game/"
+    }
+  ],
   "rewrites": [
     {
       "source": "/(.*)",
