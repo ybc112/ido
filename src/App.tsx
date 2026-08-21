@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import FishGame from "./pages/FishGame";
 import { Header } from "./components/Header";
+import { Announcement } from "./components/Announcement";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           element={
             <div className="relative min-h-screen">
               <Header />
+              <Announcement />
               <main>
                 <Home />
               </main>

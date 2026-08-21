@@ -197,6 +197,22 @@ body {
   animation: glow-pulse 3.2s ease-in-out infinite;
 }
 
+/* ───────── 公告跑马灯 ───────── */
+@keyframes announce-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.announce-marquee {
+  animation: announce-marquee 60s linear infinite;
+}
+.announce-marquee:hover {
+  animation-play-state: paused;
+}
+
 /* ───────── 曲线绘制动画（SVG） ───────── */
 @keyframes draw-line {
   from {
