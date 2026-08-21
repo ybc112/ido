@@ -197,20 +197,19 @@ body {
   animation: glow-pulse 3.2s ease-in-out infinite;
 }
 
-/* ───────── 公告跑马灯 ───────── */
-@keyframes announce-marquee {
+/* ───────── 公告弹窗 ───────── */
+@keyframes announce-modal {
   from {
-    transform: translateX(0);
+    opacity: 0;
+    transform: translateY(16px) scale(0.96);
   }
   to {
-    transform: translateX(-50%);
+    opacity: 1;
+    transform: translateY(0) scale(1);
   }
 }
-.announce-marquee {
-  animation: announce-marquee 60s linear infinite;
-}
-.announce-marquee:hover {
-  animation-play-state: paused;
+.announce-modal {
+  animation: announce-modal 220ms ease-out;
 }
 
 /* ───────── 曲线绘制动画（SVG） ───────── */
